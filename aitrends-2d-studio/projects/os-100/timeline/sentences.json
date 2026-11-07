@@ -1,0 +1,392 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 1.32,
+  "text": "Você tem 10 minutos."
+ },
+ {
+  "i": 1,
+  "start": 1.76,
+  "end": 4.72,
+  "text": "Se fizer um único som, o chão some."
+ },
+ {
+  "i": 2,
+  "start": 5.24,
+  "end": 5.98,
+  "text": "Restam 100."
+ },
+ {
+  "i": 3,
+  "start": 6.66,
+  "end": 8.88,
+  "text": "Você acorda num chão branco e frio."
+ },
+ {
+  "i": 4,
+  "start": 9.32,
+  "end": 12.08,
+  "text": "Ao seu redor, 99 desconhecidos."
+ },
+ {
+  "i": 5,
+  "start": 12.6,
+  "end": 15.26,
+  "text": "No seu peito, um número, 77."
+ },
+ {
+  "i": 6,
+  "start": 16.28,
+  "end": 19.62,
+  "text": "Ontem, um envelope preto apareceu debaixo da sua porta."
+ },
+ {
+  "i": 7,
+  "start": 20.06,
+  "end": 21.28,
+  "text": "Dentro, uma frase."
+ },
+ {
+  "i": 8,
+  "start": 21.96,
+  "end": 23.64,
+  "text": "Suas dívidas terminam aqui."
+ },
+ {
+  "i": 9,
+  "start": 24.2,
+  "end": 24.96,
+  "text": "Você aceitou."
+ },
+ {
+  "i": 10,
+  "start": 25.36,
+  "end": 27.14,
+  "text": "Agora, vai descobrir o preço."
+ },
+ {
+  "i": 11,
+  "start": 27.14,
+  "end": 29.26,
+  "text": "Os alto-falantes estalam."
+ },
+ {
+  "i": 12,
+  "start": 29.58,
+  "end": 32.64,
+  "text": "Uma voz calma, quase gentil, enche a sala."
+ },
+ {
+  "i": 13,
+  "start": 33.1,
+  "end": 33.76,
+  "text": "Bem-vindos."
+ },
+ {
+  "i": 14,
+  "start": 34.34,
+  "end": 34.82,
+  "text": "Jogo 1."
+ },
+ {
+  "i": 15,
+  "start": 35.2,
+  "end": 35.9,
+  "text": "Silêncio."
+ },
+ {
+  "i": 16,
+  "start": 36.42,
+  "end": 38.64,
+  "text": "Quem sobreviver ganha 100 mil reais."
+ },
+ {
+  "i": 17,
+  "start": 39.22,
+  "end": 42.08,
+  "text": "Quem fizer qualquer som será eliminado."
+ },
+ {
+  "i": 18,
+  "start": 42.52,
+  "end": 44.38,
+  "text": "Na parede, um relógio acende."
+ },
+ {
+  "i": 19,
+  "start": 44.98,
+  "end": 45.64,
+  "text": "10 minutos."
+ },
+ {
+  "i": 20,
+  "start": 46.26,
+  "end": 47.38,
+  "text": "Ninguém se mexe."
+ },
+ {
+  "i": 21,
+  "start": 47.64,
+  "end": 48.92,
+  "text": "Ninguém respira alto."
+ },
+ {
+  "i": 22,
+  "start": 49.34,
+  "end": 52.34,
+  "text": "Então, os alto-falantes começam a tocar vozes."
+ },
+ {
+  "i": 23,
+  "start": 52.74,
+  "end": 53.78,
+  "text": "Vozes conhecidas."
+ },
+ {
+  "i": 24,
+  "start": 54.26,
+  "end": 55.86,
+  "text": "Uma criança, chamando pelo pai."
+ },
+ {
+  "i": 25,
+  "start": 55.86,
+  "end": 57.78,
+  "text": "Uma mulher chorando um nome."
+ },
+ {
+  "i": 26,
+  "start": 58.2,
+  "end": 60.16,
+  "text": "Um homem perto da parede soluça."
+ },
+ {
+  "i": 27,
+  "start": 60.54,
+  "end": 63.7,
+  "text": "O piso embaixo dele se abre e ele some."
+ },
+ {
+  "i": 28,
+  "start": 64.3,
+  "end": 65.92,
+  "text": "Depois outro e outro."
+ },
+ {
+  "i": 29,
+  "start": 66.38,
+  "end": 67.44,
+  "text": "Faltam 3 minutos."
+ },
+ {
+  "i": 30,
+  "start": 68.02,
+  "end": 68.86,
+  "text": "Aí você ouve."
+ },
+ {
+  "i": 31,
+  "start": 69.2,
+  "end": 70.24,
+  "text": "É a voz da sua mãe."
+ },
+ {
+  "i": 32,
+  "start": 70.68,
+  "end": 71.88,
+  "text": "Ela está chamando você."
+ },
+ {
+  "i": 33,
+  "start": 72.22,
+  "end": 73.18,
+  "text": "Pedindo socorro."
+ },
+ {
+  "i": 34,
+  "start": 73.58,
+  "end": 74.8,
+  "text": "Sua garganta aperta."
+ },
+ {
+  "i": 35,
+  "start": 75.12,
+  "end": 75.96,
+  "text": "O grito sobe."
+ },
+ {
+  "i": 36,
+  "start": 76.3,
+  "end": 79.86,
+  "text": "Você abre a boca e uma mão cobre seu rosto com força."
+ },
+ {
+  "i": 37,
+  "start": 80.34,
+  "end": 81.9,
+  "text": "Um homem de uns 50 anos."
+ },
+ {
+  "i": 38,
+  "start": 82.26,
+  "end": 83.88,
+  "text": "Uma cicatriz na mão esquerda."
+ },
+ {
+  "i": 39,
+  "start": 83.88,
+  "end": 86.04,
+  "text": "No peito, o número 41."
+ },
+ {
+  "i": 40,
+  "start": 86.46,
+  "end": 88.96,
+  "text": "Ele olha nos seus olhos e balança a cabeça."
+ },
+ {
+  "i": 41,
+  "start": 89.44,
+  "end": 90.6,
+  "text": "Você engole o grito."
+ },
+ {
+  "i": 42,
+  "start": 91.04,
+  "end": 92.06,
+  "text": "O relógio zera."
+ },
+ {
+  "i": 43,
+  "start": 92.52,
+  "end": 93.88,
+  "text": "Parabéns aos sobreviventes."
+ },
+ {
+  "i": 44,
+  "start": 94.36,
+  "end": 94.88,
+  "text": "Diz a voz."
+ },
+ {
+  "i": 45,
+  "start": 95.52,
+  "end": 98.7,
+  "text": "100 mil reais foram depositados no saldo de cada um."
+ },
+ {
+  "i": 46,
+  "start": 99.02,
+  "end": 101.2,
+  "text": "O dinheiro dos eliminados foi para o pote."
+ },
+ {
+  "i": 47,
+  "start": 101.62,
+  "end": 104.84,
+  "text": "E lembrem-se, só um de vocês sai daqui com tudo."
+ },
+ {
+  "i": 48,
+  "start": 105.32,
+  "end": 106.24,
+  "text": "Você olha em volta."
+ },
+ {
+  "i": 49,
+  "start": 106.64,
+  "end": 107.7,
+  "text": "Restam 63."
+ },
+ {
+  "i": 50,
+  "start": 108.56,
+  "end": 110.68,
+  "text": "O 41 chega perto e sussurra."
+ },
+ {
+  "i": 51,
+  "start": 110.68,
+  "end": 112.74,
+  "text": "Agora você me deve uma."
+ },
+ {
+  "i": 52,
+  "start": 113.22,
+  "end": 114.08,
+  "text": "A voz volta."
+ },
+ {
+  "i": 53,
+  "start": 114.5,
+  "end": 117.12,
+  "text": "No próximo jogo, vocês jogarão em duplas."
+ },
+ {
+  "i": 54,
+  "start": 117.6,
+  "end": 119.22,
+  "text": "Só um de cada dupla passa."
+ },
+ {
+  "i": 55,
+  "start": 119.66,
+  "end": 120.78,
+  "text": "Jogador 77."
+ },
+ {
+  "i": 56,
+  "start": 121.28,
+  "end": 123.58,
+  "text": "Seu parceiro é o jogador 41."
+ },
+ {
+  "i": 57,
+  "start": 124.1,
+  "end": 125.34,
+  "text": "Ele salvou sua vida."
+ },
+ {
+  "i": 58,
+  "start": 125.76,
+  "end": 128.88,
+  "text": "Mas no próximo jogo, só um de vocês dois sai vivo."
+ },
+ {
+  "i": 59,
+  "start": 129.32,
+  "end": 130.34,
+  "text": "Você confia nele?"
+ },
+ {
+  "i": 60,
+  "start": 130.68,
+  "end": 131.32,
+  "text": "Comente A."
+ },
+ {
+  "i": 61,
+  "start": 131.62,
+  "end": 132.2,
+  "text": "Se confia."
+ },
+ {
+  "i": 62,
+  "start": 132.44,
+  "end": 132.7,
+  "text": "B."
+ },
+ {
+  "i": 63,
+  "start": 133.1,
+  "end": 133.94,
+  "text": "Se não confia."
+ },
+ {
+  "i": 64,
+  "start": 134.26,
+  "end": 136.48,
+  "text": "A sua escolha decide o jogo 2."
+ }
+]

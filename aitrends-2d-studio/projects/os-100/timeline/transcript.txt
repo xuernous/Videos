@@ -1,0 +1,65 @@
+[00:00.00 -> 00:01.32] Você tem 10 minutos.
+[00:01.76 -> 00:04.72] Se fizer um único som, o chão some.
+[00:05.24 -> 00:05.98] Restam 100.
+[00:06.66 -> 00:08.88] Você acorda num chão branco e frio.
+[00:09.32 -> 00:12.08] Ao seu redor, 99 desconhecidos.
+[00:12.60 -> 00:15.26] No seu peito, um número, 77.
+[00:16.28 -> 00:19.62] Ontem, um envelope preto apareceu debaixo da sua porta.
+[00:20.06 -> 00:21.28] Dentro, uma frase.
+[00:21.96 -> 00:23.64] Suas dívidas terminam aqui.
+[00:24.20 -> 00:24.96] Você aceitou.
+[00:25.36 -> 00:27.14] Agora, vai descobrir o preço.
+[00:27.14 -> 00:29.26] Os alto-falantes estalam.
+[00:29.58 -> 00:32.64] Uma voz calma, quase gentil, enche a sala.
+[00:33.10 -> 00:33.76] Bem-vindos.
+[00:34.34 -> 00:34.82] Jogo 1.
+[00:35.20 -> 00:35.90] Silêncio.
+[00:36.42 -> 00:38.64] Quem sobreviver ganha 100 mil reais.
+[00:39.22 -> 00:42.08] Quem fizer qualquer som será eliminado.
+[00:42.52 -> 00:44.38] Na parede, um relógio acende.
+[00:44.98 -> 00:45.64] 10 minutos.
+[00:46.26 -> 00:47.38] Ninguém se mexe.
+[00:47.64 -> 00:48.92] Ninguém respira alto.
+[00:49.34 -> 00:52.34] Então, os alto-falantes começam a tocar vozes.
+[00:52.74 -> 00:53.78] Vozes conhecidas.
+[00:54.26 -> 00:55.86] Uma criança, chamando pelo pai.
+[00:55.86 -> 00:57.78] Uma mulher chorando um nome.
+[00:58.20 -> 01:00.16] Um homem perto da parede soluça.
+[01:00.54 -> 01:03.70] O piso embaixo dele se abre e ele some.
+[01:04.30 -> 01:05.92] Depois outro e outro.
+[01:06.38 -> 01:07.44] Faltam 3 minutos.
+[01:08.02 -> 01:08.86] Aí você ouve.
+[01:09.20 -> 01:10.24] É a voz da sua mãe.
+[01:10.68 -> 01:11.88] Ela está chamando você.
+[01:12.22 -> 01:13.18] Pedindo socorro.
+[01:13.58 -> 01:14.80] Sua garganta aperta.
+[01:15.12 -> 01:15.96] O grito sobe.
+[01:16.30 -> 01:19.86] Você abre a boca e uma mão cobre seu rosto com força.
+[01:20.34 -> 01:21.90] Um homem de uns 50 anos.
+[01:22.26 -> 01:23.88] Uma cicatriz na mão esquerda.
+[01:23.88 -> 01:26.04] No peito, o número 41.
+[01:26.46 -> 01:28.96] Ele olha nos seus olhos e balança a cabeça.
+[01:29.44 -> 01:30.60] Você engole o grito.
+[01:31.04 -> 01:32.06] O relógio zera.
+[01:32.52 -> 01:33.88] Parabéns aos sobreviventes.
+[01:34.36 -> 01:34.88] Diz a voz.
+[01:35.52 -> 01:38.70] 100 mil reais foram depositados no saldo de cada um.
+[01:39.02 -> 01:41.20] O dinheiro dos eliminados foi para o pote.
+[01:41.62 -> 01:44.84] E lembrem-se, só um de vocês sai daqui com tudo.
+[01:45.32 -> 01:46.24] Você olha em volta.
+[01:46.64 -> 01:47.70] Restam 63.
+[01:48.56 -> 01:50.68] O 41 chega perto e sussurra.
+[01:50.68 -> 01:52.74] Agora você me deve uma.
+[01:53.22 -> 01:54.08] A voz volta.
+[01:54.50 -> 01:57.12] No próximo jogo, vocês jogarão em duplas.
+[01:57.60 -> 01:59.22] Só um de cada dupla passa.
+[01:59.66 -> 02:00.78] Jogador 77.
+[02:01.28 -> 02:03.58] Seu parceiro é o jogador 41.
+[02:04.10 -> 02:05.34] Ele salvou sua vida.
+[02:05.76 -> 02:08.88] Mas no próximo jogo, só um de vocês dois sai vivo.
+[02:09.32 -> 02:10.34] Você confia nele?
+[02:10.68 -> 02:11.32] Comente A.
+[02:11.62 -> 02:12.20] Se confia.
+[02:12.44 -> 02:12.70] B.
+[02:13.10 -> 02:13.94] Se não confia.
+[02:14.26 -> 02:16.48] A sua escolha decide o jogo 2.

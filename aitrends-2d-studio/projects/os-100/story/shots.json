@@ -1,0 +1,1509 @@
+{
+ "title": "Os 100 - Parte 1",
+ "duration": 138.49,
+ "shots": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 1.6,
+   "line": "Você tem 10 minutos.",
+   "scene": "Dark white room; giant red wall clock 10:00 flickers on, slow push",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 0.9,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s02",
+   "start": 1.6,
+   "end": 3.3,
+   "line": "Se fizer um único som,",
+   "scene": "bigFace 77 holding breath, sweat, faint red sound ring",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s03",
+   "start": 3.3,
+   "end": 5.1,
+   "line": "o chão some.",
+   "scene": "Side view: floor tile under a player drops away, he falls into the dark pit",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.25,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 0.55,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s04",
+   "start": 5.1,
+   "end": 6.5,
+   "line": "Restam 100.",
+   "scene": "Title: OS 100 + glowing counter RESTAM 100",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "stinger",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "captions": false
+  },
+  {
+   "id": "s05",
+   "start": 6.5,
+   "end": 9.2,
+   "line": "Você acorda num chão branco e frio.",
+   "scene": "77 lying on pale cold floor tiles, eyes open, overhead light pool, slow push",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s06",
+   "start": 9.2,
+   "end": 12.45,
+   "line": "Ao seu redor, 99 desconhecidos.",
+   "scene": "3D orbit: white hall, crowd of 99 players around 77; counter 99",
+   "set": "room3d",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s07",
+   "start": 12.45,
+   "end": 16.1,
+   "line": "No seu peito, um número, 77.",
+   "scene": "Insert: red jersey chest, number 77 glows gold, hand touches it",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.1,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s08",
+   "start": 16.1,
+   "end": 19.9,
+   "line": "Ontem, um envelope preto apareceu debaixo da sua porta.",
+   "scene": "Night apartment door from inside, light gap under door, black envelope slides in; ONTEM badge",
+   "set": "apt",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s09",
+   "start": 19.9,
+   "end": 21.8,
+   "line": "Dentro, uma frase.",
+   "scene": "Insert hands open the black envelope, white card slides out under lamp",
+   "set": "apt",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s10",
+   "start": 21.8,
+   "end": 24.05,
+   "line": "Suas dívidas terminam aqui.",
+   "scene": "Card close-up, serif text SUAS DÍVIDAS TERMINAM AQUI, bills blurred behind",
+   "set": "apt",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   },
+   "captions": false
+  },
+  {
+   "id": "s11",
+   "start": 24.05,
+   "end": 25.2,
+   "line": "Você aceitou.",
+   "scene": "bigFace 77 determined in warm lamp light",
+   "set": "apt",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "hit",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s12",
+   "start": 25.2,
+   "end": 27.0,
+   "line": "Agora, vai descobrir o preço.",
+   "scene": "Whip back to white room: 77 medium, looking up, worried, push",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s13",
+   "start": 27.0,
+   "end": 29.45,
+   "line": "Os alto-falantes estalam.",
+   "scene": "Insert wall speaker, crackle sparks and rings",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -8
+    },
+    {
+     "at": 1.1,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s14",
+   "start": 29.45,
+   "end": 33.0,
+   "line": "Uma voz calma, quase gentil, enche a sala.",
+   "scene": "Wide room, soft sound rings fill the hall from speakers, players look up",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s15",
+   "start": 33.0,
+   "end": 34.2,
+   "line": "Bem-vindos.",
+   "scene": "Speaker grille close, gentle waveform rings",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s16",
+   "start": 34.2,
+   "end": 36.3,
+   "line": "Jogo 1. Silêncio.",
+   "scene": "Title card JOGO 1 then SILÊNCIO",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "captions": false
+  },
+  {
+   "id": "s17",
+   "start": 36.3,
+   "end": 39.1,
+   "line": "Quem sobreviver ganha 100 mil reais.",
+   "scene": "Gold counter R$ 0 -> R$ 100.000 with coins rising",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    },
+    {
+     "at": 1.9,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s18",
+   "start": 39.1,
+   "end": 42.4,
+   "line": "Quem fizer qualquer som será eliminado.",
+   "scene": "Blueprint: line figure, red sound wave, trapdoor opens, figure drops",
+   "set": "bp",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s19",
+   "start": 42.4,
+   "end": 44.8,
+   "line": "Na parede, um relógio acende.",
+   "scene": "Wall: giant digital clock flickers on, red glow spills",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s20",
+   "start": 44.8,
+   "end": 46.1,
+   "line": "10 minutos.",
+   "scene": "Clock close: 10:00 starts counting down",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "clock",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s21",
+   "start": 46.1,
+   "end": 47.55,
+   "line": "Ninguém se mexe.",
+   "scene": "Medium row of frozen players, dust, slow drift",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s22",
+   "start": 47.55,
+   "end": 49.2,
+   "line": "Ninguém respira alto.",
+   "scene": "bigFace anonymous player holding breath, sweat",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s23",
+   "start": 49.2,
+   "end": 52.6,
+   "line": "Então, os alto-falantes começam a tocar vozes.",
+   "scene": "Speakers on wall, coloured waveforms pour out, slow pull out",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -12
+    },
+    {
+     "at": 1.0,
+     "name": "murmur",
+     "gain": -22
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s24",
+   "start": 52.6,
+   "end": 54.1,
+   "line": "Vozes conhecidas.",
+   "scene": "bigFace 77 shocked, ghost waveforms around",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s25",
+   "start": 54.1,
+   "end": 55.75,
+   "line": "Uma criança, chamando pelo pai.",
+   "scene": "Player trembling, translucent ghost child calling behind him",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s26",
+   "start": 55.75,
+   "end": 58.1,
+   "line": "Uma mulher chorando um nome.",
+   "scene": "Female player hands on head crying, waveform",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s27",
+   "start": 58.1,
+   "end": 60.4,
+   "line": "Um homem perto da parede soluça.",
+   "scene": "Man by the wall sobbing, small red sound rings",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s28",
+   "start": 60.4,
+   "end": 64.1,
+   "line": "O piso embaixo dele se abre e ele some.",
+   "scene": "Tile opens under the man, he falls, red glow from pit, shake",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 1.55,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s29",
+   "start": 64.1,
+   "end": 66.2,
+   "line": "Depois outro e outro.",
+   "scene": "Wide: holes open one after another, figures vanish; counter drops",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 1.1,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s30",
+   "start": 66.2,
+   "end": 67.9,
+   "line": "Faltam 3 minutos.",
+   "scene": "Clock close 03:00 in red, ticking",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "clock",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s31",
+   "start": 67.9,
+   "end": 69.05,
+   "line": "Aí você ouve.",
+   "scene": "bigFace 77, eyes widen, look sideways",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s32",
+   "start": 69.05,
+   "end": 70.5,
+   "line": "É a voz da sua mãe.",
+   "scene": "Ghost mother silhouette (pink scarf) emerges from speaker light",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s33",
+   "start": 70.5,
+   "end": 72.05,
+   "line": "Ela está chamando você.",
+   "scene": "Ghost mother calling, arms reaching, waveform",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s34",
+   "start": 72.05,
+   "end": 73.4,
+   "line": "Pedindo socorro.",
+   "scene": "Ghost mother reaching, shaking, red tint",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s35",
+   "start": 73.4,
+   "end": 75.0,
+   "line": "Sua garganta aperta.",
+   "scene": "bigFace 77 scared, rings tightening inward",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s36",
+   "start": 75.0,
+   "end": 76.15,
+   "line": "O grito sobe.",
+   "scene": "Extreme bigFace 77, mouth starts to open, red pulses, shake",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s37",
+   "start": 76.15,
+   "end": 80.1,
+   "line": "Você abre a boca e uma mão cobre seu rosto com força.",
+   "scene": "FREEZE: 77 mouth open, big hand slams over mouth, drops hang, cool tint",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.05,
+     "name": "hit",
+     "gain": -4
+    },
+    {
+     "at": 1.1,
+     "name": "freeze",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s38",
+   "start": 80.1,
+   "end": 82.1,
+   "line": "Um homem de uns 50 anos.",
+   "scene": "Two-shot reveal: 41 behind 77, hand over mouth; callout ~50 ANOS",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s39",
+   "start": 82.1,
+   "end": 83.85,
+   "line": "Uma cicatriz na mão esquerda.",
+   "scene": "Insert: big hand with a pale scar, callout CICATRIZ",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s40",
+   "start": 83.85,
+   "end": 86.3,
+   "line": "No peito, o número 41.",
+   "scene": "Insert: green jersey chest, number 41 glows",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s41",
+   "start": 86.3,
+   "end": 89.25,
+   "line": "Ele olha nos seus olhos e balança a cabeça.",
+   "scene": "bigFace 41 stern, slow head shake",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s42",
+   "start": 89.25,
+   "end": 90.9,
+   "line": "Você engole o grito.",
+   "scene": "bigFace 77 mouth closes, swallow",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s43",
+   "start": 90.9,
+   "end": 92.4,
+   "line": "O relógio zera.",
+   "scene": "Clock 00:00 flashing",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -8
+    },
+    {
+     "at": 0.6,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s44",
+   "start": 92.4,
+   "end": 95.3,
+   "line": "Parabéns aos sobreviventes. Diz a voz.",
+   "scene": "Wide: survivors among holes, speaker rings, light warms slightly",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s45",
+   "start": 95.3,
+   "end": 98.9,
+   "line": "100 mil reais foram depositados no saldo de cada um.",
+   "scene": "Balance card SALDO counting to R$ 100.000",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s46",
+   "start": 98.9,
+   "end": 101.45,
+   "line": "O dinheiro dos eliminados foi para o pote.",
+   "scene": "Giant glass pot filling with gold coins, POTE R$ 3.700.000",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s47",
+   "start": 101.45,
+   "end": 105.1,
+   "line": "E lembrem-se, só um de vocês sai daqui com tudo.",
+   "scene": "Exit door at the end of the hall opens with light; one silhouette walks in",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "riser",
+     "gain": -12
+    },
+    {
+     "at": 3.0,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s48",
+   "start": 105.1,
+   "end": 106.5,
+   "line": "Você olha em volta.",
+   "scene": "77 medium, looking left then right, push",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s49",
+   "start": 106.5,
+   "end": 108.4,
+   "line": "Restam 63.",
+   "scene": "Top-down floor grid: dark holes and remaining players; counter 63",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s50",
+   "start": 108.4,
+   "end": 110.55,
+   "line": "O 41 chega perto e sussurra.",
+   "scene": "Two-shot: 41 walks in from right and leans toward 77",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "footstep",
+     "gain": -16
+    },
+    {
+     "at": 0.9,
+     "name": "footstep",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s51",
+   "start": 110.55,
+   "end": 113.05,
+   "line": "Agora você me deve uma.",
+   "scene": "bigFace 41 whispering, smirk, rings",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s52",
+   "start": 113.05,
+   "end": 114.35,
+   "line": "A voz volta.",
+   "scene": "Speaker insert, rings",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s53",
+   "start": 114.35,
+   "end": 117.45,
+   "line": "No próximo jogo, vocês jogarão em duplas.",
+   "scene": "Blueprint: pairs of figures linked",
+   "set": "bp",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s54",
+   "start": 117.45,
+   "end": 119.5,
+   "line": "Só um de cada dupla passa.",
+   "scene": "Blueprint: one in each pair turns gold, the other fades",
+   "set": "bp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s55",
+   "start": 119.5,
+   "end": 121.1,
+   "line": "Jogador 77.",
+   "scene": "Spotlight slams down on 77 in the dark hall",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s56",
+   "start": 121.1,
+   "end": 124.0,
+   "line": "Seu parceiro é o jogador 41.",
+   "scene": "Second spotlight on 41, glowing line links them",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s57",
+   "start": 124.0,
+   "end": 125.6,
+   "line": "Ele salvou sua vida.",
+   "scene": "Memory freeze of the hand over 77's mouth, desaturated",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "freeze",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s58",
+   "start": 125.6,
+   "end": 129.15,
+   "line": "Mas no próximo jogo, só um de vocês dois sai vivo.",
+   "scene": "77 and 41 face each other, single exit light between them, red, push",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "riser",
+     "gain": -12
+    },
+    {
+     "at": 2.4,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s59",
+   "start": 129.15,
+   "end": 130.55,
+   "line": "Você confia nele?",
+   "scene": "bigFace 41 half in shadow, ambiguous smirk",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s60",
+   "start": 130.55,
+   "end": 138.49,
+   "line": "Comente A. Se confia. B. Se não confia. A sua escolha decide o jogo 2.",
+   "scene": "End screen: question, A/B options, 77 and 41, JOGO 2",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.7,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 3.8,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 27.0,
+   "mood": "mystery",
+   "intensity": 0.35
+  },
+  {
+   "start": 27.0,
+   "end": 49.2,
+   "mood": "tension",
+   "intensity": 0.4
+  },
+  {
+   "start": 49.2,
+   "end": 76.15,
+   "mood": "dark",
+   "intensity": 0.6
+  },
+  {
+   "start": 76.15,
+   "end": 92.4,
+   "mood": "tension",
+   "intensity": 0.75
+  },
+  {
+   "start": 92.4,
+   "end": 113.05,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 113.05,
+   "end": 138.49,
+   "mood": "tension",
+   "intensity": 0.65
+  }
+ ],
+ "sfx": []
+}

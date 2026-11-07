@@ -1,0 +1,330 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "speechStart": 0.0,
+  "speechEnd": 1.32,
+  "text": "Você tem 10 minutos.",
+  "end": 1.61
+ },
+ {
+  "i": 1,
+  "start": 1.61,
+  "speechStart": 1.76,
+  "speechEnd": 5.98,
+  "text": "Se fizer um único som, o chão some. Restam 100.",
+  "end": 6.51
+ },
+ {
+  "i": 2,
+  "start": 6.51,
+  "speechStart": 6.66,
+  "speechEnd": 8.88,
+  "text": "Você acorda num chão branco e frio.",
+  "end": 9.17
+ },
+ {
+  "i": 3,
+  "start": 9.17,
+  "speechStart": 9.32,
+  "speechEnd": 12.08,
+  "text": "Ao seu redor, 99 desconhecidos.",
+  "end": 12.45
+ },
+ {
+  "i": 4,
+  "start": 12.45,
+  "speechStart": 12.6,
+  "speechEnd": 15.26,
+  "text": "No seu peito, um número, 77.",
+  "end": 16.13
+ },
+ {
+  "i": 5,
+  "start": 16.13,
+  "speechStart": 16.28,
+  "speechEnd": 19.62,
+  "text": "Ontem, um envelope preto apareceu debaixo da sua porta.",
+  "end": 19.91
+ },
+ {
+  "i": 6,
+  "start": 19.91,
+  "speechStart": 20.06,
+  "speechEnd": 21.28,
+  "text": "Dentro, uma frase.",
+  "end": 21.81
+ },
+ {
+  "i": 7,
+  "start": 21.81,
+  "speechStart": 21.96,
+  "speechEnd": 24.96,
+  "text": "Suas dívidas terminam aqui. Você aceitou.",
+  "end": 25.21
+ },
+ {
+  "i": 8,
+  "start": 25.21,
+  "speechStart": 25.36,
+  "speechEnd": 27.14,
+  "text": "Agora, vai descobrir o preço.",
+  "end": 26.99
+ },
+ {
+  "i": 9,
+  "start": 26.99,
+  "speechStart": 27.14,
+  "speechEnd": 29.26,
+  "text": "Os alto-falantes estalam.",
+  "end": 29.43
+ },
+ {
+  "i": 10,
+  "start": 29.43,
+  "speechStart": 29.58,
+  "speechEnd": 35.9,
+  "text": "Uma voz calma, quase gentil, enche a sala. Bem-vindos. Jogo 1. Silêncio.",
+  "end": 36.27
+ },
+ {
+  "i": 11,
+  "start": 36.27,
+  "speechStart": 36.42,
+  "speechEnd": 38.64,
+  "text": "Quem sobreviver ganha 100 mil reais.",
+  "end": 39.07
+ },
+ {
+  "i": 12,
+  "start": 39.07,
+  "speechStart": 39.22,
+  "speechEnd": 42.08,
+  "text": "Quem fizer qualquer som será eliminado.",
+  "end": 42.37
+ },
+ {
+  "i": 13,
+  "start": 42.37,
+  "speechStart": 42.52,
+  "speechEnd": 47.38,
+  "text": "Na parede, um relógio acende. 10 minutos. Ninguém se mexe.",
+  "end": 47.49
+ },
+ {
+  "i": 14,
+  "start": 47.49,
+  "speechStart": 47.64,
+  "speechEnd": 48.92,
+  "text": "Ninguém respira alto.",
+  "end": 49.19
+ },
+ {
+  "i": 15,
+  "start": 49.19,
+  "speechStart": 49.34,
+  "speechEnd": 53.78,
+  "text": "Então, os alto-falantes começam a tocar vozes. Vozes conhecidas.",
+  "end": 54.11
+ },
+ {
+  "i": 16,
+  "start": 54.11,
+  "speechStart": 54.26,
+  "speechEnd": 55.86,
+  "text": "Uma criança, chamando pelo pai.",
+  "end": 55.71
+ },
+ {
+  "i": 17,
+  "start": 55.71,
+  "speechStart": 55.86,
+  "speechEnd": 57.78,
+  "text": "Uma mulher chorando um nome.",
+  "end": 58.05
+ },
+ {
+  "i": 18,
+  "start": 58.05,
+  "speechStart": 58.2,
+  "speechEnd": 60.16,
+  "text": "Um homem perto da parede soluça.",
+  "end": 60.39
+ },
+ {
+  "i": 19,
+  "start": 60.39,
+  "speechStart": 60.54,
+  "speechEnd": 63.7,
+  "text": "O piso embaixo dele se abre e ele some.",
+  "end": 64.15
+ },
+ {
+  "i": 20,
+  "start": 64.15,
+  "speechStart": 64.3,
+  "speechEnd": 70.24,
+  "text": "Depois outro e outro. Faltam 3 minutos. Aí você ouve. É a voz da sua mãe.",
+  "end": 70.53
+ },
+ {
+  "i": 21,
+  "start": 70.53,
+  "speechStart": 70.68,
+  "speechEnd": 73.18,
+  "text": "Ela está chamando você. Pedindo socorro.",
+  "end": 73.43
+ },
+ {
+  "i": 22,
+  "start": 73.43,
+  "speechStart": 73.58,
+  "speechEnd": 75.96,
+  "text": "Sua garganta aperta. O grito sobe.",
+  "end": 76.15
+ },
+ {
+  "i": 23,
+  "start": 76.15,
+  "speechStart": 76.3,
+  "speechEnd": 79.86,
+  "text": "Você abre a boca e uma mão cobre seu rosto com força.",
+  "end": 80.19
+ },
+ {
+  "i": 24,
+  "start": 80.19,
+  "speechStart": 80.34,
+  "speechEnd": 81.9,
+  "text": "Um homem de uns 50 anos.",
+  "end": 82.11
+ },
+ {
+  "i": 25,
+  "start": 82.11,
+  "speechStart": 82.26,
+  "speechEnd": 83.88,
+  "text": "Uma cicatriz na mão esquerda.",
+  "end": 83.73
+ },
+ {
+  "i": 26,
+  "start": 83.73,
+  "speechStart": 83.88,
+  "speechEnd": 86.04,
+  "text": "No peito, o número 41.",
+  "end": 86.31
+ },
+ {
+  "i": 27,
+  "start": 86.31,
+  "speechStart": 86.46,
+  "speechEnd": 92.06,
+  "text": "Ele olha nos seus olhos e balança a cabeça. Você engole o grito. O relógio zera.",
+  "end": 92.37
+ },
+ {
+  "i": 28,
+  "start": 92.37,
+  "speechStart": 92.52,
+  "speechEnd": 94.88,
+  "text": "Parabéns aos sobreviventes. Diz a voz.",
+  "end": 95.37
+ },
+ {
+  "i": 29,
+  "start": 95.37,
+  "speechStart": 95.52,
+  "speechEnd": 98.7,
+  "text": "100 mil reais foram depositados no saldo de cada um.",
+  "end": 98.87
+ },
+ {
+  "i": 30,
+  "start": 98.87,
+  "speechStart": 99.02,
+  "speechEnd": 101.2,
+  "text": "O dinheiro dos eliminados foi para o pote.",
+  "end": 101.47
+ },
+ {
+  "i": 31,
+  "start": 101.47,
+  "speechStart": 101.62,
+  "speechEnd": 107.7,
+  "text": "E lembrem-se, só um de vocês sai daqui com tudo. Você olha em volta. Restam 63.",
+  "end": 108.41
+ },
+ {
+  "i": 32,
+  "start": 108.41,
+  "speechStart": 108.56,
+  "speechEnd": 110.68,
+  "text": "O 41 chega perto e sussurra.",
+  "end": 110.53
+ },
+ {
+  "i": 33,
+  "start": 110.53,
+  "speechStart": 110.68,
+  "speechEnd": 114.08,
+  "text": "Agora você me deve uma. A voz volta.",
+  "end": 114.35
+ },
+ {
+  "i": 34,
+  "start": 114.35,
+  "speechStart": 114.5,
+  "speechEnd": 117.12,
+  "text": "No próximo jogo, vocês jogarão em duplas.",
+  "end": 117.45
+ },
+ {
+  "i": 35,
+  "start": 117.45,
+  "speechStart": 117.6,
+  "speechEnd": 120.78,
+  "text": "Só um de cada dupla passa. Jogador 77.",
+  "end": 121.13
+ },
+ {
+  "i": 36,
+  "start": 121.13,
+  "speechStart": 121.28,
+  "speechEnd": 123.58,
+  "text": "Seu parceiro é o jogador 41.",
+  "end": 123.95
+ },
+ {
+  "i": 37,
+  "start": 123.95,
+  "speechStart": 124.1,
+  "speechEnd": 125.34,
+  "text": "Ele salvou sua vida.",
+  "end": 125.61
+ },
+ {
+  "i": 38,
+  "start": 125.61,
+  "speechStart": 125.76,
+  "speechEnd": 132.2,
+  "text": "Mas no próximo jogo, só um de vocês dois sai vivo. Você confia nele? Comente A. Se confia.",
+  "end": 132.29
+ },
+ {
+  "i": 39,
+  "start": 132.29,
+  "speechStart": 132.44,
+  "speechEnd": 133.94,
+  "text": "B. Se não confia.",
+  "end": 134.11
+ },
+ {
+  "i": 40,
+  "start": 134.11,
+  "speechStart": 134.26,
+  "speechEnd": 136.48,
+  "text": "A sua escolha decide o jogo 2.",
+  "end": 137.98
+ }
+]
