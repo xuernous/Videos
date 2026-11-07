@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 aitrends-2d-studio/projects/*/build/
 aitrends-2d-studio/examples/*/build/
+aitrends-2d-studio/projects/*/out/
