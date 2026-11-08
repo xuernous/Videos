@@ -1,0 +1,58 @@
+[00:00.00 -> 00:03.88] Você escolheu não confiar, e essa escolha tem um preço.
+[00:04.52 -> 00:05.70] Restam 63.
+[00:06.54 -> 00:08.22] Número ímpar, diz a voz.
+[00:08.86 -> 00:10.90] O jogador 9 não tem parceiro.
+[00:11.44 -> 00:12.04] Silêncio.
+[00:12.54 -> 00:14.54] O jogador 9 foi eliminado.
+[00:15.06 -> 00:19.22] Enquanto as duplas se formam, o 41 segura seu braço e sussurra.
+[00:19.60 -> 00:20.80] Eu já estive aqui antes.
+[00:21.34 -> 00:22.90] Eu sei como esse jogo termina.
+[00:23.34 -> 00:24.70] Não aperte o botão.
+[00:25.22 -> 00:26.34] Você puxa o braço.
+[00:26.82 -> 00:27.84] Ninguém volta daqui.
+[00:27.84 -> 00:29.54] Então, como ele voltou?
+[00:30.10 -> 00:33.50] Cada dupla entra em duas cabines de vidro, frente a frente.
+[00:33.98 -> 00:35.98] Lá dentro, nenhum som passa.
+[00:36.44 -> 00:38.52] Na sua frente, um botão vermelho.
+[00:38.98 -> 00:39.48] Jogo 2.
+[00:39.98 -> 00:40.90] Dois botões.
+[00:41.20 -> 00:41.78] Diz a voz.
+[00:42.40 -> 00:45.06] Se só um apertar, quem apertou passa.
+[00:45.42 -> 00:48.30] Se os dois apertarem, os dois são eliminados.
+[00:48.74 -> 00:51.66] Se ninguém apertar, os dois são eliminados.
+[00:52.20 -> 00:53.18] Sessenta segundos.
+[00:53.90 -> 00:54.84] O relógio começa.
+[00:55.30 -> 00:59.24] Do outro lado do vidro, o 41 não tira os olhos de você.
+[00:59.64 -> 01:01.68] Os lábios dele se mexem devagar.
+[01:02.18 -> 01:03.28] Não aperte.
+[01:03.76 -> 01:04.48] Trinta segundos.
+[01:05.10 -> 01:08.06] Nas outras cabines, as luzes começam a se apagar.
+[01:08.52 -> 01:09.40] Uma por uma.
+[01:09.92 -> 01:10.56] Quinze segundos.
+[01:11.24 -> 01:14.30] Ele coloca a mão aberta no vidro, longe do botão.
+[01:14.74 -> 01:15.64] Confia em mim.
+[01:16.22 -> 01:16.90] Cinco segundos.
+[01:17.48 -> 01:18.66] Você pensa na sua mãe.
+[01:19.08 -> 01:21.36] Nas dívidas, no chão se abrindo.
+[01:21.90 -> 01:22.48] E aperta.
+[01:22.90 -> 01:24.50] A cabine dele fica escura.
+[01:24.50 -> 01:27.12] Quando a luz volta, ela está vazia.
+[01:27.54 -> 01:28.98] Parabéns aos sobreviventes.
+[01:29.42 -> 01:29.98] Diz a voz.
+[01:30.60 -> 01:33.32] Agora, a regra que vocês não ouviram.
+[01:33.74 -> 01:36.72] Se ninguém apertasse, os dois passariam.
+[01:37.18 -> 01:38.80] O ar some do seu peito.
+[01:39.26 -> 01:41.70] Este jogo nunca foi sobre o botão.
+[01:42.08 -> 01:43.60] Foi sobre confiança.
+[01:44.14 -> 01:47.22] Restam vinte, mais cem mil no seu saldo.
+[01:47.62 -> 01:48.96] Duzentos mil reais.
+[01:49.56 -> 01:53.12] E nenhum deles pesa tanto quanto aquela cabine vazia.
+[01:53.12 -> 01:55.92] Então, a voz fala só com você.
+[01:56.48 -> 01:57.50] Jogador 77.
+[01:58.06 -> 01:58.72] Uma oferta.
+[01:59.18 -> 02:03.86] Entregue todo o seu dinheiro e descubra se o 41 está vivo.
+[02:04.46 -> 02:05.24] O que você faz?
+[02:05.86 -> 02:06.72] Comente A.
+[02:07.12 -> 02:09.24] Se entrega o dinheiro para saber a verdade.
+[02:09.76 -> 02:10.06] B.
+[02:10.48 -> 02:12.58] Se guarda o dinheiro e segue em frente.

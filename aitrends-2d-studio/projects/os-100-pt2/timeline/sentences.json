@@ -1,0 +1,350 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 3.88,
+  "text": "Você escolheu não confiar, e essa escolha tem um preço."
+ },
+ {
+  "i": 1,
+  "start": 4.52,
+  "end": 5.7,
+  "text": "Restam 63."
+ },
+ {
+  "i": 2,
+  "start": 6.54,
+  "end": 8.22,
+  "text": "Número ímpar, diz a voz."
+ },
+ {
+  "i": 3,
+  "start": 8.86,
+  "end": 10.9,
+  "text": "O jogador 9 não tem parceiro."
+ },
+ {
+  "i": 4,
+  "start": 11.44,
+  "end": 12.04,
+  "text": "Silêncio."
+ },
+ {
+  "i": 5,
+  "start": 12.54,
+  "end": 14.54,
+  "text": "O jogador 9 foi eliminado."
+ },
+ {
+  "i": 6,
+  "start": 15.06,
+  "end": 19.22,
+  "text": "Enquanto as duplas se formam, o 41 segura seu braço e sussurra."
+ },
+ {
+  "i": 7,
+  "start": 19.6,
+  "end": 20.8,
+  "text": "Eu já estive aqui antes."
+ },
+ {
+  "i": 8,
+  "start": 21.34,
+  "end": 22.9,
+  "text": "Eu sei como esse jogo termina."
+ },
+ {
+  "i": 9,
+  "start": 23.34,
+  "end": 24.7,
+  "text": "Não aperte o botão."
+ },
+ {
+  "i": 10,
+  "start": 25.22,
+  "end": 26.34,
+  "text": "Você puxa o braço."
+ },
+ {
+  "i": 11,
+  "start": 26.82,
+  "end": 27.84,
+  "text": "Ninguém volta daqui."
+ },
+ {
+  "i": 12,
+  "start": 27.84,
+  "end": 29.54,
+  "text": "Então, como ele voltou?"
+ },
+ {
+  "i": 13,
+  "start": 30.1,
+  "end": 33.5,
+  "text": "Cada dupla entra em duas cabines de vidro, frente a frente."
+ },
+ {
+  "i": 14,
+  "start": 33.98,
+  "end": 35.98,
+  "text": "Lá dentro, nenhum som passa."
+ },
+ {
+  "i": 15,
+  "start": 36.44,
+  "end": 38.52,
+  "text": "Na sua frente, um botão vermelho."
+ },
+ {
+  "i": 16,
+  "start": 38.98,
+  "end": 39.48,
+  "text": "Jogo 2."
+ },
+ {
+  "i": 17,
+  "start": 39.98,
+  "end": 40.9,
+  "text": "Dois botões."
+ },
+ {
+  "i": 18,
+  "start": 41.2,
+  "end": 41.78,
+  "text": "Diz a voz."
+ },
+ {
+  "i": 19,
+  "start": 42.4,
+  "end": 45.06,
+  "text": "Se só um apertar, quem apertou passa."
+ },
+ {
+  "i": 20,
+  "start": 45.42,
+  "end": 48.3,
+  "text": "Se os dois apertarem, os dois são eliminados."
+ },
+ {
+  "i": 21,
+  "start": 48.74,
+  "end": 51.66,
+  "text": "Se ninguém apertar, os dois são eliminados."
+ },
+ {
+  "i": 22,
+  "start": 52.2,
+  "end": 53.18,
+  "text": "Sessenta segundos."
+ },
+ {
+  "i": 23,
+  "start": 53.9,
+  "end": 54.84,
+  "text": "O relógio começa."
+ },
+ {
+  "i": 24,
+  "start": 55.3,
+  "end": 59.24,
+  "text": "Do outro lado do vidro, o 41 não tira os olhos de você."
+ },
+ {
+  "i": 25,
+  "start": 59.64,
+  "end": 61.68,
+  "text": "Os lábios dele se mexem devagar."
+ },
+ {
+  "i": 26,
+  "start": 62.18,
+  "end": 63.28,
+  "text": "Não aperte."
+ },
+ {
+  "i": 27,
+  "start": 63.76,
+  "end": 64.48,
+  "text": "Trinta segundos."
+ },
+ {
+  "i": 28,
+  "start": 65.1,
+  "end": 68.06,
+  "text": "Nas outras cabines, as luzes começam a se apagar."
+ },
+ {
+  "i": 29,
+  "start": 68.52,
+  "end": 69.4,
+  "text": "Uma por uma."
+ },
+ {
+  "i": 30,
+  "start": 69.92,
+  "end": 70.56,
+  "text": "Quinze segundos."
+ },
+ {
+  "i": 31,
+  "start": 71.24,
+  "end": 74.3,
+  "text": "Ele coloca a mão aberta no vidro, longe do botão."
+ },
+ {
+  "i": 32,
+  "start": 74.74,
+  "end": 75.64,
+  "text": "Confia em mim."
+ },
+ {
+  "i": 33,
+  "start": 76.22,
+  "end": 76.9,
+  "text": "Cinco segundos."
+ },
+ {
+  "i": 34,
+  "start": 77.48,
+  "end": 78.66,
+  "text": "Você pensa na sua mãe."
+ },
+ {
+  "i": 35,
+  "start": 79.08,
+  "end": 81.36,
+  "text": "Nas dívidas, no chão se abrindo."
+ },
+ {
+  "i": 36,
+  "start": 81.9,
+  "end": 82.48,
+  "text": "E aperta."
+ },
+ {
+  "i": 37,
+  "start": 82.9,
+  "end": 84.5,
+  "text": "A cabine dele fica escura."
+ },
+ {
+  "i": 38,
+  "start": 84.5,
+  "end": 87.12,
+  "text": "Quando a luz volta, ela está vazia."
+ },
+ {
+  "i": 39,
+  "start": 87.54,
+  "end": 88.98,
+  "text": "Parabéns aos sobreviventes."
+ },
+ {
+  "i": 40,
+  "start": 89.42,
+  "end": 89.98,
+  "text": "Diz a voz."
+ },
+ {
+  "i": 41,
+  "start": 90.6,
+  "end": 93.32,
+  "text": "Agora, a regra que vocês não ouviram."
+ },
+ {
+  "i": 42,
+  "start": 93.74,
+  "end": 96.72,
+  "text": "Se ninguém apertasse, os dois passariam."
+ },
+ {
+  "i": 43,
+  "start": 97.18,
+  "end": 98.8,
+  "text": "O ar some do seu peito."
+ },
+ {
+  "i": 44,
+  "start": 99.26,
+  "end": 101.7,
+  "text": "Este jogo nunca foi sobre o botão."
+ },
+ {
+  "i": 45,
+  "start": 102.08,
+  "end": 103.6,
+  "text": "Foi sobre confiança."
+ },
+ {
+  "i": 46,
+  "start": 104.14,
+  "end": 107.22,
+  "text": "Restam vinte, mais cem mil no seu saldo."
+ },
+ {
+  "i": 47,
+  "start": 107.62,
+  "end": 108.96,
+  "text": "Duzentos mil reais."
+ },
+ {
+  "i": 48,
+  "start": 109.56,
+  "end": 113.12,
+  "text": "E nenhum deles pesa tanto quanto aquela cabine vazia."
+ },
+ {
+  "i": 49,
+  "start": 113.12,
+  "end": 115.92,
+  "text": "Então, a voz fala só com você."
+ },
+ {
+  "i": 50,
+  "start": 116.48,
+  "end": 117.5,
+  "text": "Jogador 77."
+ },
+ {
+  "i": 51,
+  "start": 118.06,
+  "end": 118.72,
+  "text": "Uma oferta."
+ },
+ {
+  "i": 52,
+  "start": 119.18,
+  "end": 123.86,
+  "text": "Entregue todo o seu dinheiro e descubra se o 41 está vivo."
+ },
+ {
+  "i": 53,
+  "start": 124.46,
+  "end": 125.24,
+  "text": "O que você faz?"
+ },
+ {
+  "i": 54,
+  "start": 125.86,
+  "end": 126.72,
+  "text": "Comente A."
+ },
+ {
+  "i": 55,
+  "start": 127.12,
+  "end": 129.24,
+  "text": "Se entrega o dinheiro para saber a verdade."
+ },
+ {
+  "i": 56,
+  "start": 129.76,
+  "end": 130.06,
+  "text": "B."
+ },
+ {
+  "i": 57,
+  "start": 130.48,
+  "end": 132.58,
+  "text": "Se guarda o dinheiro e segue em frente."
+ }
+]

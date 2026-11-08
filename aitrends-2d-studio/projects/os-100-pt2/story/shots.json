@@ -1,0 +1,1380 @@
+{
+ "title": "Os 100 - Parte 2",
+ "duration": 134.41,
+ "shots": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 2.1,
+   "line": "Você escolheu não confiar,",
+   "scene": "bigFace 77 hard look; glowing B · NÃO CONFIA pill from the last vote",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s02",
+   "start": 2.1,
+   "end": 4.4,
+   "line": "e essa escolha tem um preço.",
+   "scene": "41 alone in a cold spotlight, looking at you, slow push",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s03",
+   "start": 4.4,
+   "end": 6.4,
+   "line": "Restam 63.",
+   "scene": "Top-down floor grid, counter RESTAM 63",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s04",
+   "start": 6.4,
+   "end": 8.7,
+   "line": "Número ímpar, diz a voz.",
+   "scene": "Speaker insert, 63 = ÍMPAR label",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -12
+    },
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s05",
+   "start": 8.7,
+   "end": 11.3,
+   "line": "O jogador 9 não tem parceiro.",
+   "scene": "Wide: pairs stand together, lone player 9 in a spotlight",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "impact",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s06",
+   "start": 11.3,
+   "end": 12.4,
+   "line": "Silêncio.",
+   "scene": "bigFace player 9 terrified",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s07",
+   "start": 12.4,
+   "end": 14.9,
+   "line": "O jogador 9 foi eliminado.",
+   "scene": "Tile opens under 9, he falls; counter 62",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 1.4,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s08",
+   "start": 14.9,
+   "end": 19.4,
+   "line": "Enquanto as duplas se formam, o 41 segura seu braço e sussurra.",
+   "scene": "Two-shot: pairs forming behind; 41 grabs 77's arm and leans in",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s09",
+   "start": 19.4,
+   "end": 21.2,
+   "line": "Eu já estive aqui antes.",
+   "scene": "bigFace 41 whispering",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s10",
+   "start": 21.2,
+   "end": 23.2,
+   "line": "Eu sei como esse jogo termina.",
+   "scene": "bigFace 41, ghost outlines of glass booths behind",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s11",
+   "start": 23.2,
+   "end": 25.1,
+   "line": "Não aperte o botão.",
+   "scene": "Insert: big red button, hand hovering, warning X",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s12",
+   "start": 25.1,
+   "end": 26.7,
+   "line": "Você puxa o braço.",
+   "scene": "Two-shot: 77 yanks his arm free, 41 surprised",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.25,
+     "name": "swish",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s13",
+   "start": 26.7,
+   "end": 27.8,
+   "line": "Ninguém volta daqui.",
+   "scene": "bigFace 77 suspicious",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s14",
+   "start": 27.8,
+   "end": 30.0,
+   "line": "Então, como ele voltou?",
+   "scene": "41 alone in shadow, big glowing ?",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s15",
+   "start": 30.0,
+   "end": 33.8,
+   "line": "Cada dupla entra em duas cabines de vidro, frente a frente.",
+   "scene": "3D: two rows of lit glass booths facing each other, players inside",
+   "set": "booth3d",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s16",
+   "start": 33.8,
+   "end": 36.3,
+   "line": "Lá dentro, nenhum som passa.",
+   "scene": "Side view: 77 knocks, sound rings stop dead at the glass",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -18
+    },
+    {
+     "at": 1.0,
+     "name": "hit",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s17",
+   "start": 36.3,
+   "end": 38.9,
+   "line": "Na sua frente, um botão vermelho.",
+   "scene": "Insert: red button on a pedestal, glowing",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s18",
+   "start": 38.9,
+   "end": 41.0,
+   "line": "Jogo 2. Dois botões.",
+   "scene": "Title JOGO 2, then two red buttons",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "stinger",
+     "gain": -8
+    },
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "captions": false
+  },
+  {
+   "id": "s19",
+   "start": 41.0,
+   "end": 42.3,
+   "line": "Diz a voz.",
+   "scene": "Ceiling speaker inside the booth, rings",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s20",
+   "start": 42.3,
+   "end": 45.3,
+   "line": "Se só um apertar, quem apertou passa.",
+   "scene": "Blueprint: one presses, gold check for him, X for the other",
+   "set": "bp",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 2.2,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s21",
+   "start": 45.3,
+   "end": 48.6,
+   "line": "Se os dois apertarem, os dois são eliminados.",
+   "scene": "Blueprint: both press, both X",
+   "set": "bp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s22",
+   "start": 48.6,
+   "end": 52.0,
+   "line": "Se ninguém apertar, os dois são eliminados.",
+   "scene": "Blueprint: neither presses, both X",
+   "set": "bp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s23",
+   "start": 52.0,
+   "end": 53.8,
+   "line": "Sessenta segundos.",
+   "scene": "Booth clock 01:00",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s24",
+   "start": 53.8,
+   "end": 55.2,
+   "line": "O relógio começa.",
+   "scene": "Clock counting down 00:59",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "clock",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s25",
+   "start": 55.2,
+   "end": 59.5,
+   "line": "Do outro lado do vidro, o 41 não tira os olhos de você.",
+   "scene": "Booths side by side: 77 and 41 face each other through two glass walls",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "heartbeat",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s26",
+   "start": 59.5,
+   "end": 62.0,
+   "line": "Os lábios dele se mexem devagar.",
+   "scene": "bigFace 41 behind glass, mouth moving slowly",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s27",
+   "start": 62.0,
+   "end": 63.6,
+   "line": "Não aperte.",
+   "scene": "Closer on 41 behind glass, mouthing the words",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s28",
+   "start": 63.6,
+   "end": 64.9,
+   "line": "Trinta segundos.",
+   "scene": "Clock 00:30",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "clock",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s29",
+   "start": 64.9,
+   "end": 68.3,
+   "line": "Nas outras cabines, as luzes começam a se apagar.",
+   "scene": "Row of booths receding, lights go out",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "hit",
+     "gain": -16
+    },
+    {
+     "at": 2.4,
+     "name": "hit",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s30",
+   "start": 68.3,
+   "end": 69.7,
+   "line": "Uma por uma.",
+   "scene": "Closer row, lights cut one by one",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -14
+    },
+    {
+     "at": 0.7,
+     "name": "hit",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s31",
+   "start": 69.7,
+   "end": 71.1,
+   "line": "Quinze segundos.",
+   "scene": "Clock 00:15 pulsing",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "clock",
+     "gain": -9
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s32",
+   "start": 71.1,
+   "end": 74.6,
+   "line": "Ele coloca a mão aberta no vidro, longe do botão.",
+   "scene": "Insert: 41's open scarred hand flat on the glass, button far below",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s33",
+   "start": 74.6,
+   "end": 76.0,
+   "line": "Confia em mim.",
+   "scene": "bigFace 41 behind glass, gentle",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s34",
+   "start": 76.0,
+   "end": 77.3,
+   "line": "Cinco segundos.",
+   "scene": "Clock 00:05 red",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s35",
+   "start": 77.3,
+   "end": 78.9,
+   "line": "Você pensa na sua mãe.",
+   "scene": "Ghost mother glows beside 77 in the booth",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s36",
+   "start": 78.9,
+   "end": 80.2,
+   "line": "Nas dívidas,",
+   "scene": "Flash insert: the black card SUAS DÍVIDAS",
+   "set": "apt",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s37",
+   "start": 80.2,
+   "end": 81.7,
+   "line": "no chão se abrindo.",
+   "scene": "Flash: a trapdoor opening into red",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s38",
+   "start": 81.7,
+   "end": 82.8,
+   "line": "E aperta.",
+   "scene": "Insert: 77's hand slams the red button",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -3
+    },
+    {
+     "at": 0.25,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s39",
+   "start": 82.8,
+   "end": 84.6,
+   "line": "A cabine dele fica escura.",
+   "scene": "Through the glass: 41's booth light cuts to black",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s40",
+   "start": 84.6,
+   "end": 87.4,
+   "line": "Quando a luz volta, ela está vazia.",
+   "scene": "Light flickers back: 41's booth is empty",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "powerup",
+     "gain": -12
+    },
+    {
+     "at": 1.4,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s41",
+   "start": 87.4,
+   "end": 90.4,
+   "line": "Parabéns aos sobreviventes. Diz a voz.",
+   "scene": "77 alone in his lit booth, the other booth empty, ceiling speaker rings",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s42",
+   "start": 90.4,
+   "end": 93.6,
+   "line": "Agora, a regra que vocês não ouviram.",
+   "scene": "Blueprint: REGRA OCULTA, a lock opens",
+   "set": "bp",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s43",
+   "start": 93.6,
+   "end": 97.0,
+   "line": "Se ninguém apertasse, os dois passariam.",
+   "scene": "Blueprint: neither presses, both gold check",
+   "set": "bp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.5,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s44",
+   "start": 97.0,
+   "end": 99.1,
+   "line": "O ar some do seu peito.",
+   "scene": "bigFace 77 shocked, breath particles pulled away",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "slowmo",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s45",
+   "start": 99.1,
+   "end": 101.9,
+   "line": "Este jogo nunca foi sobre o botão.",
+   "scene": "The red button dims and cracks",
+   "set": "booth",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s46",
+   "start": 101.9,
+   "end": 103.9,
+   "line": "Foi sobre confiança.",
+   "scene": "Empty booth: 41's handprint glows on the glass",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s47",
+   "start": 103.9,
+   "end": 107.4,
+   "line": "Restam vinte, mais cem mil no seu saldo.",
+   "scene": "Counter RESTAM 20 and balance + R$ 100.000",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s48",
+   "start": 107.4,
+   "end": 109.3,
+   "line": "Duzentos mil reais.",
+   "scene": "Balance R$ 200.000 big and gold",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s49",
+   "start": 109.3,
+   "end": 112.95,
+   "line": "E nenhum deles pesa tanto quanto aquela cabine vazia.",
+   "scene": "Balance scale: gold pile vs a tiny empty booth; the booth side sinks",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s50",
+   "start": 112.95,
+   "end": 116.3,
+   "line": "Então, a voz fala só com você.",
+   "scene": "77 alone in a dark void, speaker rings only around him",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s51",
+   "start": 116.3,
+   "end": 117.9,
+   "line": "Jogador 77.",
+   "scene": "Spotlight slams on 77",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s52",
+   "start": 117.9,
+   "end": 119.0,
+   "line": "Uma oferta.",
+   "scene": "Speaker insert, OFERTA",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s53",
+   "start": 119.0,
+   "end": 121.4,
+   "line": "Entregue todo o seu dinheiro",
+   "scene": "Balance card drains R$ 200.000 -> R$ 0",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s54",
+   "start": 121.4,
+   "end": 124.3,
+   "line": "e descubra se o 41 está vivo.",
+   "scene": "Empty booth, ghostly green 41 jersey and VIVO?",
+   "set": "booth",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s55",
+   "start": 124.3,
+   "end": 125.7,
+   "line": "O que você faz?",
+   "scene": "bigFace 77 thinking, money vs booth reflected",
+   "set": "room",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s56",
+   "start": 125.7,
+   "end": 134.41,
+   "line": "Comente A. Se entrega o dinheiro para saber a verdade. B. Se guarda o dinheiro e segue em frente.",
+   "scene": "End screen: O que você faz? A ENTREGA O DINHEIRO / B GUARDA O DINHEIRO, 77 + empty booth",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 4.1,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 6.6,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 30.0,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 30.0,
+   "end": 55.2,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 55.2,
+   "end": 82.8,
+   "mood": "tension",
+   "intensity": 0.8
+  },
+  {
+   "start": 82.8,
+   "end": 103.9,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 103.9,
+   "end": 112.95,
+   "mood": "dark",
+   "intensity": 0.45
+  },
+  {
+   "start": 112.95,
+   "end": 134.41,
+   "mood": "tension",
+   "intensity": 0.6
+  }
+ ],
+ "sfx": []
+}
