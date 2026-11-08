@@ -23,3 +23,17 @@ Nicho: E se...? · Formato: YouTube Shorts (~2:00, 290–320 palavras) · 2ª pe
 - Votação: A) Confio / B) Não confio
   - A → aliança no Jogo 2; 41 revela que já esteve no jogo antes
   - B → 77 joga sozinho, sobrevive por pouco, descobre que 41 dizia a verdade (culpa para o Ep. 3)
+- Votação Ep. 1 → **B (Não confio)**
+
+### Ep. 2 — Dois Botões
+- Abertura: "Você escolheu não confiar."
+- Restam 63 → Jogador 9 sem par, eliminado → 31 duplas
+- 41 revelou: "Eu já estive aqui antes. Não aperte o botão."
+- Jogo: cabines de vidro sem som, 60 s. Regras ditas: só um aperta → ele passa; os dois → ambos eliminados; ninguém → ambos eliminados. Regra real: ninguém aperta → os dois passam.
+- 77 apertou; cabine do 41 ficou escura e vazia — status do 41 DESCONHECIDO
+- Resultado: 4 duplas confiaram (8), 12 com um só apertando (12), 15 com os dois (0) → Restam 20
+- Saldo do 77: R$ 200 mil
+- Fato permanente: a Voz mente sobre as regras
+- Votação: A) Entregar o dinheiro para saber se o 41 vive / B) Guardar o dinheiro e seguir
+  - A → saldo zero; 41 vivo numa sala escondida para onde vão os que caem (o piso não mata todos)
+  - B → mantém R$ 200 mil; nova jogadora propõe aliança; 41 some até voltar como rival
