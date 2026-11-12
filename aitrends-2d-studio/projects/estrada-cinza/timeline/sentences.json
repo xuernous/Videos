@@ -1,0 +1,326 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 1.54,
+  "text": "Você tem dezesseis anos."
+ },
+ {
+  "i": 1,
+  "start": 1.54,
+  "end": 3.54,
+  "text": "Um metro e sessenta e oito."
+ },
+ {
+  "i": 2,
+  "start": 3.54,
+  "end": 5.9,
+  "text": "Quatrocentos e doze marcos na conta."
+ },
+ {
+  "i": 3,
+  "start": 6.3,
+  "end": 9.1,
+  "text": "E esta é a última noite que você dorme em casa."
+ },
+ {
+  "i": 4,
+  "start": 9.1,
+  "end": 10.64,
+  "text": "Valdória."
+ },
+ {
+  "i": 5,
+  "start": 10.64,
+  "end": 11.78,
+  "text": "1986."
+ },
+ {
+  "i": 6,
+  "start": 12.98,
+  "end": 14.3,
+  "text": "O país enlouqueceu."
+ },
+ {
+  "i": 7,
+  "start": 14.78,
+  "end": 16.54,
+  "text": "Revoltas em todas as cidades."
+ },
+ {
+  "i": 8,
+  "start": 16.96,
+  "end": 17.98,
+  "text": "Fábricas queimando."
+ },
+ {
+  "i": 9,
+  "start": 18.32,
+  "end": 19.36,
+  "text": "Tanques nas praças."
+ },
+ {
+  "i": 10,
+  "start": 19.84,
+  "end": 23.88,
+  "text": "Na TV, o Marechal Anton Vesk repete que está tudo sob controle."
+ },
+ {
+  "i": 11,
+  "start": 24.28,
+  "end": 25.34,
+  "text": "Ninguém acredita."
+ },
+ {
+  "i": 12,
+  "start": 25.8,
+  "end": 27.14,
+  "text": "Pão, só com fila."
+ },
+ {
+  "i": 13,
+  "start": 27.5,
+  "end": 28.94,
+  "text": "Notícia, só a dele."
+ },
+ {
+  "i": 14,
+  "start": 28.94,
+  "end": 30.14,
+  "text": "E quem reclama…"
+ },
+ {
+  "i": 15,
+  "start": 30.5,
+  "end": 30.9,
+  "text": "some."
+ },
+ {
+  "i": 16,
+  "start": 31.48,
+  "end": 32.26,
+  "text": "Você decidiu."
+ },
+ {
+  "i": 17,
+  "start": 32.62,
+  "end": 33.1,
+  "text": "Vai embora."
+ },
+ {
+  "i": 18,
+  "start": 33.66,
+  "end": 34.5,
+  "text": "Seus pais não sabem."
+ },
+ {
+  "i": 19,
+  "start": 34.76,
+  "end": 35.66,
+  "text": "Não podem saber."
+ },
+ {
+  "i": 20,
+  "start": 36.1,
+  "end": 38.08,
+  "text": "Se souberem, vão tentar te impedir."
+ },
+ {
+  "i": 21,
+  "start": 38.32,
+  "end": 41.02,
+  "text": "Ou pior: vão ser punidos por não te entregar."
+ },
+ {
+  "i": 22,
+  "start": 41.02,
+  "end": 42.44,
+  "text": "Quatro da manhã."
+ },
+ {
+  "i": 23,
+  "start": 42.86,
+  "end": 44.3,
+  "text": "A casa em silêncio."
+ },
+ {
+  "i": 24,
+  "start": 44.68,
+  "end": 49.82,
+  "text": "Na mochila: duas mudas de roupa, um pão duro, uma lanterna, seu documento."
+ },
+ {
+  "i": 25,
+  "start": 50.12,
+  "end": 52.46,
+  "text": "E todo o dinheiro que você juntou na vida."
+ },
+ {
+  "i": 26,
+  "start": 52.9,
+  "end": 55.0,
+  "text": "Você para na porta do quarto dos seus pais."
+ },
+ {
+  "i": 27,
+  "start": 55.5,
+  "end": 56.98,
+  "text": "Escuta a respiração deles."
+ },
+ {
+  "i": 28,
+  "start": 57.49,
+  "end": 58.82,
+  "text": "Pensa em deixar um bilhete."
+ },
+ {
+  "i": 29,
+  "start": 59.34,
+  "end": 59.78,
+  "text": "Não deixa."
+ },
+ {
+  "i": 30,
+  "start": 60.3,
+  "end": 62.78,
+  "text": "Lá fora, Grâvia ainda cheira a fumaça."
+ },
+ {
+  "i": 31,
+  "start": 63.12,
+  "end": 64.44,
+  "text": "Ao longe, sirenes."
+ },
+ {
+  "i": 32,
+  "start": 64.92,
+  "end": 68.32,
+  "text": "Até a fronteira são quinhentos e quarenta quilômetros."
+ },
+ {
+  "i": 33,
+  "start": 68.32,
+  "end": 71.9,
+  "text": "Arame farpado, cães e soldados com ordem de atirar."
+ },
+ {
+  "i": 34,
+  "start": 72.32,
+  "end": 74.34,
+  "text": "Do outro lado: uma vida melhor."
+ },
+ {
+  "i": 35,
+  "start": 74.84,
+  "end": 76.132,
+  "text": "Primeiro destino: Kolvar."
+ },
+ {
+  "i": 36,
+  "start": 76.132,
+  "end": 78.5,
+  "text": "Cento e vinte quilômetros ao sul."
+ },
+ {
+  "i": 37,
+  "start": 78.88,
+  "end": 81.18,
+  "text": "E você tem quatro jeitos de chegar lá."
+ },
+ {
+  "i": 38,
+  "start": 81.62,
+  "end": 82.68,
+  "text": "A: Ônibus."
+ },
+ {
+  "i": 39,
+  "start": 82.68,
+  "end": 83.8,
+  "text": "Dezoito marcos."
+ },
+ {
+  "i": 40,
+  "start": 83.8,
+  "end": 86.78,
+  "text": "Rápido, mas tem barreira policial na estrada."
+ },
+ {
+  "i": 41,
+  "start": 87.12,
+  "end": 88.28,
+  "text": "B: Táxi."
+ },
+ {
+  "i": 42,
+  "start": 88.28,
+  "end": 89.56,
+  "text": "Sessenta marcos."
+ },
+ {
+  "i": 43,
+  "start": 89.94,
+  "end": 90.44,
+  "text": "Discreto…"
+ },
+ {
+  "i": 44,
+  "start": 90.92,
+  "end": 92.64,
+  "text": "se o motorista não for informante."
+ },
+ {
+  "i": 45,
+  "start": 93.08,
+  "end": 94.74,
+  "text": "C: Roubar um carro."
+ },
+ {
+  "i": 46,
+  "start": 95.1,
+  "end": 95.58,
+  "text": "De graça."
+ },
+ {
+  "i": 47,
+  "start": 95.88,
+  "end": 98.54,
+  "text": "Mas, se a polícia descobrir, vem atrás de você."
+ },
+ {
+  "i": 48,
+  "start": 99.1,
+  "end": 100.1,
+  "text": "D: A pé."
+ },
+ {
+  "i": 49,
+  "start": 100.56,
+  "end": 101.04,
+  "text": "De graça."
+ },
+ {
+  "i": 50,
+  "start": 101.4,
+  "end": 104.52,
+  "text": "Três dias de caminhada, e o seu corpo vai cobrar."
+ },
+ {
+  "i": 51,
+  "start": 105.02,
+  "end": 107.3,
+  "text": "Comente A, B, C ou D."
+ },
+ {
+  "i": 52,
+  "start": 107.7,
+  "end": 109.9,
+  "text": "A mais votada decide o próximo episódio."
+ },
+ {
+  "i": 53,
+  "start": 110.48,
+  "end": 112.76,
+  "text": "Em Valdória, toda escolha tem um preço."
+ }
+]

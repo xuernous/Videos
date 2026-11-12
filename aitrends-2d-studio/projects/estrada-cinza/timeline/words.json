@@ -1,0 +1,1330 @@
+{
+ "source": "whisper:/tmp/claude-0/-home-user-Videos/f5712274-4e38-5c96-be04-0bcbfc618981/scratchpad/whisper-npm/model-small+script",
+ "words": [
+  {
+   "word": "Você",
+   "start": 0.0,
+   "end": 0.26
+  },
+  {
+   "word": "tem",
+   "start": 0.26,
+   "end": 0.5
+  },
+  {
+   "word": "dezesseis",
+   "start": 0.5,
+   "end": 1.12
+  },
+  {
+   "word": "anos.",
+   "start": 1.12,
+   "end": 1.54
+  },
+  {
+   "word": "Um",
+   "start": 1.54,
+   "end": 1.873
+  },
+  {
+   "word": "metro",
+   "start": 1.873,
+   "end": 2.207
+  },
+  {
+   "word": "e",
+   "start": 2.207,
+   "end": 2.54
+  },
+  {
+   "word": "sessenta",
+   "start": 2.54,
+   "end": 2.873
+  },
+  {
+   "word": "e",
+   "start": 2.873,
+   "end": 3.207
+  },
+  {
+   "word": "oito.",
+   "start": 3.207,
+   "end": 3.54
+  },
+  {
+   "word": "Quatrocentos",
+   "start": 3.54,
+   "end": 3.873
+  },
+  {
+   "word": "e",
+   "start": 3.873,
+   "end": 4.207
+  },
+  {
+   "word": "doze",
+   "start": 4.207,
+   "end": 4.54
+  },
+  {
+   "word": "marcos",
+   "start": 4.54,
+   "end": 5.34
+  },
+  {
+   "word": "na",
+   "start": 5.34,
+   "end": 5.52
+  },
+  {
+   "word": "conta.",
+   "start": 5.52,
+   "end": 5.9
+  },
+  {
+   "word": "E",
+   "start": 6.3,
+   "end": 6.48
+  },
+  {
+   "word": "esta",
+   "start": 6.48,
+   "end": 6.76
+  },
+  {
+   "word": "é",
+   "start": 6.76,
+   "end": 7.14
+  },
+  {
+   "word": "a",
+   "start": 7.14,
+   "end": 7.26
+  },
+  {
+   "word": "última",
+   "start": 7.26,
+   "end": 7.62
+  },
+  {
+   "word": "noite",
+   "start": 7.62,
+   "end": 8.02
+  },
+  {
+   "word": "que",
+   "start": 8.02,
+   "end": 8.22
+  },
+  {
+   "word": "você",
+   "start": 8.22,
+   "end": 8.44
+  },
+  {
+   "word": "dorme",
+   "start": 8.44,
+   "end": 8.76
+  },
+  {
+   "word": "em",
+   "start": 8.76,
+   "end": 8.84
+  },
+  {
+   "word": "casa.",
+   "start": 8.84,
+   "end": 9.1
+  },
+  {
+   "word": "Valdória.",
+   "start": 9.1,
+   "end": 10.64
+  },
+  {
+   "word": "1986.",
+   "start": 10.64,
+   "end": 11.78
+  },
+  {
+   "word": "O",
+   "start": 12.98,
+   "end": 13.1
+  },
+  {
+   "word": "país",
+   "start": 13.1,
+   "end": 13.4
+  },
+  {
+   "word": "enlouqueceu.",
+   "start": 13.4,
+   "end": 14.3
+  },
+  {
+   "word": "Revoltas",
+   "start": 14.78,
+   "end": 15.4
+  },
+  {
+   "word": "em",
+   "start": 15.4,
+   "end": 15.58
+  },
+  {
+   "word": "todas",
+   "start": 15.58,
+   "end": 15.84
+  },
+  {
+   "word": "as",
+   "start": 15.84,
+   "end": 16.14
+  },
+  {
+   "word": "cidades.",
+   "start": 16.14,
+   "end": 16.54
+  },
+  {
+   "word": "Fábricas",
+   "start": 16.96,
+   "end": 17.46
+  },
+  {
+   "word": "queimando.",
+   "start": 17.46,
+   "end": 17.98
+  },
+  {
+   "word": "Tanques",
+   "start": 18.32,
+   "end": 18.66
+  },
+  {
+   "word": "nas",
+   "start": 18.66,
+   "end": 18.86
+  },
+  {
+   "word": "praças.",
+   "start": 18.86,
+   "end": 19.36
+  },
+  {
+   "word": "Na",
+   "start": 19.84,
+   "end": 19.94
+  },
+  {
+   "word": "TV,",
+   "start": 19.94,
+   "end": 20.2
+  },
+  {
+   "word": "o",
+   "start": 20.6,
+   "end": 20.72
+  },
+  {
+   "word": "Marechal",
+   "start": 20.72,
+   "end": 21.12
+  },
+  {
+   "word": "Anton",
+   "start": 21.12,
+   "end": 21.42
+  },
+  {
+   "word": "Vesk",
+   "start": 21.42,
+   "end": 21.92
+  },
+  {
+   "word": "repete",
+   "start": 21.92,
+   "end": 22.42
+  },
+  {
+   "word": "que",
+   "start": 22.42,
+   "end": 22.58
+  },
+  {
+   "word": "está",
+   "start": 22.58,
+   "end": 22.78
+  },
+  {
+   "word": "tudo",
+   "start": 22.78,
+   "end": 23.16
+  },
+  {
+   "word": "sob",
+   "start": 23.16,
+   "end": 23.4
+  },
+  {
+   "word": "controle.",
+   "start": 23.4,
+   "end": 23.88
+  },
+  {
+   "word": "Ninguém",
+   "start": 24.28,
+   "end": 24.66
+  },
+  {
+   "word": "acredita.",
+   "start": 24.66,
+   "end": 25.34
+  },
+  {
+   "word": "Pão,",
+   "start": 25.8,
+   "end": 26.08
+  },
+  {
+   "word": "só",
+   "start": 26.08,
+   "end": 26.58
+  },
+  {
+   "word": "com",
+   "start": 26.58,
+   "end": 26.74
+  },
+  {
+   "word": "fila.",
+   "start": 26.74,
+   "end": 27.14
+  },
+  {
+   "word": "Notícia,",
+   "start": 27.5,
+   "end": 28.04
+  },
+  {
+   "word": "só",
+   "start": 28.04,
+   "end": 28.62
+  },
+  {
+   "word": "a",
+   "start": 28.62,
+   "end": 28.67
+  },
+  {
+   "word": "dele.",
+   "start": 28.62,
+   "end": 28.94
+  },
+  {
+   "word": "E",
+   "start": 28.94,
+   "end": 29.48
+  },
+  {
+   "word": "quem",
+   "start": 29.48,
+   "end": 29.66
+  },
+  {
+   "word": "reclama…",
+   "start": 29.66,
+   "end": 30.14
+  },
+  {
+   "word": "some.",
+   "start": 30.5,
+   "end": 30.9
+  },
+  {
+   "word": "Você",
+   "start": 31.48,
+   "end": 31.72
+  },
+  {
+   "word": "decidiu.",
+   "start": 31.72,
+   "end": 32.26
+  },
+  {
+   "word": "Vai",
+   "start": 32.62,
+   "end": 32.8
+  },
+  {
+   "word": "embora.",
+   "start": 32.8,
+   "end": 33.1
+  },
+  {
+   "word": "Seus",
+   "start": 33.66,
+   "end": 33.84
+  },
+  {
+   "word": "pais",
+   "start": 33.84,
+   "end": 33.98
+  },
+  {
+   "word": "não",
+   "start": 33.98,
+   "end": 34.14
+  },
+  {
+   "word": "sabem.",
+   "start": 34.14,
+   "end": 34.5
+  },
+  {
+   "word": "Não",
+   "start": 34.76,
+   "end": 34.92
+  },
+  {
+   "word": "podem",
+   "start": 34.92,
+   "end": 35.32
+  },
+  {
+   "word": "saber.",
+   "start": 35.32,
+   "end": 35.66
+  },
+  {
+   "word": "Se",
+   "start": 36.1,
+   "end": 36.24
+  },
+  {
+   "word": "souberem,",
+   "start": 36.24,
+   "end": 36.7
+  },
+  {
+   "word": "vão",
+   "start": 37.02,
+   "end": 37.06
+  },
+  {
+   "word": "tentar",
+   "start": 37.06,
+   "end": 37.38
+  },
+  {
+   "word": "te",
+   "start": 37.38,
+   "end": 37.56
+  },
+  {
+   "word": "impedir.",
+   "start": 37.56,
+   "end": 38.08
+  },
+  {
+   "word": "Ou",
+   "start": 38.32,
+   "end": 38.52
+  },
+  {
+   "word": "pior:",
+   "start": 38.52,
+   "end": 38.7
+  },
+  {
+   "word": "vão",
+   "start": 39.22,
+   "end": 39.3
+  },
+  {
+   "word": "ser",
+   "start": 39.3,
+   "end": 39.5
+  },
+  {
+   "word": "punidos",
+   "start": 39.5,
+   "end": 40.1
+  },
+  {
+   "word": "por",
+   "start": 40.1,
+   "end": 40.36
+  },
+  {
+   "word": "não",
+   "start": 40.36,
+   "end": 40.52
+  },
+  {
+   "word": "te",
+   "start": 40.52,
+   "end": 40.64
+  },
+  {
+   "word": "entregar.",
+   "start": 40.64,
+   "end": 41.02
+  },
+  {
+   "word": "Quatro",
+   "start": 41.02,
+   "end": 41.86
+  },
+  {
+   "word": "da",
+   "start": 41.86,
+   "end": 42.08
+  },
+  {
+   "word": "manhã.",
+   "start": 42.08,
+   "end": 42.44
+  },
+  {
+   "word": "A",
+   "start": 42.86,
+   "end": 42.96
+  },
+  {
+   "word": "casa",
+   "start": 42.96,
+   "end": 43.28
+  },
+  {
+   "word": "em",
+   "start": 43.28,
+   "end": 43.7
+  },
+  {
+   "word": "silêncio.",
+   "start": 43.7,
+   "end": 44.3
+  },
+  {
+   "word": "Na",
+   "start": 44.68,
+   "end": 44.86
+  },
+  {
+   "word": "mochila:",
+   "start": 44.86,
+   "end": 45.28
+  },
+  {
+   "word": "duas",
+   "start": 45.72,
+   "end": 45.92
+  },
+  {
+   "word": "mudas",
+   "start": 45.92,
+   "end": 46.34
+  },
+  {
+   "word": "de",
+   "start": 46.34,
+   "end": 46.46
+  },
+  {
+   "word": "roupa,",
+   "start": 46.46,
+   "end": 46.88
+  },
+  {
+   "word": "um",
+   "start": 47.1,
+   "end": 47.22
+  },
+  {
+   "word": "pão",
+   "start": 47.22,
+   "end": 47.4
+  },
+  {
+   "word": "duro,",
+   "start": 47.4,
+   "end": 47.8
+  },
+  {
+   "word": "uma",
+   "start": 48.04,
+   "end": 48.16
+  },
+  {
+   "word": "lanterna,",
+   "start": 48.16,
+   "end": 48.76
+  },
+  {
+   "word": "seu",
+   "start": 49.04,
+   "end": 49.2
+  },
+  {
+   "word": "documento.",
+   "start": 49.2,
+   "end": 49.82
+  },
+  {
+   "word": "E",
+   "start": 50.12,
+   "end": 50.24
+  },
+  {
+   "word": "todo",
+   "start": 50.24,
+   "end": 50.62
+  },
+  {
+   "word": "o",
+   "start": 50.62,
+   "end": 50.84
+  },
+  {
+   "word": "dinheiro",
+   "start": 50.84,
+   "end": 51.12
+  },
+  {
+   "word": "que",
+   "start": 51.12,
+   "end": 51.38
+  },
+  {
+   "word": "você",
+   "start": 51.38,
+   "end": 51.6
+  },
+  {
+   "word": "juntou",
+   "start": 51.6,
+   "end": 52.0
+  },
+  {
+   "word": "na",
+   "start": 52.0,
+   "end": 52.12
+  },
+  {
+   "word": "vida.",
+   "start": 52.12,
+   "end": 52.46
+  },
+  {
+   "word": "Você",
+   "start": 52.9,
+   "end": 53.16
+  },
+  {
+   "word": "para",
+   "start": 53.16,
+   "end": 53.46
+  },
+  {
+   "word": "na",
+   "start": 53.46,
+   "end": 53.64
+  },
+  {
+   "word": "porta",
+   "start": 53.64,
+   "end": 53.9
+  },
+  {
+   "word": "do",
+   "start": 53.9,
+   "end": 54.1
+  },
+  {
+   "word": "quarto",
+   "start": 54.1,
+   "end": 54.38
+  },
+  {
+   "word": "dos",
+   "start": 54.38,
+   "end": 54.56
+  },
+  {
+   "word": "seus",
+   "start": 54.56,
+   "end": 54.7
+  },
+  {
+   "word": "pais.",
+   "start": 54.7,
+   "end": 55.0
+  },
+  {
+   "word": "Escuta",
+   "start": 55.5,
+   "end": 56.02
+  },
+  {
+   "word": "a",
+   "start": 56.02,
+   "end": 56.1
+  },
+  {
+   "word": "respiração",
+   "start": 56.1,
+   "end": 56.7
+  },
+  {
+   "word": "deles.",
+   "start": 56.7,
+   "end": 56.98
+  },
+  {
+   "word": "Pensa",
+   "start": 57.49,
+   "end": 57.86
+  },
+  {
+   "word": "em",
+   "start": 57.86,
+   "end": 57.98
+  },
+  {
+   "word": "deixar",
+   "start": 57.98,
+   "end": 58.26
+  },
+  {
+   "word": "um",
+   "start": 58.26,
+   "end": 58.4
+  },
+  {
+   "word": "bilhete.",
+   "start": 58.4,
+   "end": 58.82
+  },
+  {
+   "word": "Não",
+   "start": 59.34,
+   "end": 59.48
+  },
+  {
+   "word": "deixa.",
+   "start": 59.48,
+   "end": 59.78
+  },
+  {
+   "word": "Lá",
+   "start": 60.3,
+   "end": 60.4
+  },
+  {
+   "word": "fora,",
+   "start": 60.4,
+   "end": 60.68
+  },
+  {
+   "word": "Grâvia",
+   "start": 60.68,
+   "end": 61.3
+  },
+  {
+   "word": "ainda",
+   "start": 61.3,
+   "end": 61.68
+  },
+  {
+   "word": "cheira",
+   "start": 61.68,
+   "end": 62.2
+  },
+  {
+   "word": "a",
+   "start": 62.2,
+   "end": 62.25
+  },
+  {
+   "word": "fumaça.",
+   "start": 62.2,
+   "end": 62.78
+  },
+  {
+   "word": "Ao",
+   "start": 63.12,
+   "end": 63.3
+  },
+  {
+   "word": "longe,",
+   "start": 63.3,
+   "end": 63.64
+  },
+  {
+   "word": "sirenes.",
+   "start": 63.9,
+   "end": 64.44
+  },
+  {
+   "word": "Até",
+   "start": 64.92,
+   "end": 65.3
+  },
+  {
+   "word": "a",
+   "start": 65.3,
+   "end": 65.52
+  },
+  {
+   "word": "fronteira",
+   "start": 65.52,
+   "end": 65.96
+  },
+  {
+   "word": "são",
+   "start": 65.96,
+   "end": 66.18
+  },
+  {
+   "word": "quinhentos",
+   "start": 66.18,
+   "end": 66.715
+  },
+  {
+   "word": "e",
+   "start": 66.715,
+   "end": 67.25
+  },
+  {
+   "word": "quarenta",
+   "start": 67.25,
+   "end": 67.785
+  },
+  {
+   "word": "quilômetros.",
+   "start": 67.785,
+   "end": 68.32
+  },
+  {
+   "word": "Arame",
+   "start": 68.32,
+   "end": 68.62
+  },
+  {
+   "word": "farpado,",
+   "start": 68.62,
+   "end": 69.22
+  },
+  {
+   "word": "cães",
+   "start": 69.56,
+   "end": 69.96
+  },
+  {
+   "word": "e",
+   "start": 69.96,
+   "end": 70.14
+  },
+  {
+   "word": "soldados",
+   "start": 70.14,
+   "end": 70.62
+  },
+  {
+   "word": "com",
+   "start": 70.62,
+   "end": 70.9
+  },
+  {
+   "word": "ordem",
+   "start": 70.9,
+   "end": 71.32
+  },
+  {
+   "word": "de",
+   "start": 71.32,
+   "end": 71.46
+  },
+  {
+   "word": "atirar.",
+   "start": 71.46,
+   "end": 71.9
+  },
+  {
+   "word": "Do",
+   "start": 72.32,
+   "end": 72.46
+  },
+  {
+   "word": "outro",
+   "start": 72.46,
+   "end": 72.68
+  },
+  {
+   "word": "lado:",
+   "start": 72.68,
+   "end": 73.0
+  },
+  {
+   "word": "uma",
+   "start": 73.42,
+   "end": 73.6
+  },
+  {
+   "word": "vida",
+   "start": 73.6,
+   "end": 73.96
+  },
+  {
+   "word": "melhor.",
+   "start": 73.96,
+   "end": 74.34
+  },
+  {
+   "word": "Primeiro",
+   "start": 74.84,
+   "end": 75.22
+  },
+  {
+   "word": "destino:",
+   "start": 75.22,
+   "end": 75.72
+  },
+  {
+   "word": "Kolvar.",
+   "start": 75.72,
+   "end": 76.132
+  },
+  {
+   "word": "Cento",
+   "start": 76.132,
+   "end": 76.544
+  },
+  {
+   "word": "e",
+   "start": 76.544,
+   "end": 76.956
+  },
+  {
+   "word": "vinte",
+   "start": 76.956,
+   "end": 77.368
+  },
+  {
+   "word": "quilômetros",
+   "start": 77.368,
+   "end": 77.78
+  },
+  {
+   "word": "ao",
+   "start": 77.78,
+   "end": 78.28
+  },
+  {
+   "word": "sul.",
+   "start": 78.28,
+   "end": 78.5
+  },
+  {
+   "word": "E",
+   "start": 78.88,
+   "end": 79.04
+  },
+  {
+   "word": "você",
+   "start": 79.04,
+   "end": 79.28
+  },
+  {
+   "word": "tem",
+   "start": 79.28,
+   "end": 79.56
+  },
+  {
+   "word": "quatro",
+   "start": 79.56,
+   "end": 80.0
+  },
+  {
+   "word": "jeitos",
+   "start": 80.0,
+   "end": 80.5
+  },
+  {
+   "word": "de",
+   "start": 80.5,
+   "end": 80.68
+  },
+  {
+   "word": "chegar",
+   "start": 80.68,
+   "end": 80.9
+  },
+  {
+   "word": "lá.",
+   "start": 80.9,
+   "end": 81.18
+  },
+  {
+   "word": "A:",
+   "start": 81.62,
+   "end": 81.82
+  },
+  {
+   "word": "Ônibus.",
+   "start": 82.22,
+   "end": 82.68
+  },
+  {
+   "word": "Dezoito",
+   "start": 82.68,
+   "end": 83.32
+  },
+  {
+   "word": "marcos.",
+   "start": 83.32,
+   "end": 83.8
+  },
+  {
+   "word": "Rápido,",
+   "start": 83.8,
+   "end": 84.62
+  },
+  {
+   "word": "mas",
+   "start": 84.8,
+   "end": 85.08
+  },
+  {
+   "word": "tem",
+   "start": 85.08,
+   "end": 85.28
+  },
+  {
+   "word": "barreira",
+   "start": 85.28,
+   "end": 85.68
+  },
+  {
+   "word": "policial",
+   "start": 85.68,
+   "end": 86.22
+  },
+  {
+   "word": "na",
+   "start": 86.22,
+   "end": 86.38
+  },
+  {
+   "word": "estrada.",
+   "start": 86.38,
+   "end": 86.78
+  },
+  {
+   "word": "B:",
+   "start": 87.12,
+   "end": 87.52
+  },
+  {
+   "word": "Táxi.",
+   "start": 87.92,
+   "end": 88.28
+  },
+  {
+   "word": "Sessenta",
+   "start": 88.28,
+   "end": 89.02
+  },
+  {
+   "word": "marcos.",
+   "start": 89.02,
+   "end": 89.56
+  },
+  {
+   "word": "Discreto…",
+   "start": 89.94,
+   "end": 90.44
+  },
+  {
+   "word": "se",
+   "start": 90.92,
+   "end": 91.06
+  },
+  {
+   "word": "o",
+   "start": 91.06,
+   "end": 91.18
+  },
+  {
+   "word": "motorista",
+   "start": 91.18,
+   "end": 91.68
+  },
+  {
+   "word": "não",
+   "start": 91.68,
+   "end": 91.84
+  },
+  {
+   "word": "for",
+   "start": 91.84,
+   "end": 92.06
+  },
+  {
+   "word": "informante.",
+   "start": 92.06,
+   "end": 92.64
+  },
+  {
+   "word": "C:",
+   "start": 93.08,
+   "end": 93.4
+  },
+  {
+   "word": "Roubar",
+   "start": 93.86,
+   "end": 94.22
+  },
+  {
+   "word": "um",
+   "start": 94.22,
+   "end": 94.4
+  },
+  {
+   "word": "carro.",
+   "start": 94.4,
+   "end": 94.74
+  },
+  {
+   "word": "De",
+   "start": 95.1,
+   "end": 95.18
+  },
+  {
+   "word": "graça.",
+   "start": 95.18,
+   "end": 95.58
+  },
+  {
+   "word": "Mas,",
+   "start": 95.88,
+   "end": 96.12
+  },
+  {
+   "word": "se",
+   "start": 96.12,
+   "end": 96.34
+  },
+  {
+   "word": "a",
+   "start": 96.34,
+   "end": 96.42
+  },
+  {
+   "word": "polícia",
+   "start": 96.42,
+   "end": 96.76
+  },
+  {
+   "word": "descobrir,",
+   "start": 96.76,
+   "end": 97.24
+  },
+  {
+   "word": "vem",
+   "start": 97.68,
+   "end": 97.78
+  },
+  {
+   "word": "atrás",
+   "start": 97.78,
+   "end": 98.14
+  },
+  {
+   "word": "de",
+   "start": 98.14,
+   "end": 98.32
+  },
+  {
+   "word": "você.",
+   "start": 98.32,
+   "end": 98.54
+  },
+  {
+   "word": "D:",
+   "start": 99.1,
+   "end": 99.36
+  },
+  {
+   "word": "A",
+   "start": 99.78,
+   "end": 99.9
+  },
+  {
+   "word": "pé.",
+   "start": 99.9,
+   "end": 100.1
+  },
+  {
+   "word": "De",
+   "start": 100.56,
+   "end": 100.64
+  },
+  {
+   "word": "graça.",
+   "start": 100.64,
+   "end": 101.04
+  },
+  {
+   "word": "Três",
+   "start": 101.4,
+   "end": 101.66
+  },
+  {
+   "word": "dias",
+   "start": 101.66,
+   "end": 101.98
+  },
+  {
+   "word": "de",
+   "start": 101.98,
+   "end": 102.14
+  },
+  {
+   "word": "caminhada,",
+   "start": 102.14,
+   "end": 102.62
+  },
+  {
+   "word": "e",
+   "start": 102.62,
+   "end": 103.08
+  },
+  {
+   "word": "o",
+   "start": 103.08,
+   "end": 103.22
+  },
+  {
+   "word": "seu",
+   "start": 103.22,
+   "end": 103.32
+  },
+  {
+   "word": "corpo",
+   "start": 103.32,
+   "end": 103.78
+  },
+  {
+   "word": "vai",
+   "start": 103.78,
+   "end": 104.14
+  },
+  {
+   "word": "cobrar.",
+   "start": 104.14,
+   "end": 104.52
+  },
+  {
+   "word": "Comente",
+   "start": 105.02,
+   "end": 105.46
+  },
+  {
+   "word": "A,",
+   "start": 105.46,
+   "end": 105.9
+  },
+  {
+   "word": "B,",
+   "start": 106.26,
+   "end": 106.32
+  },
+  {
+   "word": "C",
+   "start": 106.62,
+   "end": 106.8
+  },
+  {
+   "word": "ou",
+   "start": 106.8,
+   "end": 107.1
+  },
+  {
+   "word": "D.",
+   "start": 107.1,
+   "end": 107.3
+  },
+  {
+   "word": "A",
+   "start": 107.7,
+   "end": 107.82
+  },
+  {
+   "word": "mais",
+   "start": 107.82,
+   "end": 108.04
+  },
+  {
+   "word": "votada",
+   "start": 108.04,
+   "end": 108.52
+  },
+  {
+   "word": "decide",
+   "start": 108.52,
+   "end": 108.96
+  },
+  {
+   "word": "o",
+   "start": 108.96,
+   "end": 109.18
+  },
+  {
+   "word": "próximo",
+   "start": 109.18,
+   "end": 109.5
+  },
+  {
+   "word": "episódio.",
+   "start": 109.5,
+   "end": 109.9
+  },
+  {
+   "word": "Em",
+   "start": 110.48,
+   "end": 110.62
+  },
+  {
+   "word": "Valdória,",
+   "start": 110.62,
+   "end": 111.1
+  },
+  {
+   "word": "toda",
+   "start": 111.48,
+   "end": 111.66
+  },
+  {
+   "word": "escolha",
+   "start": 111.82,
+   "end": 112.26
+  },
+  {
+   "word": "tem",
+   "start": 112.26,
+   "end": 112.44
+  },
+  {
+   "word": "um",
+   "start": 112.44,
+   "end": 112.62
+  },
+  {
+   "word": "preço.",
+   "start": 112.62,
+   "end": 112.76
+  }
+ ]
+}
