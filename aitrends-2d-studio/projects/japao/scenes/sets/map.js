@@ -24,7 +24,7 @@ export function mapBase(g, t, cam, o = {}) {
     const red = o.red ?? 0;
     if (red > 0) { g.save(); shape(g, LAND.continent, null, null); g.clip(); const [kx, ky] = PLACES.kezhar; const rr = red * 1500;
       g.fillStyle = alpha('#c2242c', 0.55); g.beginPath(); for (let i = 0; i <= 60; i++) { const a = i / 60 * Math.PI * 2, d = rr * (0.85 + 0.15 * noise(i * 0.7 + t * 0.3, 9)); i ? g.lineTo(kx + Math.cos(a) * d, ky + Math.sin(a) * d) : g.moveTo(kx + Math.cos(a) * d, ky + Math.sin(a) * d); } g.closePath(); g.fill();
-      if (o.crumble) { const r = rng(4); g.globalCompositeOperation = 'destination-out'; for (let i = 0; i < 260; i++) { const x = -900 + r() * 2400, y = -600 + r() * 1000; if (r() < o.crumble) { g.fillStyle = 'rgba(0,0,0,1)'; g.beginPath(); g.arc(x, y, 30 + r() * 70, 0, 7); g.fill(); } } }
+      if (o.crumble) { const r = rng(4); for (let i = 0; i < 260; i++) { const x = -900 + r() * 2400, y = -600 + r() * 1000; if (r() < o.crumble) { g.fillStyle = mix(ui.bpBg, bp, 0.22); g.beginPath(); g.arc(x, y, 30 + r() * 70, 0, 7); g.fill(); } } }
       g.restore();
       if (o.borders) { g.save(); g.strokeStyle = alpha('#ff6a5a', 0.4); g.lineWidth = 2; g.setLineDash([10, 10]); for (const [a, b] of [[[100, -600], [260, 290]], [[600, -600], [520, 300]], [[1000, -600], [900, 200]]]) { g.beginPath(); g.moveTo(...a); g.lineTo(...b); g.stroke(); } g.restore(); }
     }
