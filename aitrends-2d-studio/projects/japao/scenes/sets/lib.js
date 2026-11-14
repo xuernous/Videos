@@ -283,7 +283,7 @@ export function nameCard(g, t, dur, name, epithet, o = {}) {
 }
 // song lyrics in serif italic, lines appear on their first word
 export function lyrics(g, t, info, lines, o = {}) {
-  const { y = E.H * 0.24, size = V(54, 56), color = '#f6ecd8', gap = 1.18 } = o;
+  const { y = E.H * 0.24, size = V(66, 60), color = '#f6ecd8', gap = 1.18 } = o;
   const gt = info.globalT, after = info.shot.start - 0.2;
   lines.forEach((ln, i) => {
     const wt = o.times?.[i] ?? wordTime(ln.split(' ')[0], after) ?? info.shot.start + i;
@@ -304,7 +304,7 @@ export function faceShot(g, t, info, o) {
   let cx = E.W / 2 + (o.x ?? 0), cy = E.H * V(0.6, 0.52) + (o.y ?? 0);
   if (o.shakeAmp) { const [sx, sy] = shake(t, o.shakeAmp, 8); cx += sx; cy += sy; }
   o.under?.(g, cx, cy, r, M);
-  bigFace(g, cx, cy, r, { outfit: o.who, expr: typeof o.expr === 'function' ? o.expr(t) : o.expr, talk: o.talk || 0, look: o.look, rimColor: o.rimColor || M.rim, rimSide: o.rimSide ?? -1, tilt: o.tilt, blink: o.blink ?? blinkAt(t, o.blinkP || 3.3) });
+  bigFace(g, cx, cy, r, { outfit: o.who, face: o.face, expr: typeof o.expr === 'function' ? o.expr(t) : o.expr, talk: o.talk || 0, look: o.look, rimColor: o.rimColor || M.rim, rimSide: o.rimSide ?? -1, tilt: o.tilt, blink: o.blink ?? blinkAt(t, o.blinkP || 3.3) });
   bigExtras(g, cx, cy, r, o.who, o.tilt || 0);
   o.over?.(g, cx, cy, r, M);
   return { cx, cy, r, M };
