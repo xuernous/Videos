@@ -1,0 +1,4669 @@
+{
+ "title": "Japão",
+ "duration": 706.49,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 3.36,
+   "line": "Existe um documento que não deveria existir.",
+   "scene": "Dark archive, lone lectern under a lamp, the chronicle; slow push",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "riser",
+     "gain": -18.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s002",
+   "start": 3.36,
+   "end": 5.63,
+   "line": "É a crônica oficial de Kezhar,",
+   "scene": "Insert: chronicle cover, black wolf on red seal, dust",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s003",
+   "start": 5.63,
+   "end": 8.88,
+   "line": "um império que quase não deixou rastros.",
+   "scene": "Map: Kezhar territory across the sea crumbles to dust",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "wind",
+     "gain": -20.0
+    }
+   ]
+  },
+  {
+   "id": "s004",
+   "start": 8.88,
+   "end": 10.96,
+   "line": "Em oito páginas diferentes,",
+   "scene": "Eight pages fan out, each with a scraped smear; 8 counter",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -14.0
+    },
+    {
+     "at": 0.6,
+     "name": "counter",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s005",
+   "start": 10.96,
+   "end": 13.59,
+   "line": "alguém raspou um nome com uma lâmina.",
+   "scene": "Macro: a blade scraping parchment",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s006",
+   "start": 13.59,
+   "end": 14.66,
+   "line": "Não rasgou.",
+   "scene": "Page: tear line drawn, then crossed out",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s007",
+   "start": 14.66,
+   "end": 15.87,
+   "line": "Não queimou.",
+   "scene": "Page: flame icon, crossed out",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s008",
+   "start": 15.87,
+   "end": 17.03,
+   "line": "Raspou.",
+   "scene": "Macro: blade scrapes, shavings fly",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s009",
+   "start": 17.03,
+   "end": 18.69,
+   "line": "Letra por letra.",
+   "scene": "Letters vanish one by one",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14.0
+    },
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -14.0
+    },
+    {
+     "at": 0.8,
+     "name": "tick",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s010",
+   "start": 18.69,
+   "end": 22.77,
+   "line": "Como quem tenta apagar não um texto, mas uma pessoa.",
+   "scene": "The scraped name morphs into a man's silhouette being erased",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s011",
+   "start": 22.77,
+   "end": 24.44,
+   "line": "Sob luz ultravioleta,",
+   "scene": "Researcher switches on a UV lamp; violet light floods the page",
+   "set": "archive",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "buzz",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s012",
+   "start": 24.44,
+   "end": 28.59,
+   "line": "o nome voltou a aparecer: Kurozane no Hayato.",
+   "scene": "UV insert: KUROZANE NO HAYATO glows violet",
+   "set": "archive",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -14.0
+    },
+    {
+     "at": 2.2,
+     "name": "stinger",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s013",
+   "start": 28.59,
+   "end": 30.98,
+   "line": "Os registros japoneses de 1019",
+   "scene": "Japanese scroll, 1019 label",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s014",
+   "start": 30.98,
+   "end": 35.43,
+   "line": "falam apenas de um ataque de piratas, breve e repelido.",
+   "scene": "Blueprint: a few pirate boats arrive and are repelled",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s015",
+   "start": 35.43,
+   "end": 38.22,
+   "line": "A crônica de Kezhar conta outra história.",
+   "scene": "Thin scroll vs thick chronicle; push to the chronicle",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s016",
+   "start": 38.22,
+   "end": 41.12,
+   "line": "Fala de uma frota que cobriu o horizonte",
+   "scene": "Dusk sea, sails cover the horizon",
+   "set": "sea",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -14.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s017",
+   "start": 41.12,
+   "end": 43.91,
+   "line": "e de generais enviados, um após o outro,",
+   "scene": "Roster: general silhouettes appear one after another",
+   "set": "roster",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14.0
+    },
+    {
+     "at": 0.7,
+     "name": "pop",
+     "gain": -14.0
+    },
+    {
+     "at": 1.1,
+     "name": "pop",
+     "gain": -14.0
+    },
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s018",
+   "start": 43.91,
+   "end": 46.1,
+   "line": "para caçar uma única coisa.",
+   "scene": "A single small figure on a hill at night, wind",
+   "set": "hill",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s019",
+   "start": 46.1,
+   "end": 49.88,
+   "line": "E conta que essa coisa matou todos eles.",
+   "scene": "Roster: each general crossed with a red slash",
+   "set": "roster",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hit",
+     "gain": -10.0
+    },
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -10.0
+    },
+    {
+     "at": 1.3,
+     "name": "hit",
+     "gain": -10.0
+    },
+    {
+     "at": 1.7,
+     "name": "hit",
+     "gain": -10.0
+    },
+    {
+     "at": 2.4,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s020",
+   "start": 49.88,
+   "end": 52.77,
+   "line": "Os historiadores dizem que ele nunca existiu.",
+   "scene": "Modern study: historians shake heads, stamp LENDA",
+   "set": "study",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -10.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s021",
+   "start": 52.77,
+   "end": 56.2,
+   "line": "O império que ele destruiu dizia o contrário.",
+   "scene": "Chronicle: the 8 scraped names glow; push to the wolf seal",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "riser",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s022",
+   "start": 56.2,
+   "end": 58.41,
+   "line": "Primavera de 1019.",
+   "scene": "Title card over Iki at dawn: KUROZANE NO HAYATO / PRIMAVERA DE 1019",
+   "set": "coast",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.8
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -8.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   },
+   "captions": false
+  },
+  {
+   "id": "s023",
+   "start": 58.41,
+   "end": 61.95,
+   "line": "Iki era uma ilha pequena, de baías cor de jade,",
+   "scene": "3D orbit of a small island with jade bays",
+   "set": "island3d",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   },
+   "notes": "3d"
+  },
+  {
+   "id": "s024",
+   "start": 61.95,
+   "end": 64.48,
+   "line": "guardada por apenas trinta guerreiros.",
+   "scene": "Thirty warriors in a line on the beach, counter 30",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "counter",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s025",
+   "start": 64.48,
+   "end": 67.53,
+   "line": "Naquela época, samurai ainda não era um título.",
+   "scene": "Blueprint: SAMURAI = AQUELE QUE SERVE, not a title",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s026",
+   "start": 67.53,
+   "end": 69.06,
+   "line": "Era quem servia.",
+   "scene": "Hayato bows before Sadayuki, warm dawn",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s027",
+   "start": 69.06,
+   "end": 71.22,
+   "line": "Hayato tinha vinte e quatro anos,",
+   "scene": "Hayato medium on the beach, wind; 24 ANOS",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s028",
+   "start": 71.22,
+   "end": 72.19,
+   "line": "um arco certeiro",
+   "scene": "Hayato draws the bow, arrow hits a target",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "swish",
+     "gain": -10.0
+    },
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s029",
+   "start": 72.19,
+   "end": 74.39,
+   "line": "e a tachi que herdou do pai.",
+   "scene": "Insert: the tachi in its clean sheath, gleam",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s030",
+   "start": 74.39,
+   "end": 76.85,
+   "line": "Conhecia cada um dos trinta.",
+   "scene": "The thirty around a fire at night, pan across faces",
+   "set": "campfire",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s031",
+   "start": 76.85,
+   "end": 79.89,
+   "line": "O velho comandante Sadayuki, de voz baixa.",
+   "scene": "Sadayuki speaks softly; name card",
+   "set": "campfire",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s032",
+   "start": 79.89,
+   "end": 81.81,
+   "line": "E Jirō, seu melhor amigo,",
+   "scene": "Jiro grins and claps Hayato's shoulder",
+   "set": "campfire",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s033",
+   "start": 81.81,
+   "end": 85.25,
+   "line": "que perdia todas as apostas e pagava com saquê.",
+   "scene": "Dice: Jiro loses, pours saké for Hayato",
+   "set": "campfire",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "tick",
+     "gain": -12.0
+    },
+    {
+     "at": 0.75,
+     "name": "tick",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s034",
+   "start": 85.25,
+   "end": 86.62,
+   "line": "Do outro lado do mar,",
+   "scene": "Map: Iki, the sea, the continent",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "whip",
+    "dur": 0.35,
+    "dir": 1
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s035",
+   "start": 86.62,
+   "end": 91.33,
+   "line": "o Império de Kezhar tinha engolido reinos inteiros em três gerações.",
+   "scene": "Map: Kezhar red spreading over kingdoms, 3 GERAÇÕES",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "counter",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s036",
+   "start": 91.33,
+   "end": 92.99,
+   "line": "Tinha cavalaria pesada,",
+   "scene": "Kezhar heavy cavalry charging at dusk",
+   "set": "plain",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -14.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s037",
+   "start": 92.99,
+   "end": 94.14,
+   "line": "engenheiros,",
+   "scene": "Siege engines and engineers",
+   "set": "plain",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s038",
+   "start": 94.14,
+   "end": 96.95,
+   "line": "uma frota tomada de povos que já não existiam",
+   "scene": "Ships with sails of vanished peoples, ghostly",
+   "set": "sea",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s039",
+   "start": 96.95,
+   "end": 101.27,
+   "line": "e escribas que registravam tudo, os Escreventes.",
+   "scene": "Scribes writing by candlelight: the Escreventes",
+   "set": "scriptorium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s040",
+   "start": 101.27,
+   "end": 103.72,
+   "line": "No topo, o Imperador Tarvos,",
+   "scene": "Throne hall, Tarvos on the throne, wolf banners",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s041",
+   "start": 103.72,
+   "end": 106.28,
+   "line": "que nunca tinha perdido uma guerra.",
+   "scene": "Tarvos close-up smirk, crown; 0 DERROTAS",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s042",
+   "start": 106.28,
+   "end": 108.59,
+   "line": "E que agora queria o mar.",
+   "scene": "Tarvos closes his fist over the sea on a map table",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "hit",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s043",
+   "start": 108.59,
+   "end": 113.09,
+   "line": "Naquela manhã, o comandante o mandou ao norte da ilha numa tarefa menor.",
+   "scene": "Sadayuki points north; Hayato nods and rides off",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s044",
+   "start": 113.09,
+   "end": 115.47,
+   "line": "Na volta, do alto de uma colina,",
+   "scene": "Hayato on horseback on a hilltop",
+   "set": "hill",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s045",
+   "start": 115.47,
+   "end": 117.07,
+   "line": "ele viu as velas.",
+   "scene": "Hayato close-up, shocked",
+   "set": "hill",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s046",
+   "start": 117.07,
+   "end": 118.66,
+   "line": "Primeiro dezenas.",
+   "scene": "Dozens of sails on the horizon",
+   "set": "sea",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s047",
+   "start": 118.66,
+   "end": 120.77,
+   "line": "Depois, centenas.",
+   "scene": "Pull back: hundreds of sails",
+   "set": "sea",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s048",
+   "start": 120.77,
+   "end": 124.59,
+   "line": "Nos mastros, um lobo negro sobre fundo vermelho.",
+   "scene": "Insert: black wolf on red banner flapping",
+   "set": "sea",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s049",
+   "start": 124.59,
+   "end": 126.65,
+   "line": "Quando chegou, era tarde.",
+   "scene": "Hayato gallops down; smoke over the village",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -12.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s050",
+   "start": 126.65,
+   "end": 129.06,
+   "line": "Eram trinta contra milhares.",
+   "scene": "30 small defenders vs a horde; 30 vs MILHARES",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s051",
+   "start": 129.06,
+   "end": 131.1,
+   "line": "Uma flecha derrubou seu cavalo",
+   "scene": "Arrow hits the horse; slow fall",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -8.0
+    },
+    {
+     "at": 0.5,
+     "name": "slowmo",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s052",
+   "start": 131.1,
+   "end": 133.86,
+   "line": "e ele caiu na lama, escondido pelo capim.",
+   "scene": "Hayato in mud, hidden by tall grass",
+   "set": "grass",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s053",
+   "start": 133.86,
+   "end": 135.14,
+   "line": "Ouviu tudo.",
+   "scene": "Hayato close-up in the grass, eyes wide",
+   "set": "grass",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s054",
+   "start": 135.14,
+   "end": 136.22,
+   "line": "Os gritos.",
+   "scene": "Through grass blades: silhouettes and fire glow",
+   "set": "grass",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "murmur",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s055",
+   "start": 136.22,
+   "end": 137.28,
+   "line": "O fogo.",
+   "scene": "Village roofs burning, embers",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s056",
+   "start": 137.28,
+   "end": 139.49,
+   "line": "Depois, o silêncio.",
+   "scene": "Smoke, ash falling, empty beach",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": []
+  },
+  {
+   "id": "s057",
+   "start": 139.49,
+   "end": 142.91,
+   "line": "À noite, encontrou os companheiros alinhados na praia,",
+   "scene": "Night beach, moon: the covered fallen in a row; Hayato walks",
+   "set": "beach",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s058",
+   "start": 142.91,
+   "end": 144.94,
+   "line": "contados como mercadoria.",
+   "scene": "Insert: chalk tally marks on a plank",
+   "set": "beach",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -12.0
+    },
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -12.0
+    },
+    {
+     "at": 0.7,
+     "name": "tick",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s059",
+   "start": 144.94,
+   "end": 148.5,
+   "line": "Jirō estava no fim da fileira, de olhos abertos.",
+   "scene": "Hayato kneels at the end of the row; blue sleeve",
+   "set": "beach",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s060",
+   "start": 148.5,
+   "end": 150.22,
+   "line": "Ninguém respirava.",
+   "scene": "Wide still beach, waves, moon",
+   "set": "beach",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s061",
+   "start": 150.22,
+   "end": 154.71,
+   "line": "Hayato enterrou os trinta sob pedras, numa ravina atrás da praia.",
+   "scene": "Ravine: Hayato placing stones on cairns",
+   "set": "ravine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s062",
+   "start": 154.71,
+   "end": 156.63,
+   "line": "Levou a noite inteira.",
+   "scene": "Time-lapse: moon arcs, 30 cairns, dawn",
+   "set": "ravine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "clock",
+     "gain": -18.0
+    }
+   ]
+  },
+  {
+   "id": "s063",
+   "start": 156.63,
+   "end": 160.21,
+   "line": "A culpa de estar vivo o acompanharia para sempre.",
+   "scene": "Hayato close-up, grief",
+   "set": "ravine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s064",
+   "start": 160.21,
+   "end": 164.03,
+   "line": "Depois, pegou o arco de Jirō e contou as flechas.",
+   "scene": "Insert: Jiro's bow, counting arrows",
+   "set": "ravine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s065",
+   "start": 164.03,
+   "end": 165.18,
+   "line": "Eram onze.",
+   "scene": "Eleven arrows in a row; counter 11",
+   "set": "ravine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s066",
+   "start": 165.18,
+   "end": 168.92,
+   "line": "Durante nove noites, ele observou o acampamento inimigo.",
+   "scene": "Enemy camp from the hill, Hayato silhouette fg; NOITE 1..9",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -14.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s067",
+   "start": 168.92,
+   "end": 171.66,
+   "line": "O general Ordek, o Primeiro a Desembarcar,",
+   "scene": "Ordek intro, helmet; name card",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s068",
+   "start": 171.66,
+   "end": 176.09,
+   "line": "saía sozinho todas as noites até a paliçada para olhar o mar.",
+   "scene": "Ordek walks alone to the palisade, looks at the sea",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s069",
+   "start": 176.09,
+   "end": 178.36,
+   "line": "Na décima noite, sem lua,",
+   "scene": "Moonless sky; NOITE 10",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s070",
+   "start": 178.36,
+   "end": 180.38,
+   "line": "Hayato subiu numa árvore.",
+   "scene": "Hayato climbs a tree",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s071",
+   "start": 180.38,
+   "end": 182.25,
+   "line": "Tinha onze flechas.",
+   "scene": "Insert: quiver with 11 arrows",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s072",
+   "start": 182.25,
+   "end": 183.35,
+   "line": "Usou uma.",
+   "scene": "Freeze: the arrow hangs mid-flight over the palisade",
+   "set": "camp",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -8.0
+    },
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s073",
+   "start": 183.35,
+   "end": 186.29,
+   "line": "Mas a crônica registra o que veio depois.",
+   "scene": "Chronicle page: scribe writing",
+   "set": "scriptorium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s074",
+   "start": 186.29,
+   "end": 190.99,
+   "line": "Os oficiais de Kezhar mataram dez moradores na praia como castigo.",
+   "scene": "Ten villagers kneel by torchlight; cut before violence; 10",
+   "set": "beach",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "impact",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s075",
+   "start": 190.99,
+   "end": 193.53,
+   "line": "Hayato assistiu do alto da árvore.",
+   "scene": "Hayato close-up in leaves, horror",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s076",
+   "start": 193.53,
+   "end": 196.35,
+   "line": "Entendeu que cada flecha tinha um preço,",
+   "scene": "Blueprint scale: 1 arrow vs 10 lives",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s077",
+   "start": 196.35,
+   "end": 198.79,
+   "line": "e nem sempre era ele quem pagava.",
+   "scene": "Scale tips toward the villagers",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s078",
+   "start": 198.79,
+   "end": 203.11,
+   "line": "Então decidiu que o preço para o império teria que ser maior.",
+   "scene": "Hayato determined, torchlight; red wolf",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "riser",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s079",
+   "start": 203.11,
+   "end": 207.71,
+   "line": "De madrugada, com uma faca, ele fez um corte na bainha da tachi.",
+   "scene": "Macro: knife cuts a notch into the sheath at dawn",
+   "set": "dawn",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "swish",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s080",
+   "start": 207.71,
+   "end": 208.91,
+   "line": "Não era orgulho.",
+   "scene": "Hayato's face, still",
+   "set": "dawn",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s081",
+   "start": 208.91,
+   "end": 210.1,
+   "line": "Era uma conta.",
+   "scene": "Sheath with the notch",
+   "set": "dawn",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s082",
+   "start": 210.1,
+   "end": 211.44,
+   "line": "Primeira marca.",
+   "scene": "Mark I: numeral, roster Ordek crossed",
+   "set": "mark",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s083",
+   "start": 211.44,
+   "end": 213.41,
+   "line": "Foi então que encontrou Sayo,",
+   "scene": "Burned temple ruins; Hayato walks",
+   "set": "temple",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s084",
+   "start": 213.41,
+   "end": 218.45,
+   "line": "uma menina de nove anos escondida num poço seco atrás do templo queimado.",
+   "scene": "Top-down into a dry well: Sayo looks up",
+   "set": "temple",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s085",
+   "start": 218.45,
+   "end": 220.85,
+   "line": "A mãe nunca voltou para buscá-la.",
+   "scene": "Sayo close-up, sad",
+   "set": "temple",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s086",
+   "start": 220.85,
+   "end": 223.05,
+   "line": "Ela olhou para ele e perguntou:",
+   "scene": "OTS: Sayo looks up at Hayato",
+   "set": "temple",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s087",
+   "start": 223.05,
+   "end": 224.66,
+   "line": "\"Você é dos nossos?\"",
+   "scene": "Sayo close-up asks",
+   "set": "temple",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s088",
+   "start": 224.66,
+   "end": 226.37,
+   "line": "Ele não soube responder.",
+   "scene": "Hayato close-up, conflicted",
+   "set": "temple",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s089",
+   "start": 226.37,
+   "end": 229.0,
+   "line": "Hayato a levou consigo para as colinas.",
+   "scene": "Hills: the tall figure and the small one walk",
+   "set": "hills",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s090",
+   "start": 229.0,
+   "end": 231.17,
+   "line": "Ensinou-a a andar sem fazer barulho",
+   "scene": "Forest: both tiptoe",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s091",
+   "start": 231.17,
+   "end": 233.85,
+   "line": "e a apagar uma fogueira sem fumaça.",
+   "scene": "Campfire smothered with earth, no smoke",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s092",
+   "start": 233.85,
+   "end": 236.98,
+   "line": "Ela, em troca, falava o tempo todo.",
+   "scene": "Sayo talks and talks, Hayato listens",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s093",
+   "start": 236.98,
+   "end": 240.71,
+   "line": "Era a primeira voz em semanas que não estava gritando.",
+   "scene": "Hayato close-up, softening",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s094",
+   "start": 240.71,
+   "end": 243.68,
+   "line": "E, numa noite, ela começou a cantar:",
+   "scene": "Night fire, Sayo begins to sing, stars",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s095",
+   "start": 243.68,
+   "end": 247.34,
+   "line": "\"Da lama ele levantou, pela noite ele voltou,",
+   "scene": "Lyrics over Sayo singing",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s096",
+   "start": 247.34,
+   "end": 251.02,
+   "line": "cada nome que o mar trouxe a lâmina dele levou.\"",
+   "scene": "Lyrics over the sheath and the sea",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s097",
+   "start": 251.02,
+   "end": 254.09,
+   "line": "O exército já tinha tomado o norte de Kyushu.",
+   "scene": "Map: north Kyushu turns red",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "impact",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s098",
+   "start": 254.09,
+   "end": 256.32,
+   "line": "Nas planícies, comandava Harsa,",
+   "scene": "Harsa on horseback; name card",
+   "set": "plain",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -12.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s099",
+   "start": 256.32,
+   "end": 260.87,
+   "line": "a Senhora dos Cavalos, cuja cavalaria varria aldeias inteiras.",
+   "scene": "Cavalry sweeps a village",
+   "set": "plain",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s100",
+   "start": 260.87,
+   "end": 263.84,
+   "line": "Ninguém vencia cavalaria em campo aberto.",
+   "scene": "Blueprint: cavalry arrows crush infantry in open field",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s101",
+   "start": 263.84,
+   "end": 266.59,
+   "line": "Então Hayato escolheu os arrozais.",
+   "scene": "Hayato at the edge of flooded rice paddies",
+   "set": "paddies",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s102",
+   "start": 266.59,
+   "end": 269.3,
+   "line": "Provocou Harsa até os campos alagados,",
+   "scene": "Hayato shoots; cavalry pursue into the paddies",
+   "set": "paddies",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s103",
+   "start": 269.3,
+   "end": 271.93,
+   "line": "onde a lama escondia buracos fundos.",
+   "scene": "Cross-section: water, mud, deep holes",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s104",
+   "start": 271.93,
+   "end": 273.68,
+   "line": "A cavalaria afundou.",
+   "scene": "Horses sink, splashes",
+   "set": "paddies",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s105",
+   "start": 273.68,
+   "end": 275.44,
+   "line": "E ele atirou a galope,",
+   "scene": "Hayato gallops and shoots, speed lines",
+   "set": "paddies",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -10.0
+    },
+    {
+     "at": 0.9,
+     "name": "swish",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s106",
+   "start": 275.44,
+   "end": 277.69,
+   "line": "como seus companheiros tinham ensinado.",
+   "scene": "Ghosts of the thirty ride beside him",
+   "set": "paddies",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s107",
+   "start": 277.69,
+   "end": 279.06,
+   "line": "Segunda marca.",
+   "scene": "Mark II",
+   "set": "mark",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s108",
+   "start": 279.06,
+   "end": 282.42,
+   "line": "Numa estrada, ele interceptou um mensageiro de Quioto.",
+   "scene": "Road: Hayato stops a messenger with his bow",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s109",
+   "start": 282.42,
+   "end": 284.89,
+   "line": "A carta da corte dizia que o assunto seria",
+   "scene": "Insert: the court letter unrolls",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s110",
+   "start": 284.89,
+   "end": 288.13,
+   "line": "\"deliberado depois das cerimônias da estação\".",
+   "scene": "Letter text, Hayato's fist crushes it",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "hit",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s111",
+   "start": 288.13,
+   "end": 291.98,
+   "line": "Naquela noite, Sayo perguntou se o exército estava vindo.",
+   "scene": "Campfire: Sayo asks, Hayato stares into the fire",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s112",
+   "start": 291.98,
+   "end": 294.4,
+   "line": "\"Ninguém está vindo\", ele disse.",
+   "scene": "Hayato close-up: 'Ninguém está vindo'",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s113",
+   "start": 294.4,
+   "end": 297.84,
+   "line": "Os invasores começaram a chamá-lo de Kurai-Oni.",
+   "scene": "Soldiers whisper at a fire, eyes on the dark forest",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s114",
+   "start": 297.84,
+   "end": 299.4,
+   "line": "O Demônio Escuro.",
+   "scene": "KURAI-ONI glows red over the dark forest; eyes",
+   "set": "forest",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s115",
+   "start": 299.4,
+   "end": 301.0,
+   "line": "Velkun, o Engenheiro,",
+   "scene": "Velkun with fort blueprints; name card",
+   "set": "fort",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s116",
+   "start": 301.0,
+   "end": 304.66,
+   "line": "ergueu em Hakata um forte que ninguém podia invadir.",
+   "scene": "Massive wooden fort on the coast at night",
+   "set": "fort",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s117",
+   "start": 304.66,
+   "end": 306.35,
+   "line": "Hayato não invadiu.",
+   "scene": "Hayato on a ridge watching",
+   "set": "fort",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s118",
+   "start": 306.35,
+   "end": 311.2,
+   "line": "Primeiro, libertou os prisioneiros japoneses que tinham sido forçados a construí-lo.",
+   "scene": "Hayato cuts the prisoners' ropes; they flee",
+   "set": "fort",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "swish",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s119",
+   "start": 311.2,
+   "end": 313.28,
+   "line": "Depois, numa noite de vento,",
+   "scene": "Wind: grass and banners whip",
+   "set": "fort",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s120",
+   "start": 313.28,
+   "end": 316.98,
+   "line": "disparou seis flechas acesas no feno dos armazéns.",
+   "scene": "Six fire arrows arc into the warehouses; 6",
+   "set": "fort",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -10.0
+    },
+    {
+     "at": 0.9,
+     "name": "swish",
+     "gain": -10.0
+    },
+    {
+     "at": 1.4,
+     "name": "swish",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s121",
+   "start": 316.98,
+   "end": 319.04,
+   "line": "O fogo encontrou o óleo.",
+   "scene": "Chain: fire → oil",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s122",
+   "start": 319.04,
+   "end": 321.04,
+   "line": "O óleo encontrou o piche.",
+   "scene": "Chain: oil → pitch → blast",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s123",
+   "start": 321.04,
+   "end": 324.09,
+   "line": "O forte queimou com seu criador dentro.",
+   "scene": "Fort ablaze; Velkun's silhouette in the tower",
+   "set": "fort",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s124",
+   "start": 324.09,
+   "end": 325.44,
+   "line": "Terceira marca.",
+   "scene": "Mark III",
+   "set": "mark",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s125",
+   "start": 325.44,
+   "end": 327.62,
+   "line": "O império mandou Sabeth, o Caçador,",
+   "scene": "Sabeth, hooded, with hounds; name card",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -12.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s126",
+   "start": 327.62,
+   "end": 329.8,
+   "line": "com seus cães e rastreadores.",
+   "scene": "Hounds and trackers sniff through the forest",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s127",
+   "start": 329.8,
+   "end": 331.58,
+   "line": "Ele nunca tinha falhado.",
+   "scene": "Sabeth close-up smirk",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s128",
+   "start": 331.58,
+   "end": 334.77,
+   "line": "Em quatro dias, encontrou o rastro de Hayato.",
+   "scene": "Footprints in mud; DIA 4",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s129",
+   "start": 334.77,
+   "end": 336.13,
+   "line": "E o de uma criança.",
+   "scene": "Small footprints beside them",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s130",
+   "start": 336.13,
+   "end": 339.08,
+   "line": "Pela primeira vez, Hayato sentiu medo.",
+   "scene": "Hayato close-up, fear",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s131",
+   "start": 339.08,
+   "end": 343.07,
+   "line": "Escondeu Sayo numa caverna atrás de uma cachoeira e disse:",
+   "scene": "Waterfall: Hayato leads Sayo behind the falls",
+   "set": "waterfall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s132",
+   "start": 343.07,
+   "end": 345.55,
+   "line": "\"Se eu não voltar, vá para o leste.\"",
+   "scene": "Cave: Hayato kneels: 'Se eu não voltar...'",
+   "set": "waterfall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s133",
+   "start": 345.55,
+   "end": 348.01,
+   "line": "Depois, deixou que o encontrassem.",
+   "scene": "Hayato steps into the open, breaks a branch on purpose",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s134",
+   "start": 348.01,
+   "end": 350.65,
+   "line": "Por seis dias, Sabeth o perseguiu.",
+   "scene": "Chase: hounds run through the forest; DIA 1..6",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s135",
+   "start": 350.65,
+   "end": 355.76,
+   "line": "Por seis dias, Hayato o conduziu, até uma clareira escolhida por ele.",
+   "scene": "Top-down: dotted trail led to a clearing",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s136",
+   "start": 355.76,
+   "end": 359.52,
+   "line": "O último rastreador ouviu Sabeth gritar para a floresta:",
+   "scene": "Dark forest, the last tracker hides",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s137",
+   "start": 359.52,
+   "end": 360.81,
+   "line": "\"O que é você?\"",
+   "scene": "Sabeth close-up shouting",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s138",
+   "start": 360.81,
+   "end": 362.96,
+   "line": "A floresta não respondeu.",
+   "scene": "Silent forest, mist",
+   "set": "forest",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "wind",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s139",
+   "start": 362.96,
+   "end": 364.2,
+   "line": "Quarta marca.",
+   "scene": "Mark IV",
+   "set": "mark",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s140",
+   "start": 364.2,
+   "end": 368.5,
+   "line": "Quando Hayato voltou à cachoeira, Sayo ainda estava lá.",
+   "scene": "Sayo steps out from behind the falls",
+   "set": "waterfall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s141",
+   "start": 368.5,
+   "end": 370.27,
+   "line": "Não tinha ido para o leste.",
+   "scene": "Hayato kneels, Sayo hugs him",
+   "set": "waterfall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s142",
+   "start": 370.27,
+   "end": 372.79,
+   "line": "Os soldados pararam de sair à noite.",
+   "scene": "Soldiers huddle by the fire, darkness around",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s143",
+   "start": 372.79,
+   "end": 376.0,
+   "line": "As fogueiras ficavam acesas até o amanhecer.",
+   "scene": "Fires burn until dawn (time-lapse)",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s144",
+   "start": 376.0,
+   "end": 380.91,
+   "line": "O império mais poderoso daquele mar tinha aprendido a temer o escuro.",
+   "scene": "Soldier close-up, terrified of the dark",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s145",
+   "start": 380.91,
+   "end": 383.61,
+   "line": "Então veio Goruun, o Gigante,",
+   "scene": "Goruun the giant with his mace; name card",
+   "set": "bridge",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -10.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s146",
+   "start": 383.61,
+   "end": 387.87,
+   "line": "campeão do exército, que o desafiou a um duelo sobre uma ponte.",
+   "scene": "The bridge over the river; Goruun waits; soldiers on the bank",
+   "set": "bridge",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s147",
+   "start": 387.87,
+   "end": 392.22,
+   "line": "Por sete dias, ninguém apareceu, e os soldados riram.",
+   "scene": "DIA 1..7; soldiers laugh",
+   "set": "bridge",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "murmur",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s148",
+   "start": 392.22,
+   "end": 395.17,
+   "line": "No oitavo dia, Hayato apareceu.",
+   "scene": "Fog: Hayato walks onto the bridge",
+   "set": "bridge",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s149",
+   "start": 395.17,
+   "end": 396.33,
+   "line": "Sem arco.",
+   "scene": "Insert: the bow left on the ground",
+   "set": "bridge",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s150",
+   "start": 396.33,
+   "end": 397.54,
+   "line": "Só a tachi.",
+   "scene": "Insert: hand on the tachi",
+   "set": "bridge",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s151",
+   "start": 397.54,
+   "end": 399.73,
+   "line": "Desviou de cada golpe da maça",
+   "scene": "Duel: mace swings, Hayato dodges",
+   "set": "bridge",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -10.0
+    },
+    {
+     "at": 1.3,
+     "name": "whoosh",
+     "gain": -10.0
+    },
+    {
+     "at": 2.2,
+     "name": "hit",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s152",
+   "start": 399.73,
+   "end": 402.8,
+   "line": "até a ponte ceder sob o peso do gigante.",
+   "scene": "The bridge cracks under the giant",
+   "set": "bridge",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s153",
+   "start": 402.8,
+   "end": 404.44,
+   "line": "Um único movimento.",
+   "scene": "Freeze: one sword arc, droplets hang",
+   "set": "bridge",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s154",
+   "start": 404.44,
+   "end": 408.71,
+   "line": "Quando ele atravessou entre os soldados, ninguém levantou a arma.",
+   "scene": "Hayato walks through parted soldiers",
+   "set": "bridge",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s155",
+   "start": 408.71,
+   "end": 409.93,
+   "line": "Quinta marca.",
+   "scene": "Mark V",
+   "set": "mark",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s156",
+   "start": 409.93,
+   "end": 413.05,
+   "line": "E, desta vez, havia testemunhas.",
+   "scene": "Soldiers' faces in awe",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s157",
+   "start": 413.05,
+   "end": 416.21,
+   "line": "Nas fogueiras, diziam que ele não tinha sombra",
+   "scene": "Campfire tale: a figure with no shadow",
+   "set": "camp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s158",
+   "start": 416.21,
+   "end": 418.98,
+   "line": "e que o rio ficou vermelho até o mar.",
+   "scene": "The river runs red to the sea",
+   "set": "bridge",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s159",
+   "start": 418.98,
+   "end": 422.77,
+   "line": "Mas alguém tinha aberto os portões de Dazaifu para o inimigo.",
+   "scene": "Dazaifu gate opens at night; the enemy marches in",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s160",
+   "start": 422.77,
+   "end": 425.87,
+   "line": "Fujihara no Masanobu, oficial da corte,",
+   "scene": "Masanobu in court robe and eboshi; name card",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s161",
+   "start": 425.87,
+   "end": 428.58,
+   "line": "que trocou mapas e portões por um título.",
+   "scene": "Insert: a map scroll traded for a seal",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s162",
+   "start": 428.58,
+   "end": 431.93,
+   "line": "Os trinta de Iki tinham morrido porque um homem decidiu",
+   "scene": "Ghosts of the thirty on the beach",
+   "set": "beach",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s163",
+   "start": 431.93,
+   "end": 434.47,
+   "line": "que eles valiam menos do que um cargo.",
+   "scene": "Scale: 30 stones vs a seal",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s164",
+   "start": 434.47,
+   "end": 439.9,
+   "line": "Hayato entrou em Dazaifu de dia, disfarçado entre camponeses que carregavam arroz.",
+   "scene": "Day: peasants with rice bags; Hayato among them under a straw hat",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s165",
+   "start": 439.9,
+   "end": 444.0,
+   "line": "Subiu numa carroça e o desmascarou diante dos próprios guardas,",
+   "scene": "Hayato on a cart points at Masanobu; guards",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s166",
+   "start": 444.0,
+   "end": 447.41,
+   "line": "perguntando a eles, em voz alta, a quem serviam.",
+   "scene": "Low angle: Hayato calls out to the guards",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s167",
+   "start": 447.41,
+   "end": 451.43,
+   "line": "Masanobu gritou que a corte tinha abandonado o sul primeiro.",
+   "scene": "Masanobu shouts",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s168",
+   "start": 451.43,
+   "end": 454.63,
+   "line": "Hayato respondeu: \"A corte nos abandonou.",
+   "scene": "Hayato close-up: 'A corte nos abandonou.'",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s169",
+   "start": 454.63,
+   "end": 456.26,
+   "line": "Você nos vendeu.",
+   "scene": "OTS: Hayato points; Masanobu sweats",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s170",
+   "start": 456.26,
+   "end": 457.78,
+   "line": "Não é a mesma coisa.\"",
+   "scene": "Hayato close-up: 'Não é a mesma coisa.'",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s171",
+   "start": 457.78,
+   "end": 459.91,
+   "line": "Ninguém defendeu o traidor.",
+   "scene": "Guards lower spears; Masanobu alone",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s172",
+   "start": 459.91,
+   "end": 461.21,
+   "line": "Sexta marca.",
+   "scene": "Mark VI",
+   "set": "mark",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s173",
+   "start": 461.21,
+   "end": 465.93,
+   "line": "Naquele dia, Hayato percebeu que as pessoas se ajoelhavam quando ele passava.",
+   "scene": "Street: people kneel as he passes",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s174",
+   "start": 465.93,
+   "end": 468.22,
+   "line": "Ninguém mais o chamava pelo nome.",
+   "scene": "The name HAYATO fades away",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s175",
+   "start": 468.22,
+   "end": 469.84,
+   "line": "Só de oni.",
+   "scene": "ONI glows",
+   "set": "town",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s176",
+   "start": 469.84,
+   "end": 474.89,
+   "line": "Ele deixou Sayo com uma família de camponeses, onde ela tinha comida e um lar.",
+   "scene": "Farmhouse with warm window; family welcomes Sayo",
+   "set": "farm",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s177",
+   "start": 474.89,
+   "end": 478.75,
+   "line": "Ajoelhou-se diante dela e disse: \"Cante a música.",
+   "scene": "Hayato kneels before Sayo: 'Cante a música.'",
+   "set": "farm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s178",
+   "start": 478.75,
+   "end": 480.36,
+   "line": "Mas não diga o meu nome.",
+   "scene": "Hayato close-up: 'Mas não diga o meu nome.'",
+   "set": "farm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s179",
+   "start": 480.36,
+   "end": 482.16,
+   "line": "Deixe só o oni.\"",
+   "scene": "Hayato: 'Deixe só o oni.'",
+   "set": "farm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s180",
+   "start": 482.16,
+   "end": 483.84,
+   "line": "Ela pediu para ir junto.",
+   "scene": "Sayo close-up pleading",
+   "set": "farm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s181",
+   "start": 483.84,
+   "end": 485.03,
+   "line": "Ele disse que não.",
+   "scene": "Hayato shakes his head",
+   "set": "farm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s182",
+   "start": 485.03,
+   "end": 487.12,
+   "line": "Foi a última vez que se viram.",
+   "scene": "Hayato walks away down the road at dusk; Sayo at the gate",
+   "set": "farm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s183",
+   "start": 487.12,
+   "end": 488.96,
+   "line": "Ela entenderia mais tarde.",
+   "scene": "Sayo watches, wind in her hair",
+   "set": "farm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s184",
+   "start": 488.96,
+   "end": 491.29,
+   "line": "Um nome pode ser caçado.",
+   "scene": "HAYATO targeted by arrows",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s185",
+   "start": 491.29,
+   "end": 493.0,
+   "line": "Uma lenda, não.",
+   "scene": "The name dissolves into song; arrows pass through",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "shimmer",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s186",
+   "start": 493.0,
+   "end": 496.67,
+   "line": "\"Da lama ele levantou, pela noite ele voltou,",
+   "scene": "Lyrics: villages singing at dusk",
+   "set": "hills",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": []
+  },
+  {
+   "id": "s187",
+   "start": 496.67,
+   "end": 500.54,
+   "line": "cada nome que o mar trouxe a lâmina dele levou.\"",
+   "scene": "Lyrics: the lone figure walks on the ridge",
+   "set": "hills",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s188",
+   "start": 500.54,
+   "end": 503.69,
+   "line": "O Imperador Tarvos mandou o próprio irmão, Ishkar,",
+   "scene": "Ishkar in a red cloak; name card",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -12.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s189",
+   "start": 503.69,
+   "end": 507.25,
+   "line": "com mil soldados de elite para a fortaleza de Najima.",
+   "scene": "Fortress of Najima on a hill; 1000",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s190",
+   "start": 507.25,
+   "end": 508.98,
+   "line": "Hayato não atacou.",
+   "scene": "Hayato at the forest edge watching",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s191",
+   "start": 508.98,
+   "end": 510.08,
+   "line": "Cercou-a.",
+   "scene": "Top-down: a dotted circle closes around the fortress",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s192",
+   "start": 510.08,
+   "end": 512.24,
+   "line": "Um homem sitiando mil.",
+   "scene": "1 vs 1000",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s193",
+   "start": 512.24,
+   "end": 513.61,
+   "line": "Patrulhas sumiam.",
+   "scene": "Patrol torches go out one by one",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s194",
+   "start": 513.61,
+   "end": 514.95,
+   "line": "Barcos queimavam.",
+   "scene": "Boats burning at the pier",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s195",
+   "start": 514.95,
+   "end": 517.04,
+   "line": "Flechas caíam do escuro.",
+   "scene": "Arrows rain from the dark onto the wall",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -10.0
+    },
+    {
+     "at": 0.5,
+     "name": "swish",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s196",
+   "start": 517.04,
+   "end": 519.63,
+   "line": "O cerco também cobrou seu preço.",
+   "scene": "Hayato exhausted against a tree",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s197",
+   "start": 519.63,
+   "end": 522.76,
+   "line": "Uma lança atingiu Hayato na lateral do corpo,",
+   "scene": "Spear thrust; Hayato recoils",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s198",
+   "start": 522.76,
+   "end": 526.34,
+   "line": "e ele passou cinco dias ardendo em febre numa gruta,",
+   "scene": "Grotto: Hayato lies by a small fire, fever; DIA 1..5",
+   "set": "grotto",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -12.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s199",
+   "start": 526.34,
+   "end": 528.91,
+   "line": "vendo os trinta de Iki ao seu redor.",
+   "scene": "Ghosts of the thirty stand around him; Jiro smiles",
+   "set": "grotto",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s200",
+   "start": 528.91,
+   "end": 531.35,
+   "line": "Depois, voltou ao cerco.",
+   "scene": "Hayato rises at the cave mouth",
+   "set": "grotto",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s201",
+   "start": 531.35,
+   "end": 533.54,
+   "line": "Lá dentro, a comida acabou.",
+   "scene": "Inside: empty rice barrels, hungry soldiers",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s202",
+   "start": 533.54,
+   "end": 536.11,
+   "line": "Os soldados desertavam de madrugada.",
+   "scene": "Soldiers slip over the wall at dawn",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s203",
+   "start": 536.11,
+   "end": 537.7,
+   "line": "No quadragésimo dia,",
+   "scene": "DIA 40",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s204",
+   "start": 537.7,
+   "end": 541.39,
+   "line": "Ishkar saiu sozinho, sem armadura, para negociar.",
+   "scene": "Gate opens, Ishkar walks out alone",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s205",
+   "start": 541.39,
+   "end": 544.81,
+   "line": "Os dois conversaram por muito tempo à beira da floresta.",
+   "scene": "Two figures sit at the forest edge, dusk",
+   "set": "najima",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s206",
+   "start": 544.81,
+   "end": 547.12,
+   "line": "Ninguém registrou o que disseram.",
+   "scene": "A scribe's page stays blank",
+   "set": "scriptorium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s207",
+   "start": 547.12,
+   "end": 551.95,
+   "line": "Ishkar não voltou, e os soldados abandonaram Najima naquela noite.",
+   "scene": "Empty fortress, gate open, torches leaving",
+   "set": "najima",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s208",
+   "start": 551.95,
+   "end": 553.36,
+   "line": "Sétima marca.",
+   "scene": "Mark VII",
+   "set": "mark",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s209",
+   "start": 553.36,
+   "end": 556.18,
+   "line": "O império já não tinha generais para mandar.",
+   "scene": "Roster: seven crossed, only Tarvos left",
+   "set": "roster",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s210",
+   "start": 556.18,
+   "end": 559.14,
+   "line": "Então o próprio trono atravessou o mar.",
+   "scene": "Flagship with the throne on deck crossing the sea",
+   "set": "sea",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -10.0
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s211",
+   "start": 559.14,
+   "end": 563.99,
+   "line": "Para atrair o demônio, Tarvos passou a queimar uma aldeia por dia na costa.",
+   "scene": "Coastal villages burning; DIA counter",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "impact",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s212",
+   "start": 563.99,
+   "end": 567.47,
+   "line": "Uma velha segurou a mão de Hayato e pediu apenas:",
+   "scene": "An old woman holds Hayato's hand, smoke",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s213",
+   "start": 567.47,
+   "end": 569.42,
+   "line": "\"Faça eles irem embora.\"",
+   "scene": "Old woman close-up: 'Faça eles irem embora.'",
+   "set": "coast",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s214",
+   "start": 569.42,
+   "end": 574.49,
+   "line": "Tarvos ancorou centenas de navios amarrados uns aos outros na baía de Hakata,",
+   "scene": "3D: hundreds of ships lashed together in Hakata bay",
+   "set": "bay3d",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   },
+   "notes": "3d"
+  },
+  {
+   "id": "s215",
+   "start": 574.49,
+   "end": 576.09,
+   "line": "uma cidade flutuante.",
+   "scene": "The floating city's lights at night",
+   "set": "bay",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s216",
+   "start": 576.09,
+   "end": 577.86,
+   "line": "Hayato observou o céu.",
+   "scene": "Hayato on a cliff looks up",
+   "set": "cliff",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s217",
+   "start": 577.86,
+   "end": 579.61,
+   "line": "Nuvens como penas.",
+   "scene": "Sky: feather clouds",
+   "set": "cliff",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s218",
+   "start": 579.61,
+   "end": 581.76,
+   "line": "Pássaros voando para o interior.",
+   "scene": "Birds fly inland",
+   "set": "cliff",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s219",
+   "start": 581.76,
+   "end": 583.76,
+   "line": "O mar parado demais.",
+   "scene": "Flat mirror sea, eerie",
+   "set": "cliff",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s220",
+   "start": 583.76,
+   "end": 585.79,
+   "line": "Tarvos vinha das estepes.",
+   "scene": "Map: the steppes far inland",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s221",
+   "start": 585.79,
+   "end": 587.29,
+   "line": "Não sabia ler aquilo.",
+   "scene": "Tarvos close-up, unconcerned, looks at the sky",
+   "set": "bay",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s222",
+   "start": 587.29,
+   "end": 590.13,
+   "line": "A tempestade chegou numa noite sem lua.",
+   "scene": "Storm: lightning, rain over the fleet",
+   "set": "bay",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "thunder",
+     "gain": -6.0
+    }
+   ],
+   "amb": {
+    "name": "rain",
+    "gain": -16
+   }
+  },
+  {
+   "id": "s223",
+   "start": 590.13,
+   "end": 593.6,
+   "line": "Os navios presos uns aos outros afundaram juntos.",
+   "scene": "Ships capsize together in a chain",
+   "set": "bay",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "impact",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s224",
+   "start": 593.6,
+   "end": 597.02,
+   "line": "E um pequeno barco de pesca deslizou entre os cascos.",
+   "scene": "A small fishing boat slips between hulls",
+   "set": "bay",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s225",
+   "start": 597.02,
+   "end": 600.02,
+   "line": "Tarvos o esperava no convés, espada na mão.",
+   "scene": "Flagship deck in the storm; Tarvos with sword",
+   "set": "deck",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "thunder",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s226",
+   "start": 600.02,
+   "end": 602.7,
+   "line": "\"Eu queria ver o seu rosto\", disse.",
+   "scene": "Tarvos close-up: 'Eu queria ver o seu rosto'",
+   "set": "deck",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s227",
+   "start": 602.7,
+   "end": 605.32,
+   "line": "Foi o duelo mais longo de todos.",
+   "scene": "Duel: sword clashes, sparks",
+   "set": "deck",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -8.0
+    },
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -8.0
+    },
+    {
+     "at": 1.5,
+     "name": "hit",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s228",
+   "start": 605.32,
+   "end": 608.31,
+   "line": "Ferido, Hayato recuou até a amurada.",
+   "scene": "Hayato wounded, backed to the rail",
+   "set": "deck",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s229",
+   "start": 608.31,
+   "end": 610.88,
+   "line": "Então uma onda inclinou o navio.",
+   "scene": "A wave tilts the ship; everything slides",
+   "set": "deck",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s230",
+   "start": 610.88,
+   "end": 612.44,
+   "line": "Um único movimento.",
+   "scene": "Freeze: one sword arc in the rain",
+   "set": "deck",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -8.0
+    }
+   ]
+  },
+  {
+   "id": "s231",
+   "start": 612.44,
+   "end": 616.87,
+   "line": "Quando o mastro partiu, havia só uma figura de pé no convés.",
+   "scene": "Mast breaks; lightning reveals one figure standing",
+   "set": "deck",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -6.0
+    },
+    {
+     "at": 1.5,
+     "name": "thunder",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s232",
+   "start": 616.87,
+   "end": 618.26,
+   "line": "Oitava marca.",
+   "scene": "Mark VIII, deeper and crooked",
+   "set": "mark",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -6.0
+    }
+   ]
+  },
+  {
+   "id": "s233",
+   "start": 618.26,
+   "end": 621.87,
+   "line": "Sem imperador, Kezhar se desfez em uma geração.",
+   "scene": "Map: Kezhar's red territory crumbles",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "dip",
+    "dur": 0.8
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "wind",
+     "gain": -18.0
+    }
+   ]
+  },
+  {
+   "id": "s234",
+   "start": 621.87,
+   "end": 625.06,
+   "line": "E alguém, nos arquivos, raspou aquele nome.",
+   "scene": "A scribe scrapes a name by candlelight",
+   "set": "scriptorium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "swish",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s235",
+   "start": 625.06,
+   "end": 626.36,
+   "line": "Oito vezes.",
+   "scene": "Eight scraped pages in a grid",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s236",
+   "start": 626.36,
+   "end": 628.62,
+   "line": "Porque um império aceita uma derrota.",
+   "scene": "The wolf banner is lowered",
+   "set": "throne",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s237",
+   "start": 628.62,
+   "end": 632.2,
+   "line": "Mas não aceita que um único homem foi o motivo dela.",
+   "scene": "A lone figure vs the giant wolf banner",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s238",
+   "start": 632.2,
+   "end": 636.48,
+   "line": "Hoje, a pesquisadora que estudou a crônica procurou provas por anos.",
+   "scene": "Modern archive: researcher among papers; years flip",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "counter",
+     "gain": -16.0
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s239",
+   "start": 636.48,
+   "end": 638.12,
+   "line": "Não encontrou nenhuma.",
+   "scene": "Empty boxes; she sighs",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s240",
+   "start": 638.12,
+   "end": 640.95,
+   "line": "Os historiadores concluíram: é só uma lenda.",
+   "scene": "Stamp: LENDA",
+   "set": "study",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "hit",
+     "gain": -10.0
+    }
+   ]
+  },
+  {
+   "id": "s241",
+   "start": 640.95,
+   "end": 645.01,
+   "line": "Mas, antes de encerrar a pesquisa, ela viajou até Iki.",
+   "scene": "A modern ferry to Iki at golden hour",
+   "set": "ferry",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s242",
+   "start": 645.01,
+   "end": 647.72,
+   "line": "Os pescadores cantaram a canção para ela.",
+   "scene": "Fishermen at their nets sing at sunset",
+   "set": "harbor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s243",
+   "start": 647.72,
+   "end": 650.05,
+   "line": "Perguntou o nome do homem da música.",
+   "scene": "The researcher asks",
+   "set": "harbor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s244",
+   "start": 650.05,
+   "end": 654.07,
+   "line": "Todos deram a mesma resposta: a música não tem nome.",
+   "scene": "Fishermen shake their heads",
+   "set": "harbor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s245",
+   "start": 654.07,
+   "end": 655.21,
+   "line": "Nunca teve.",
+   "scene": "Old fisherman close-up, smiling",
+   "set": "harbor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s246",
+   "start": 655.21,
+   "end": 658.5,
+   "line": "Em Iki existe um santuário no alto de uma colina.",
+   "scene": "Hilltop shrine with a torii at dusk",
+   "set": "shrine3d",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   },
+   "notes": "3d"
+  },
+  {
+   "id": "s247",
+   "start": 658.5,
+   "end": 661.3,
+   "line": "Atrás dele, trinta pedras sem nome.",
+   "scene": "Thirty nameless stones; 30",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -16.0
+    }
+   ]
+  },
+  {
+   "id": "s248",
+   "start": 661.3,
+   "end": 663.56,
+   "line": "Lá dentro, uma tachi antiga.",
+   "scene": "Shrine interior: the old tachi on a stand",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s249",
+   "start": 663.56,
+   "end": 665.72,
+   "line": "Na bainha, oito marcas.",
+   "scene": "Macro: the sheath with 8 marks",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s250",
+   "start": 665.72,
+   "end": 668.11,
+   "line": "As sete primeiras, idênticas.",
+   "scene": "Highlight the first seven",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14.0
+    }
+   ]
+  },
+  {
+   "id": "s251",
+   "start": 668.11,
+   "end": 670.49,
+   "line": "A última, mais funda e torta.",
+   "scene": "Highlight the last, deeper and crooked",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s252",
+   "start": 670.49,
+   "end": 672.68,
+   "line": "Como se feita por uma mão ferida.",
+   "scene": "Memory: a wounded hand carves the mark",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "swish",
+     "gain": -12.0
+    }
+   ]
+  },
+  {
+   "id": "s253",
+   "start": 672.68,
+   "end": 676.03,
+   "line": "Ela perguntou ao monge quem tinha feito aqueles cortes.",
+   "scene": "Researcher and monk",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s254",
+   "start": 676.03,
+   "end": 680.15,
+   "line": "Ele sorriu: \"Quem fez as marcas pediu para não ser lembrado.",
+   "scene": "Monk close-up smiling: 'Quem fez as marcas...'",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s255",
+   "start": 680.15,
+   "end": 681.55,
+   "line": "Nós respeitamos.\"",
+   "scene": "The monk bows",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s256",
+   "start": 681.55,
+   "end": 685.24,
+   "line": "E toda primavera, as crianças sobem até lá e cantam:",
+   "scene": "Spring: children climb the hill stairs, blossoms",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s257",
+   "start": 685.24,
+   "end": 688.77,
+   "line": "\"Da lama ele levantou, pela noite ele voltou,",
+   "scene": "Lyrics: children singing at the shrine",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s258",
+   "start": 688.77,
+   "end": 692.4,
+   "line": "cada nome que o mar trouxe a lâmina dele levou.\"",
+   "scene": "Lyrics: blossoms drift toward the sea",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s259",
+   "start": 692.4,
+   "end": 694.38,
+   "line": "Talvez seja só uma lenda.",
+   "scene": "The sheath on its stand at dusk",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": []
+  },
+  {
+   "id": "s260",
+   "start": 694.38,
+   "end": 697.24,
+   "line": "Mas alguém empilhou aquelas trinta pedras.",
+   "scene": "The thirty stones at dusk",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s261",
+   "start": 697.24,
+   "end": 699.68,
+   "line": "Alguém fez aquelas oito marcas.",
+   "scene": "The eight marks",
+   "set": "shrine",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s262",
+   "start": 699.68,
+   "end": 703.68,
+   "line": "E alguém teve medo suficiente para apagar o nome dele.",
+   "scene": "The chronicle: the scraped name under UV",
+   "set": "archive",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": []
+  },
+  {
+   "id": "s263",
+   "start": 703.68,
+   "end": 706.49,
+   "line": "Oito vezes.",
+   "scene": "Eight names glow; title KUROZANE NO HAYATO; fade out",
+   "set": "archive",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -8.0
+    }
+   ],
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 56.2,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 56.2,
+   "end": 85.2,
+   "mood": "calm",
+   "intensity": 0.35
+  },
+  {
+   "start": 85.2,
+   "end": 108.5,
+   "mood": "dark",
+   "intensity": 0.45
+  },
+  {
+   "start": 108.5,
+   "end": 124.5,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 124.5,
+   "end": 139.4,
+   "mood": "action",
+   "intensity": 0.7
+  },
+  {
+   "start": 139.4,
+   "end": 165.1,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 165.1,
+   "end": 203.0,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 203.0,
+   "end": 211.4,
+   "mood": "sad",
+   "intensity": 0.3
+  },
+  {
+   "start": 211.4,
+   "end": 250.9,
+   "mood": "hopeful",
+   "intensity": 0.35
+  },
+  {
+   "start": 250.9,
+   "end": 279.0,
+   "mood": "action",
+   "intensity": 0.75
+  },
+  {
+   "start": 279.0,
+   "end": 299.3,
+   "mood": "dark",
+   "intensity": 0.45
+  },
+  {
+   "start": 299.3,
+   "end": 325.4,
+   "mood": "action",
+   "intensity": 0.7
+  },
+  {
+   "start": 325.4,
+   "end": 364.1,
+   "mood": "tension",
+   "intensity": 0.65
+  },
+  {
+   "start": 364.1,
+   "end": 370.2,
+   "mood": "hopeful",
+   "intensity": 0.3
+  },
+  {
+   "start": 370.2,
+   "end": 380.8,
+   "mood": "dark",
+   "intensity": 0.5
+  },
+  {
+   "start": 380.8,
+   "end": 419.0,
+   "mood": "epic",
+   "intensity": 0.6
+  },
+  {
+   "start": 419.0,
+   "end": 469.8,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 469.8,
+   "end": 500.5,
+   "mood": "sad",
+   "intensity": 0.35
+  },
+  {
+   "start": 500.5,
+   "end": 556.1,
+   "mood": "dark",
+   "intensity": 0.55
+  },
+  {
+   "start": 556.1,
+   "end": 587.2,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 587.2,
+   "end": 618.2,
+   "mood": "epic",
+   "intensity": 0.9
+  },
+  {
+   "start": 618.2,
+   "end": 654.0,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 654.0,
+   "end": 706.49,
+   "mood": "wonder",
+   "intensity": 0.35
+  }
+ ],
+ "sfx": []
+}
