@@ -1,0 +1,53 @@
+{
+ "title": "thumb",
+ "duration": 6,
+ "music": [],
+ "sfx": [],
+ "shots": [
+  {
+   "id": "t1",
+   "start": 0.0,
+   "end": 2.0,
+   "line": "",
+   "scene": "thumb",
+   "set": "",
+   "bars": 0,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": null,
+   "captions": false
+  },
+  {
+   "id": "t2",
+   "start": 2.0,
+   "end": 4.0,
+   "line": "",
+   "scene": "thumb",
+   "set": "",
+   "bars": 0,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": null,
+   "captions": false
+  },
+  {
+   "id": "t3",
+   "start": 4.0,
+   "end": 6.0,
+   "line": "",
+   "scene": "thumb",
+   "set": "",
+   "bars": 0,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": null,
+   "captions": false
+  }
+ ]
+}

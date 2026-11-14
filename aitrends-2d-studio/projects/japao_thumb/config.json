@@ -1,0 +1,23 @@
+{
+ "title": "Jap\u00e3o thumb",
+ "aspect": "16:9",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "dusk",
+ "voiceover": "input/voiceover.mp3",
+ "script": null,
+ "duration": 6,
+ "captions": false,
+ "bars": null,
+ "fadeIn": 0,
+ "fadeOut": 0,
+ "music": {
+  "enabled": true,
+  "gainDb": -17
+ },
+ "sfx": {
+  "enabled": true,
+  "gainDb": -6
+ },
+ "loudness": -14
+}
