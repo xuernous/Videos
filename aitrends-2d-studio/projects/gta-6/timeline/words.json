@@ -1,0 +1,1605 @@
+{
+ "source": "whisper:/tmp/claude-0/-home-user-Videos/1fd00579-5a6b-5aec-9a70-7949aff051d8/scratchpad/whisper-npm/model-small+script",
+ "words": [
+  {
+   "word": "Sua",
+   "start": 0.0,
+   "end": 0.3
+  },
+  {
+   "word": "mãe",
+   "start": 0.3,
+   "end": 0.56
+  },
+  {
+   "word": "acabou",
+   "start": 0.56,
+   "end": 1.02
+  },
+  {
+   "word": "de",
+   "start": 1.02,
+   "end": 1.46
+  },
+  {
+   "word": "fazer",
+   "start": 1.46,
+   "end": 1.72
+  },
+  {
+   "word": "a",
+   "start": 1.72,
+   "end": 1.86
+  },
+  {
+   "word": "proposta",
+   "start": 1.86,
+   "end": 2.32
+  },
+  {
+   "word": "mais",
+   "start": 2.32,
+   "end": 2.86
+  },
+  {
+   "word": "perigosa",
+   "start": 2.86,
+   "end": 3.54
+  },
+  {
+   "word": "da",
+   "start": 3.54,
+   "end": 3.76
+  },
+  {
+   "word": "sua",
+   "start": 3.76,
+   "end": 4.02
+  },
+  {
+   "word": "vida.",
+   "start": 4.02,
+   "end": 4.42
+  },
+  {
+   "word": "Você",
+   "start": 4.9,
+   "end": 5.14
+  },
+  {
+   "word": "tem",
+   "start": 5.14,
+   "end": 5.34
+  },
+  {
+   "word": "catorze",
+   "start": 5.34,
+   "end": 5.74
+  },
+  {
+   "word": "anos",
+   "start": 5.74,
+   "end": 6.22
+  },
+  {
+   "word": "e",
+   "start": 6.22,
+   "end": 6.62
+  },
+  {
+   "word": "um",
+   "start": 6.62,
+   "end": 6.7
+  },
+  {
+   "word": "talento",
+   "start": 6.7,
+   "end": 7.18
+  },
+  {
+   "word": "raro:",
+   "start": 7.18,
+   "end": 7.62
+  },
+  {
+   "word": "passar",
+   "start": 8.04,
+   "end": 8.44
+  },
+  {
+   "word": "seis",
+   "start": 8.44,
+   "end": 8.82
+  },
+  {
+   "word": "horas",
+   "start": 8.82,
+   "end": 9.2
+  },
+  {
+   "word": "seguidas",
+   "start": 9.2,
+   "end": 9.82
+  },
+  {
+   "word": "no",
+   "start": 9.82,
+   "end": 10.02
+  },
+  {
+   "word": "videogame",
+   "start": 10.02,
+   "end": 10.56
+  },
+  {
+   "word": "sem",
+   "start": 10.56,
+   "end": 10.96
+  },
+  {
+   "word": "piscar.",
+   "start": 10.96,
+   "end": 11.5
+  },
+  {
+   "word": "Na",
+   "start": 11.94,
+   "end": 12.08
+  },
+  {
+   "word": "escola,",
+   "start": 12.08,
+   "end": 12.32
+  },
+  {
+   "word": "o",
+   "start": 12.84,
+   "end": 12.92
+  },
+  {
+   "word": "talento",
+   "start": 12.92,
+   "end": 13.32
+  },
+  {
+   "word": "é",
+   "start": 13.32,
+   "end": 13.4
+  },
+  {
+   "word": "outro.",
+   "start": 13.4,
+   "end": 13.66
+  },
+  {
+   "word": "Português:",
+   "start": 14.06,
+   "end": 14.68
+  },
+  {
+   "word": "quatro.",
+   "start": 15.08,
+   "end": 15.34
+  },
+  {
+   "word": "História:",
+   "start": 15.94,
+   "end": 16.44
+  },
+  {
+   "word": "três.",
+   "start": 16.86,
+   "end": 17.14
+  },
+  {
+   "word": "Matemática...",
+   "start": 17.78,
+   "end": 18.5
+  },
+  {
+   "word": "dois.",
+   "start": 19.14,
+   "end": 19.52
+  },
+  {
+   "word": "E",
+   "start": 20.22,
+   "end": 20.38
+  },
+  {
+   "word": "o",
+   "start": 20.38,
+   "end": 20.46
+  },
+  {
+   "word": "dois",
+   "start": 20.46,
+   "end": 20.88
+  },
+  {
+   "word": "ainda",
+   "start": 20.88,
+   "end": 21.22
+  },
+  {
+   "word": "veio",
+   "start": 21.22,
+   "end": 21.6
+  },
+  {
+   "word": "com",
+   "start": 21.6,
+   "end": 21.8
+  },
+  {
+   "word": "um",
+   "start": 21.8,
+   "end": 21.96
+  },
+  {
+   "word": "bilhete",
+   "start": 21.96,
+   "end": 22.4
+  },
+  {
+   "word": "da",
+   "start": 22.4,
+   "end": 22.56
+  },
+  {
+   "word": "professora.",
+   "start": 22.56,
+   "end": 23.18
+  },
+  {
+   "word": "Aí,",
+   "start": 23.64,
+   "end": 23.94
+  },
+  {
+   "word": "no",
+   "start": 24.2,
+   "end": 24.28
+  },
+  {
+   "word": "jantar,",
+   "start": 24.28,
+   "end": 24.76
+  },
+  {
+   "word": "ela",
+   "start": 25.04,
+   "end": 25.16
+  },
+  {
+   "word": "solta:",
+   "start": 25.16,
+   "end": 25.6
+  },
+  {
+   "word": "\"Quer",
+   "start": 25.6,
+   "end": 26.18
+  },
+  {
+   "word": "o",
+   "start": 26.18,
+   "end": 26.34
+  },
+  {
+   "word": "GTA",
+   "start": 26.34,
+   "end": 26.6
+  },
+  {
+   "word": "6?",
+   "start": 26.6,
+   "end": 27.44
+  },
+  {
+   "word": "Eu",
+   "start": 27.44,
+   "end": 27.56
+  },
+  {
+   "word": "compro.",
+   "start": 27.56,
+   "end": 27.98
+  },
+  {
+   "word": "Quase",
+   "start": 27.98,
+   "end": 28.5
+  },
+  {
+   "word": "quatrocentos",
+   "start": 28.5,
+   "end": 28.8
+  },
+  {
+   "word": "e",
+   "start": 28.8,
+   "end": 29.1
+  },
+  {
+   "word": "cinquenta",
+   "start": 29.1,
+   "end": 29.4
+  },
+  {
+   "word": "reais.",
+   "start": 29.4,
+   "end": 30.28
+  },
+  {
+   "word": "Mas",
+   "start": 30.76,
+   "end": 31.04
+  },
+  {
+   "word": "só",
+   "start": 31.04,
+   "end": 31.44
+  },
+  {
+   "word": "se",
+   "start": 31.44,
+   "end": 31.6
+  },
+  {
+   "word": "você",
+   "start": 31.6,
+   "end": 31.8
+  },
+  {
+   "word": "fechar",
+   "start": 31.8,
+   "end": 32.16
+  },
+  {
+   "word": "o",
+   "start": 32.16,
+   "end": 32.32
+  },
+  {
+   "word": "ano",
+   "start": 32.32,
+   "end": 32.5
+  },
+  {
+   "word": "com",
+   "start": 32.5,
+   "end": 32.68
+  },
+  {
+   "word": "média",
+   "start": 32.68,
+   "end": 32.94
+  },
+  {
+   "word": "sete.",
+   "start": 32.94,
+   "end": 33.78
+  },
+  {
+   "word": "Em",
+   "start": 33.78,
+   "end": 34.02
+  },
+  {
+   "word": "tudo.\"",
+   "start": 34.02,
+   "end": 34.44
+  },
+  {
+   "word": "Você",
+   "start": 35.08,
+   "end": 35.34
+  },
+  {
+   "word": "faz",
+   "start": 35.34,
+   "end": 35.58
+  },
+  {
+   "word": "as",
+   "start": 35.58,
+   "end": 35.76
+  },
+  {
+   "word": "contas.",
+   "start": 35.76,
+   "end": 36.28
+  },
+  {
+   "word": "Mal,",
+   "start": 36.64,
+   "end": 36.98
+  },
+  {
+   "word": "porque",
+   "start": 37.3,
+   "end": 37.5
+  },
+  {
+   "word": "é",
+   "start": 37.5,
+   "end": 37.66
+  },
+  {
+   "word": "matemática.",
+   "start": 37.66,
+   "end": 38.24
+  },
+  {
+   "word": "Mas",
+   "start": 38.66,
+   "end": 38.82
+  },
+  {
+   "word": "faz.",
+   "start": 38.82,
+   "end": 39.08
+  },
+  {
+   "word": "Quatro",
+   "start": 39.56,
+   "end": 39.88
+  },
+  {
+   "word": "semanas.",
+   "start": 39.88,
+   "end": 40.24
+  },
+  {
+   "word": "Média",
+   "start": 40.82,
+   "end": 41.18
+  },
+  {
+   "word": "sete.",
+   "start": 41.18,
+   "end": 42.02
+  },
+  {
+   "word": "Partindo",
+   "start": 42.02,
+   "end": 42.42
+  },
+  {
+   "word": "do",
+   "start": 42.42,
+   "end": 42.6
+  },
+  {
+   "word": "dois.",
+   "start": 42.6,
+   "end": 42.92
+  },
+  {
+   "word": "E",
+   "start": 43.42,
+   "end": 43.54
+  },
+  {
+   "word": "seus",
+   "start": 43.54,
+   "end": 43.64
+  },
+  {
+   "word": "amigos",
+   "start": 43.64,
+   "end": 44.1
+  },
+  {
+   "word": "já",
+   "start": 44.1,
+   "end": 44.42
+  },
+  {
+   "word": "combinaram",
+   "start": 44.42,
+   "end": 45.1
+  },
+  {
+   "word": "de",
+   "start": 45.1,
+   "end": 45.2
+  },
+  {
+   "word": "jogar",
+   "start": 45.2,
+   "end": 45.42
+  },
+  {
+   "word": "juntos",
+   "start": 45.42,
+   "end": 45.9
+  },
+  {
+   "word": "no",
+   "start": 45.9,
+   "end": 46.12
+  },
+  {
+   "word": "lançamento.",
+   "start": 46.12,
+   "end": 46.68
+  },
+  {
+   "word": "Sem",
+   "start": 46.96,
+   "end": 47.28
+  },
+  {
+   "word": "você,",
+   "start": 47.28,
+   "end": 47.7
+  },
+  {
+   "word": "se",
+   "start": 47.88,
+   "end": 48.06
+  },
+  {
+   "word": "der",
+   "start": 48.06,
+   "end": 48.18
+  },
+  {
+   "word": "errado.",
+   "start": 48.18,
+   "end": 48.52
+  },
+  {
+   "word": "Na",
+   "start": 49.0,
+   "end": 49.14
+  },
+  {
+   "word": "primeira",
+   "start": 49.14,
+   "end": 49.44
+  },
+  {
+   "word": "noite,",
+   "start": 49.44,
+   "end": 49.86
+  },
+  {
+   "word": "você",
+   "start": 50.12,
+   "end": 50.38
+  },
+  {
+   "word": "abre",
+   "start": 50.38,
+   "end": 50.68
+  },
+  {
+   "word": "o",
+   "start": 50.68,
+   "end": 50.8
+  },
+  {
+   "word": "caderno",
+   "start": 50.8,
+   "end": 51.34
+  },
+  {
+   "word": "e",
+   "start": 51.34,
+   "end": 51.56
+  },
+  {
+   "word": "fecha",
+   "start": 51.56,
+   "end": 51.88
+  },
+  {
+   "word": "em",
+   "start": 51.88,
+   "end": 52.04
+  },
+  {
+   "word": "três",
+   "start": 52.04,
+   "end": 52.36
+  },
+  {
+   "word": "minutos.",
+   "start": 52.36,
+   "end": 52.8
+  },
+  {
+   "word": "Na",
+   "start": 53.32,
+   "end": 53.46
+  },
+  {
+   "word": "segunda,",
+   "start": 53.46,
+   "end": 53.78
+  },
+  {
+   "word": "vem",
+   "start": 54.22,
+   "end": 54.5
+  },
+  {
+   "word": "a",
+   "start": 54.5,
+   "end": 54.62
+  },
+  {
+   "word": "ideia.",
+   "start": 54.62,
+   "end": 54.94
+  },
+  {
+   "word": "E",
+   "start": 54.94,
+   "end": 55.58
+  },
+  {
+   "word": "se",
+   "start": 55.58,
+   "end": 55.72
+  },
+  {
+   "word": "estudar",
+   "start": 55.72,
+   "end": 56.2
+  },
+  {
+   "word": "fosse...",
+   "start": 56.2,
+   "end": 56.66
+  },
+  {
+   "word": "uma",
+   "start": 56.66,
+   "end": 57.46
+  },
+  {
+   "word": "missão?",
+   "start": 57.46,
+   "end": 58.0
+  },
+  {
+   "word": "A",
+   "start": 58.64,
+   "end": 58.64
+  },
+  {
+   "word": "lista",
+   "start": 58.64,
+   "end": 58.92
+  },
+  {
+   "word": "de",
+   "start": 58.92,
+   "end": 59.14
+  },
+  {
+   "word": "exercícios",
+   "start": 59.14,
+   "end": 59.74
+  },
+  {
+   "word": "vira",
+   "start": 59.74,
+   "end": 60.08
+  },
+  {
+   "word": "um",
+   "start": 60.08,
+   "end": 60.16
+  },
+  {
+   "word": "assalto.",
+   "start": 60.16,
+   "end": 60.82
+  },
+  {
+   "word": "Cada",
+   "start": 61.08,
+   "end": 61.36
+  },
+  {
+   "word": "conta",
+   "start": 61.36,
+   "end": 61.64
+  },
+  {
+   "word": "certa,",
+   "start": 61.64,
+   "end": 62.14
+  },
+  {
+   "word": "dinheiro",
+   "start": 62.44,
+   "end": 62.84
+  },
+  {
+   "word": "no",
+   "start": 62.84,
+   "end": 63.1
+  },
+  {
+   "word": "bolso.",
+   "start": 63.1,
+   "end": 63.5
+  },
+  {
+   "word": "A",
+   "start": 63.78,
+   "end": 63.94
+  },
+  {
+   "word": "tabuada",
+   "start": 63.94,
+   "end": 64.44
+  },
+  {
+   "word": "vira",
+   "start": 64.44,
+   "end": 64.9
+  },
+  {
+   "word": "treino",
+   "start": 64.9,
+   "end": 65.28
+  },
+  {
+   "word": "de",
+   "start": 65.28,
+   "end": 65.46
+  },
+  {
+   "word": "mira.",
+   "start": 65.46,
+   "end": 65.74
+  },
+  {
+   "word": "O",
+   "start": 66.12,
+   "end": 66.24
+  },
+  {
+   "word": "livro",
+   "start": 66.24,
+   "end": 66.4
+  },
+  {
+   "word": "de",
+   "start": 66.4,
+   "end": 66.58
+  },
+  {
+   "word": "História?",
+   "start": 66.58,
+   "end": 66.9
+  },
+  {
+   "word": "Mapa",
+   "start": 67.42,
+   "end": 67.64
+  },
+  {
+   "word": "do",
+   "start": 67.64,
+   "end": 67.86
+  },
+  {
+   "word": "território",
+   "start": 67.86,
+   "end": 68.34
+  },
+  {
+   "word": "inimigo.",
+   "start": 68.34,
+   "end": 68.84
+  },
+  {
+   "word": "E",
+   "start": 69.06,
+   "end": 69.3
+  },
+  {
+   "word": "a",
+   "start": 69.3,
+   "end": 69.38
+  },
+  {
+   "word": "prova...",
+   "start": 69.38,
+   "end": 69.74
+  },
+  {
+   "word": "é",
+   "start": 69.74,
+   "end": 70.3
+  },
+  {
+   "word": "o",
+   "start": 70.3,
+   "end": 70.4
+  },
+  {
+   "word": "chefão.",
+   "start": 70.4,
+   "end": 70.9
+  },
+  {
+   "word": "Pela",
+   "start": 71.28,
+   "end": 71.48
+  },
+  {
+   "word": "primeira",
+   "start": 71.48,
+   "end": 71.96
+  },
+  {
+   "word": "vez,",
+   "start": 71.96,
+   "end": 72.46
+  },
+  {
+   "word": "você",
+   "start": 72.64,
+   "end": 72.88
+  },
+  {
+   "word": "deixa",
+   "start": 72.88,
+   "end": 73.3
+  },
+  {
+   "word": "o",
+   "start": 73.3,
+   "end": 73.42
+  },
+  {
+   "word": "controle",
+   "start": 73.42,
+   "end": 73.84
+  },
+  {
+   "word": "desligado.",
+   "start": 73.84,
+   "end": 74.66
+  },
+  {
+   "word": "E,",
+   "start": 75.0,
+   "end": 75.2
+  },
+  {
+   "word": "estranhamente,",
+   "start": 75.56,
+   "end": 76.24
+  },
+  {
+   "word": "não",
+   "start": 76.58,
+   "end": 76.8
+  },
+  {
+   "word": "morre",
+   "start": 76.8,
+   "end": 77.2
+  },
+  {
+   "word": "por",
+   "start": 77.2,
+   "end": 77.38
+  },
+  {
+   "word": "isso.",
+   "start": 77.38,
+   "end": 77.64
+  },
+  {
+   "word": "Aí",
+   "start": 78.0,
+   "end": 78.3
+  },
+  {
+   "word": "vem",
+   "start": 78.3,
+   "end": 78.52
+  },
+  {
+   "word": "o",
+   "start": 78.52,
+   "end": 78.66
+  },
+  {
+   "word": "simulado",
+   "start": 78.66,
+   "end": 79.26
+  },
+  {
+   "word": "de",
+   "start": 79.26,
+   "end": 79.42
+  },
+  {
+   "word": "matemática.",
+   "start": 79.42,
+   "end": 80.04
+  },
+  {
+   "word": "Você",
+   "start": 80.32,
+   "end": 80.56
+  },
+  {
+   "word": "treinou.",
+   "start": 80.56,
+   "end": 81.02
+  },
+  {
+   "word": "Você",
+   "start": 81.36,
+   "end": 81.58
+  },
+  {
+   "word": "confia.",
+   "start": 81.58,
+   "end": 82.22
+  },
+  {
+   "word": "Nota:",
+   "start": 82.22,
+   "end": 83.1
+  },
+  {
+   "word": "cinco.",
+   "start": 83.1,
+   "end": 84.12
+  },
+  {
+   "word": "Você",
+   "start": 84.12,
+   "end": 84.42
+  },
+  {
+   "word": "joga",
+   "start": 84.42,
+   "end": 84.86
+  },
+  {
+   "word": "a",
+   "start": 84.86,
+   "end": 84.94
+  },
+  {
+   "word": "mochila",
+   "start": 84.94,
+   "end": 85.2
+  },
+  {
+   "word": "no",
+   "start": 85.2,
+   "end": 85.38
+  },
+  {
+   "word": "canto",
+   "start": 85.38,
+   "end": 85.8
+  },
+  {
+   "word": "e",
+   "start": 85.8,
+   "end": 86.06
+  },
+  {
+   "word": "pensa:",
+   "start": 86.06,
+   "end": 86.36
+  },
+  {
+   "word": "\"Pronto.",
+   "start": 86.82,
+   "end": 87.16
+  },
+  {
+   "word": "Game",
+   "start": 87.64,
+   "end": 87.8
+  },
+  {
+   "word": "over.\"",
+   "start": 87.8,
+   "end": 88.14
+  },
+  {
+   "word": "Só",
+   "start": 88.62,
+   "end": 88.82
+  },
+  {
+   "word": "que",
+   "start": 88.82,
+   "end": 89.02
+  },
+  {
+   "word": "game",
+   "start": 89.02,
+   "end": 89.46
+  },
+  {
+   "word": "over,",
+   "start": 89.46,
+   "end": 89.94
+  },
+  {
+   "word": "você",
+   "start": 90.06,
+   "end": 90.32
+  },
+  {
+   "word": "sabe",
+   "start": 90.32,
+   "end": 90.6
+  },
+  {
+   "word": "melhor",
+   "start": 90.6,
+   "end": 91.02
+  },
+  {
+   "word": "que",
+   "start": 91.02,
+   "end": 91.22
+  },
+  {
+   "word": "ninguém,",
+   "start": 91.22,
+   "end": 91.5
+  },
+  {
+   "word": "significa",
+   "start": 91.76,
+   "end": 92.1
+  },
+  {
+   "word": "uma",
+   "start": 92.1,
+   "end": 92.6
+  },
+  {
+   "word": "coisa",
+   "start": 92.6,
+   "end": 92.98
+  },
+  {
+   "word": "só:",
+   "start": 92.98,
+   "end": 93.36
+  },
+  {
+   "word": "tentar",
+   "start": 93.8,
+   "end": 94.22
+  },
+  {
+   "word": "de",
+   "start": 94.22,
+   "end": 94.46
+  },
+  {
+   "word": "novo.",
+   "start": 94.46,
+   "end": 94.84
+  },
+  {
+   "word": "Você",
+   "start": 95.26,
+   "end": 95.54
+  },
+  {
+   "word": "volta",
+   "start": 95.54,
+   "end": 95.9
+  },
+  {
+   "word": "pro",
+   "start": 95.9,
+   "end": 96.14
+  },
+  {
+   "word": "checkpoint.",
+   "start": 96.14,
+   "end": 96.48
+  },
+  {
+   "word": "Refaz",
+   "start": 97.1,
+   "end": 97.4
+  },
+  {
+   "word": "cada",
+   "start": 97.4,
+   "end": 97.94
+  },
+  {
+   "word": "questão",
+   "start": 97.94,
+   "end": 98.28
+  },
+  {
+   "word": "errada.",
+   "start": 98.28,
+   "end": 98.78
+  },
+  {
+   "word": "Uma",
+   "start": 99.16,
+   "end": 99.4
+  },
+  {
+   "word": "por",
+   "start": 99.4,
+   "end": 99.78
+  },
+  {
+   "word": "uma.",
+   "start": 99.78,
+   "end": 100.04
+  },
+  {
+   "word": "Último",
+   "start": 100.56,
+   "end": 100.9
+  },
+  {
+   "word": "dia",
+   "start": 100.9,
+   "end": 101.16
+  },
+  {
+   "word": "de",
+   "start": 101.16,
+   "end": 101.34
+  },
+  {
+   "word": "aula.",
+   "start": 101.34,
+   "end": 101.56
+  },
+  {
+   "word": "Boletim",
+   "start": 101.88,
+   "end": 102.4
+  },
+  {
+   "word": "na",
+   "start": 102.4,
+   "end": 102.58
+  },
+  {
+   "word": "mão",
+   "start": 102.58,
+   "end": 102.82
+  },
+  {
+   "word": "da",
+   "start": 102.82,
+   "end": 102.98
+  },
+  {
+   "word": "sua",
+   "start": 102.98,
+   "end": 103.14
+  },
+  {
+   "word": "mãe.",
+   "start": 103.14,
+   "end": 103.4
+  },
+  {
+   "word": "Ela",
+   "start": 103.76,
+   "end": 103.98
+  },
+  {
+   "word": "lê",
+   "start": 103.98,
+   "end": 104.26
+  },
+  {
+   "word": "em",
+   "start": 104.26,
+   "end": 104.4
+  },
+  {
+   "word": "silêncio.",
+   "start": 104.4,
+   "end": 105.02
+  },
+  {
+   "word": "Português:",
+   "start": 105.36,
+   "end": 105.98
+  },
+  {
+   "word": "oito.",
+   "start": 106.4,
+   "end": 106.8
+  },
+  {
+   "word": "História:",
+   "start": 107.24,
+   "end": 107.76
+  },
+  {
+   "word": "sete",
+   "start": 108.28,
+   "end": 108.5
+  },
+  {
+   "word": "e",
+   "start": 108.5,
+   "end": 108.66
+  },
+  {
+   "word": "meio.",
+   "start": 108.66,
+   "end": 108.84
+  },
+  {
+   "word": "Matemática...",
+   "start": 109.3,
+   "end": 109.96
+  },
+  {
+   "word": "Sete.",
+   "start": 110.54,
+   "end": 111.04
+  },
+  {
+   "word": "Raspando.",
+   "start": 111.66,
+   "end": 112.26
+  },
+  {
+   "word": "Mas",
+   "start": 112.26,
+   "end": 112.86
+  },
+  {
+   "word": "sete.",
+   "start": 112.86,
+   "end": 113.34
+  },
+  {
+   "word": "No",
+   "start": 113.7,
+   "end": 113.86
+  },
+  {
+   "word": "fim",
+   "start": 113.86,
+   "end": 114.04
+  },
+  {
+   "word": "de",
+   "start": 114.04,
+   "end": 114.16
+  },
+  {
+   "word": "semana,",
+   "start": 114.16,
+   "end": 114.54
+  },
+  {
+   "word": "a",
+   "start": 114.88,
+   "end": 114.94
+  },
+  {
+   "word": "barra",
+   "start": 114.94,
+   "end": 115.32
+  },
+  {
+   "word": "de",
+   "start": 115.32,
+   "end": 115.42
+  },
+  {
+   "word": "download",
+   "start": 115.42,
+   "end": 115.76
+  },
+  {
+   "word": "do",
+   "start": 115.76,
+   "end": 116.06
+  },
+  {
+   "word": "GTA",
+   "start": 116.06,
+   "end": 116.36
+  },
+  {
+   "word": "6",
+   "start": 116.36,
+   "end": 116.88
+  },
+  {
+   "word": "chega",
+   "start": 116.88,
+   "end": 117.3
+  },
+  {
+   "word": "a",
+   "start": 117.3,
+   "end": 117.46
+  },
+  {
+   "word": "cem",
+   "start": 117.46,
+   "end": 117.8
+  },
+  {
+   "word": "por",
+   "start": 117.8,
+   "end": 118.14
+  },
+  {
+   "word": "cento.",
+   "start": 118.14,
+   "end": 118.48
+  },
+  {
+   "word": "E",
+   "start": 118.48,
+   "end": 118.74
+  },
+  {
+   "word": "você",
+   "start": 118.74,
+   "end": 119.0
+  },
+  {
+   "word": "liga",
+   "start": 119.0,
+   "end": 119.36
+  },
+  {
+   "word": "o",
+   "start": 119.36,
+   "end": 119.44
+  },
+  {
+   "word": "console,",
+   "start": 119.44,
+   "end": 119.82
+  },
+  {
+   "word": "claro.",
+   "start": 120.02,
+   "end": 120.22
+  },
+  {
+   "word": "Mas",
+   "start": 120.72,
+   "end": 120.88
+  },
+  {
+   "word": "tem",
+   "start": 120.88,
+   "end": 121.06
+  },
+  {
+   "word": "uma",
+   "start": 121.06,
+   "end": 121.22
+  },
+  {
+   "word": "coisa",
+   "start": 121.22,
+   "end": 121.62
+  },
+  {
+   "word": "que",
+   "start": 121.62,
+   "end": 121.82
+  },
+  {
+   "word": "você",
+   "start": 121.82,
+   "end": 122.04
+  },
+  {
+   "word": "não",
+   "start": 122.04,
+   "end": 122.18
+  },
+  {
+   "word": "conta",
+   "start": 122.18,
+   "end": 122.54
+  },
+  {
+   "word": "pra",
+   "start": 122.54,
+   "end": 122.78
+  },
+  {
+   "word": "ninguém:",
+   "start": 122.78,
+   "end": 123.16
+  },
+  {
+   "word": "a",
+   "start": 123.72,
+   "end": 123.84
+  },
+  {
+   "word": "melhor",
+   "start": 123.84,
+   "end": 124.2
+  },
+  {
+   "word": "fase",
+   "start": 124.2,
+   "end": 124.66
+  },
+  {
+   "word": "da",
+   "start": 124.66,
+   "end": 124.8
+  },
+  {
+   "word": "semana",
+   "start": 124.8,
+   "end": 125.28
+  },
+  {
+   "word": "não",
+   "start": 125.28,
+   "end": 125.66
+  },
+  {
+   "word": "foi",
+   "start": 125.66,
+   "end": 125.94
+  },
+  {
+   "word": "abrir",
+   "start": 125.94,
+   "end": 126.26
+  },
+  {
+   "word": "o",
+   "start": 126.26,
+   "end": 126.4
+  },
+  {
+   "word": "jogo.",
+   "start": 126.4,
+   "end": 126.7
+  },
+  {
+   "word": "Foi",
+   "start": 127.06,
+   "end": 127.3
+  },
+  {
+   "word": "ver",
+   "start": 127.3,
+   "end": 127.62
+  },
+  {
+   "word": "aquele",
+   "start": 127.62,
+   "end": 127.9
+  },
+  {
+   "word": "sete.",
+   "start": 127.9,
+   "end": 128.2
+  },
+  {
+   "word": "E",
+   "start": 129.08,
+   "end": 129.22
+  },
+  {
+   "word": "você?",
+   "start": 129.22,
+   "end": 129.48
+  },
+  {
+   "word": "Aceitaria",
+   "start": 129.92,
+   "end": 130.52
+  },
+  {
+   "word": "o",
+   "start": 130.52,
+   "end": 130.6
+  },
+  {
+   "word": "acordo?",
+   "start": 130.6,
+   "end": 130.94
+  },
+  {
+   "word": "Porque",
+   "start": 131.38,
+   "end": 131.58
+  },
+  {
+   "word": "a",
+   "start": 131.58,
+   "end": 131.68
+  },
+  {
+   "word": "sua",
+   "start": 131.68,
+   "end": 131.92
+  },
+  {
+   "word": "mãe...",
+   "start": 131.92,
+   "end": 132.3
+  },
+  {
+   "word": "acabou",
+   "start": 132.3,
+   "end": 132.86
+  },
+  {
+   "word": "de",
+   "start": 132.86,
+   "end": 133.34
+  },
+  {
+   "word": "fazer",
+   "start": 133.34,
+   "end": 133.64
+  },
+  {
+   "word": "a",
+   "start": 133.64,
+   "end": 133.76
+  },
+  {
+   "word": "proposta",
+   "start": 133.76,
+   "end": 134.26
+  },
+  {
+   "word": "mais",
+   "start": 134.26,
+   "end": 134.72
+  },
+  {
+   "word": "perigosa",
+   "start": 134.72,
+   "end": 135.42
+  },
+  {
+   "word": "da",
+   "start": 135.42,
+   "end": 135.6
+  },
+  {
+   "word": "sua",
+   "start": 135.6,
+   "end": 135.88
+  },
+  {
+   "word": "vida.",
+   "start": 135.88,
+   "end": 136.26
+  }
+ ]
+}

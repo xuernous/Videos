@@ -1,0 +1,1585 @@
+{
+ "title": "A Proposta do GTA 6",
+ "duration": 138.0,
+ "shots": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 1.75,
+   "line": "Sua mãe acabou de fazer",
+   "scene": "Cold open insert: mom's hand slides a glowing game case across the dark dinner table under the pendant lamp",
+   "set": "dining",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 1.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s02",
+   "start": 1.75,
+   "end": 4.75,
+   "line": "a proposta mais perigosa da sua vida.",
+   "scene": "Title card A PROPOSTA / MAIS PERIGOSA over blurred dinner table, mom silhouette smirking, red danger glow",
+   "set": "dining",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   },
+   "captions": false
+  },
+  {
+   "id": "s03",
+   "start": 4.75,
+   "end": 7.9,
+   "line": "Você tem catorze anos e um talento raro:",
+   "scene": "Establishing bedroom at night: kid on beanbag in front of the big TV glow, controller, skyline window; badge 14 ANOS",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s04",
+   "start": 7.9,
+   "end": 10.0,
+   "line": "passar seis horas seguidas no",
+   "scene": "Behind the kid: TV glow, window moon arcs across; clock readout spins 0H -> 6H",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s05",
+   "start": 10.0,
+   "end": 11.8,
+   "line": "videogame sem piscar.",
+   "scene": "bigFace kid wide unblinking eyes, TV flicker reflection, counter PISCADAS: 0",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s06",
+   "start": 11.8,
+   "end": 13.95,
+   "line": "Na escola, o talento é outro.",
+   "scene": "Classroom day: kid slumped asleep on desk, teacher board behind, dust in window light",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s07",
+   "start": 13.95,
+   "end": 17.65,
+   "line": "Português: quatro. História: três.",
+   "scene": "Report card insert: PORTUGUÊS 4 then HISTÓRIA 3 stamp in red",
+   "set": "insert",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 2.7,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s08",
+   "start": 17.65,
+   "end": 20.1,
+   "line": "Matemática... dois.",
+   "scene": "Push into MATEMÁTICA row, pause, giant red 2 slams, shake",
+   "set": "insert",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s09",
+   "start": 20.1,
+   "end": 23.5,
+   "line": "E o dois ainda veio com um bilhete da professora.",
+   "scene": "The 2 test with a folded teacher note clipped on it; note opens, red scribbles and !!!",
+   "set": "insert",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s10",
+   "start": 23.5,
+   "end": 25.45,
+   "line": "Aí, no jantar, ela solta:",
+   "scene": "Establishing dining room night: pendant lamp over table, mom and kid eating, window skyline",
+   "set": "dining",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s11",
+   "start": 25.45,
+   "end": 27.35,
+   "line": "\"Quer o GTA 6?",
+   "scene": "bigFace mom talking with a smirk: Quer o GTA 6? game case glow below",
+   "set": "dining",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s12",
+   "start": 27.35,
+   "end": 30.6,
+   "line": "Eu compro. Quase quatrocentos e cinquenta reais.",
+   "scene": "Insert game case on table, price tag counts up to R$ 449,90 (quase 450)",
+   "set": "dining",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s13",
+   "start": 30.6,
+   "end": 33.65,
+   "line": "Mas só se você fechar o ano com média sete.",
+   "scene": "Two-shot: kid reaches for the case, mom pulls it back raising a finger; MÉDIA 7 pops gold",
+   "set": "dining",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s14",
+   "start": 33.65,
+   "end": 34.95,
+   "line": "Em tudo.\"",
+   "scene": "bigFace mom determined, three subject chips PORT HIST MAT all 7",
+   "set": "dining",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s15",
+   "start": 34.95,
+   "end": 36.5,
+   "line": "Você faz as contas.",
+   "scene": "bigFace kid thinking, glowing numbers orbiting the head",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s16",
+   "start": 36.5,
+   "end": 38.55,
+   "line": "Mal, porque é matemática.",
+   "scene": "Blueprint chalk mess: sums scribbled, crossed out, question marks; line kid scratching head",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s17",
+   "start": 38.55,
+   "end": 40.7,
+   "line": "Mas faz. Quatro semanas.",
+   "scene": "Calendar card: 4 weeks / 28 days light up",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s18",
+   "start": 40.7,
+   "end": 43.3,
+   "line": "Média sete. Partindo do dois.",
+   "scene": "Bar chart: target line MÉDIA 7 appears, then a tiny bar at 2, gap arrow +5",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s19",
+   "start": 43.3,
+   "end": 46.85,
+   "line": "E seus amigos já combinaram de jogar juntos no lançamento.",
+   "scene": "Phone insert: friends group chat bubbles about the launch, kid hand holding phone",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "phonebuzz",
+     "gain": -12
+    },
+    {
+     "at": 1.4,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s20",
+   "start": 46.85,
+   "end": 48.85,
+   "line": "Sem você, se der errado.",
+   "scene": "Game lobby: 4 player slots, 3 friends ready, 4th slot VOCÊ empty red X",
+   "set": "hud",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s21",
+   "start": 48.85,
+   "end": 50.0,
+   "line": "Na primeira noite,",
+   "scene": "3D night apartment block, dolly toward the one lit window; badge NOITE 1",
+   "set": "bedroom3d",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s22",
+   "start": 50.0,
+   "end": 53.15,
+   "line": "você abre o caderno e fecha em três minutos.",
+   "scene": "Kid at desk under lamp opens notebook, slumps, slams it shut; timer 3:00",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -14
+    },
+    {
+     "at": 2.1,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s23",
+   "start": 53.15,
+   "end": 54.85,
+   "line": "Na segunda, vem a ideia.",
+   "scene": "NOITE 2: bigFace kid, eyes light up, idea sparkle",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "ding",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s24",
+   "start": 54.85,
+   "end": 58.5,
+   "line": "E se estudar fosse... uma missão?",
+   "scene": "Notebook glows; neon HUD frames the kid; NOVA MISSÃO banner pops on missão",
+   "set": "hud",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "powerup",
+     "gain": -8
+    },
+    {
+     "at": 2.6,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s25",
+   "start": 58.5,
+   "end": 60.95,
+   "line": "A lista de exercícios vira um assalto.",
+   "scene": "Heist: kid in a dark beanie crouches with flashlight over exercise sheet, red laser grid; ASSALTO",
+   "set": "hud",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s26",
+   "start": 60.95,
+   "end": 63.6,
+   "line": "Cada conta certa, dinheiro no bolso.",
+   "scene": "Exercise sheet: green checks appear, cash counter + bills fly into a pocket",
+   "set": "hud",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 1.9,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s27",
+   "start": 63.6,
+   "end": 65.95,
+   "line": "A tabuada vira treino de mira.",
+   "scene": "Target practice: crosshair snaps to times-table targets, 7x8 -> 56",
+   "set": "hud",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s28",
+   "start": 65.95,
+   "end": 68.95,
+   "line": "O livro de História? Mapa do território inimigo.",
+   "scene": "3D orbit: open history book becomes a low-poly territory map with enemy flags",
+   "set": "map3d",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s29",
+   "start": 68.95,
+   "end": 71.15,
+   "line": "E a prova... é o chefão.",
+   "scene": "Boss: giant angry test-paper monster, PROVA health bar, tiny kid in ready stance",
+   "set": "hud",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -12
+    },
+    {
+     "at": 1.4,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s30",
+   "start": 71.15,
+   "end": 74.85,
+   "line": "Pela primeira vez, você deixa o controle desligado.",
+   "scene": "Controller on shelf, TV off, LED dies; kid studying at lamp in the background",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s31",
+   "start": 74.85,
+   "end": 78.0,
+   "line": "E, estranhamente, não morre por isso.",
+   "scene": "Kid bigFace confused touches chest; HUD hearts all full, VIDA 100%",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s32",
+   "start": 78.0,
+   "end": 80.25,
+   "line": "Aí vem o simulado de matemática.",
+   "scene": "Classroom test day: rows of desks, wall clock, SIMULADO on the board",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "clock",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s33",
+   "start": 80.25,
+   "end": 82.15,
+   "line": "Você treinou. Você confia.",
+   "scene": "Kid writing fast, confident smirk, pencil speed lines",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s34",
+   "start": 82.15,
+   "end": 84.0,
+   "line": "Nota: cinco.",
+   "scene": "Test paper insert, a red 5 stamps hard",
+   "set": "insert",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s35",
+   "start": 84.0,
+   "end": 86.7,
+   "line": "Você joga a mochila no canto e pensa:",
+   "scene": "Bedroom: kid flings backpack into the corner, slumps",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 1.1,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s36",
+   "start": 86.7,
+   "end": 88.5,
+   "line": "\"Pronto. Game over.\"",
+   "scene": "GAME OVER glitch over kid sad bigFace, desaturated red",
+   "set": "bedroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "glitch",
+     "gain": -8
+    },
+    {
+     "at": 1.0,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s37",
+   "start": 88.5,
+   "end": 93.65,
+   "line": "Só que game over, você sabe melhor que ninguém, significa uma coisa só:",
+   "scene": "Kid on the floor in TV light; CONTINUE? countdown 9..5; he lifts his head",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 2.5,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 3.5,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 4.5,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s38",
+   "start": 93.65,
+   "end": 95.1,
+   "line": "tentar de novo.",
+   "scene": "TENTAR DE NOVO button pressed, flash, kid springs up",
+   "set": "hud",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "powerup",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s39",
+   "start": 95.1,
+   "end": 96.95,
+   "line": "Você volta pro checkpoint.",
+   "scene": "Desk with glowing checkpoint flag beside the notebook, CHECKPOINT label",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s40",
+   "start": 96.95,
+   "end": 99.0,
+   "line": "Refaz cada questão errada.",
+   "scene": "Test sheet: red X marks flip to green checks one by one",
+   "set": "insert",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 0.9,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s41",
+   "start": 99.0,
+   "end": 100.4,
+   "line": "Uma por uma.",
+   "scene": "Timelapse at the desk: moon races, stack of sheets grows, 12/12",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s42",
+   "start": 100.4,
+   "end": 101.75,
+   "line": "Último dia de aula.",
+   "scene": "Last day: empty golden classroom, sun beams, ÚLTIMO DIA badge",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s43",
+   "start": 101.75,
+   "end": 103.6,
+   "line": "Boletim na mão da sua mãe.",
+   "scene": "Insert: mom's hands open the report card under the lamp",
+   "set": "dining",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s44",
+   "start": 103.6,
+   "end": 105.2,
+   "line": "Ela lê em silêncio.",
+   "scene": "Two-shot: mom reads in silence, kid sweating, watching",
+   "set": "dining",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s45",
+   "start": 105.2,
+   "end": 107.1,
+   "line": "Português: oito.",
+   "scene": "Report card: PORTUGUÊS 8 stamps green",
+   "set": "insert",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s46",
+   "start": 107.1,
+   "end": 109.15,
+   "line": "História: sete e meio.",
+   "scene": "Report card: HISTÓRIA 7,5 stamps green",
+   "set": "insert",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s47",
+   "start": 109.15,
+   "end": 110.4,
+   "line": "Matemática...",
+   "scene": "bigFace kid holding his breath, heartbeat rings",
+   "set": "dining",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s48",
+   "start": 110.4,
+   "end": 111.5,
+   "line": "Sete.",
+   "scene": "FREEZE: MATEMÁTICA 7 stamps, particles hang in the air",
+   "set": "insert",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "freeze",
+     "gain": -8
+    },
+    {
+     "at": 0.15,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s49",
+   "start": 111.5,
+   "end": 112.15,
+   "line": "Raspando.",
+   "scene": "Meter: needle settles exactly on 7,0 at the line, RASPANDO",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s50",
+   "start": 112.15,
+   "end": 113.55,
+   "line": "Mas sete.",
+   "scene": "bigFace kid explodes in joy, sparkles",
+   "set": "dining",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "cheer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s51",
+   "start": 113.55,
+   "end": 114.75,
+   "line": "No fim de semana,",
+   "scene": "Weekend morning bedroom, sun in the window, kid on the beanbag facing the TV",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s52",
+   "start": 114.75,
+   "end": 118.35,
+   "line": "a barra de download do GTA 6 chega a cem por cento.",
+   "scene": "TV insert: download bar GTA 6 races to 100%",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -14
+    },
+    {
+     "at": 2.2,
+     "name": "ding",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s53",
+   "start": 118.35,
+   "end": 120.6,
+   "line": "E você liga o console, claro.",
+   "scene": "Insert: hand presses console power, LED lights, glow fills",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s54",
+   "start": 120.6,
+   "end": 123.6,
+   "line": "Mas tem uma coisa que você não conta pra ninguém:",
+   "scene": "Kid with controller turns to camera, finger to lips: a secret",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s55",
+   "start": 123.6,
+   "end": 126.95,
+   "line": "a melhor fase da semana não foi abrir o jogo.",
+   "scene": "Game menu glows on TV behind; kid looks away from it toward the wall",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s56",
+   "start": 126.95,
+   "end": 129.0,
+   "line": "Foi ver aquele sete.",
+   "scene": "Report card pinned to the wall, the 7 circled with a gold star, warm glow",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s57",
+   "start": 129.0,
+   "end": 131.25,
+   "line": "E você? Aceitaria o acordo?",
+   "scene": "End screen: ACEITARIA O ACORDO? with kid and mom",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "captions": false
+  },
+  {
+   "id": "s58",
+   "start": 131.25,
+   "end": 133.6,
+   "line": "Porque a sua mãe... acabou de fazer",
+   "scene": "Callback: bigFace mom smirk, game case slides into frame",
+   "set": "dining",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s59",
+   "start": 133.6,
+   "end": 138.0,
+   "line": "a proposta mais perigosa da sua vida.",
+   "scene": "Pull-out dinner table wide, title A PROPOSTA MAIS PERIGOSA returns, fade out",
+   "set": "dining",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   },
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 23.5,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 23.5,
+   "end": 48.85,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 48.85,
+   "end": 54.85,
+   "mood": "calm",
+   "intensity": 0.3
+  },
+  {
+   "start": 54.85,
+   "end": 78.0,
+   "mood": "action",
+   "intensity": 0.75
+  },
+  {
+   "start": 78.0,
+   "end": 88.5,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 88.5,
+   "end": 100.4,
+   "mood": "hopeful",
+   "intensity": 0.55
+  },
+  {
+   "start": 100.4,
+   "end": 110.4,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 110.4,
+   "end": 129.0,
+   "mood": "triumph",
+   "intensity": 0.65
+  },
+  {
+   "start": 129.0,
+   "end": 138.0,
+   "mood": "mystery",
+   "intensity": 0.4
+  }
+ ],
+ "sfx": []
+}

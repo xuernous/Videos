@@ -1,0 +1,314 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "speechStart": 0.0,
+  "speechEnd": 4.42,
+  "text": "Sua mãe acabou de fazer a proposta mais perigosa da sua vida.",
+  "end": 4.75
+ },
+ {
+  "i": 1,
+  "start": 4.75,
+  "speechStart": 4.9,
+  "speechEnd": 7.62,
+  "text": "Você tem catorze anos e um talento raro:",
+  "end": 7.89
+ },
+ {
+  "i": 2,
+  "start": 7.89,
+  "speechStart": 8.04,
+  "speechEnd": 11.5,
+  "text": "passar seis horas seguidas no videogame sem piscar.",
+  "end": 11.79
+ },
+ {
+  "i": 3,
+  "start": 11.79,
+  "speechStart": 11.94,
+  "speechEnd": 18.5,
+  "text": "Na escola, o talento é outro. Português: quatro. História: três. Matemática...",
+  "end": 18.99
+ },
+ {
+  "i": 4,
+  "start": 18.99,
+  "speechStart": 19.14,
+  "speechEnd": 19.52,
+  "text": "dois.",
+  "end": 20.07
+ },
+ {
+  "i": 5,
+  "start": 20.07,
+  "speechStart": 20.22,
+  "speechEnd": 23.18,
+  "text": "E o dois ainda veio com um bilhete da professora.",
+  "end": 23.49
+ },
+ {
+  "i": 6,
+  "start": 23.49,
+  "speechStart": 23.64,
+  "speechEnd": 25.6,
+  "text": "Aí, no jantar, ela solta:",
+  "end": 25.45
+ },
+ {
+  "i": 7,
+  "start": 25.45,
+  "speechStart": 25.6,
+  "speechEnd": 27.98,
+  "text": "\"Quer o GTA 6? Eu compro.",
+  "end": 27.83
+ },
+ {
+  "i": 8,
+  "start": 27.83,
+  "speechStart": 27.98,
+  "speechEnd": 30.28,
+  "text": "Quase quatrocentos e cinquenta reais.",
+  "end": 30.61
+ },
+ {
+  "i": 9,
+  "start": 30.61,
+  "speechStart": 30.76,
+  "speechEnd": 34.44,
+  "text": "Mas só se você fechar o ano com média sete. Em tudo.\"",
+  "end": 34.93
+ },
+ {
+  "i": 10,
+  "start": 34.93,
+  "speechStart": 35.08,
+  "speechEnd": 36.28,
+  "text": "Você faz as contas.",
+  "end": 36.49
+ },
+ {
+  "i": 11,
+  "start": 36.49,
+  "speechStart": 36.64,
+  "speechEnd": 40.24,
+  "text": "Mal, porque é matemática. Mas faz. Quatro semanas.",
+  "end": 40.67
+ },
+ {
+  "i": 12,
+  "start": 40.67,
+  "speechStart": 40.82,
+  "speechEnd": 42.92,
+  "text": "Média sete. Partindo do dois.",
+  "end": 43.27
+ },
+ {
+  "i": 13,
+  "start": 43.27,
+  "speechStart": 43.42,
+  "speechEnd": 46.68,
+  "text": "E seus amigos já combinaram de jogar juntos no lançamento.",
+  "end": 46.81
+ },
+ {
+  "i": 14,
+  "start": 46.81,
+  "speechStart": 46.96,
+  "speechEnd": 48.52,
+  "text": "Sem você, se der errado.",
+  "end": 48.85
+ },
+ {
+  "i": 15,
+  "start": 48.85,
+  "speechStart": 49.0,
+  "speechEnd": 52.8,
+  "text": "Na primeira noite, você abre o caderno e fecha em três minutos.",
+  "end": 53.17
+ },
+ {
+  "i": 16,
+  "start": 53.17,
+  "speechStart": 53.32,
+  "speechEnd": 54.94,
+  "text": "Na segunda, vem a ideia.",
+  "end": 54.79
+ },
+ {
+  "i": 17,
+  "start": 54.79,
+  "speechStart": 54.94,
+  "speechEnd": 56.66,
+  "text": "E se estudar fosse...",
+  "end": 56.51
+ },
+ {
+  "i": 18,
+  "start": 56.51,
+  "speechStart": 56.66,
+  "speechEnd": 58.0,
+  "text": "uma missão?",
+  "end": 58.49
+ },
+ {
+  "i": 19,
+  "start": 58.49,
+  "speechStart": 58.64,
+  "speechEnd": 60.82,
+  "text": "A lista de exercícios vira um assalto.",
+  "end": 60.93
+ },
+ {
+  "i": 20,
+  "start": 60.93,
+  "speechStart": 61.08,
+  "speechEnd": 63.5,
+  "text": "Cada conta certa, dinheiro no bolso.",
+  "end": 63.63
+ },
+ {
+  "i": 21,
+  "start": 63.63,
+  "speechStart": 63.78,
+  "speechEnd": 66.9,
+  "text": "A tabuada vira treino de mira. O livro de História?",
+  "end": 67.27
+ },
+ {
+  "i": 22,
+  "start": 67.27,
+  "speechStart": 67.42,
+  "speechEnd": 70.9,
+  "text": "Mapa do território inimigo. E a prova... é o chefão.",
+  "end": 71.13
+ },
+ {
+  "i": 23,
+  "start": 71.13,
+  "speechStart": 71.28,
+  "speechEnd": 74.66,
+  "text": "Pela primeira vez, você deixa o controle desligado.",
+  "end": 74.85
+ },
+ {
+  "i": 24,
+  "start": 74.85,
+  "speechStart": 75.0,
+  "speechEnd": 77.64,
+  "text": "E, estranhamente, não morre por isso.",
+  "end": 77.85
+ },
+ {
+  "i": 25,
+  "start": 77.85,
+  "speechStart": 78.0,
+  "speechEnd": 84.12,
+  "text": "Aí vem o simulado de matemática. Você treinou. Você confia. Nota: cinco.",
+  "end": 83.97
+ },
+ {
+  "i": 26,
+  "start": 83.97,
+  "speechStart": 84.12,
+  "speechEnd": 88.14,
+  "text": "Você joga a mochila no canto e pensa: \"Pronto. Game over.\"",
+  "end": 88.47
+ },
+ {
+  "i": 27,
+  "start": 88.47,
+  "speechStart": 88.62,
+  "speechEnd": 94.84,
+  "text": "Só que game over, você sabe melhor que ninguém, significa uma coisa só: tentar de novo.",
+  "end": 95.11
+ },
+ {
+  "i": 28,
+  "start": 95.11,
+  "speechStart": 95.26,
+  "speechEnd": 96.48,
+  "text": "Você volta pro checkpoint.",
+  "end": 96.95
+ },
+ {
+  "i": 29,
+  "start": 96.95,
+  "speechStart": 97.1,
+  "speechEnd": 101.56,
+  "text": "Refaz cada questão errada. Uma por uma. Último dia de aula.",
+  "end": 101.73
+ },
+ {
+  "i": 30,
+  "start": 101.73,
+  "speechStart": 101.88,
+  "speechEnd": 103.4,
+  "text": "Boletim na mão da sua mãe.",
+  "end": 103.61
+ },
+ {
+  "i": 31,
+  "start": 103.61,
+  "speechStart": 103.76,
+  "speechEnd": 109.96,
+  "text": "Ela lê em silêncio. Português: oito. História: sete e meio. Matemática...",
+  "end": 110.39
+ },
+ {
+  "i": 32,
+  "start": 110.39,
+  "speechStart": 110.54,
+  "speechEnd": 113.34,
+  "text": "Sete. Raspando. Mas sete.",
+  "end": 113.55
+ },
+ {
+  "i": 33,
+  "start": 113.55,
+  "speechStart": 113.7,
+  "speechEnd": 118.48,
+  "text": "No fim de semana, a barra de download do GTA 6 chega a cem por cento.",
+  "end": 118.33
+ },
+ {
+  "i": 34,
+  "start": 118.33,
+  "speechStart": 118.48,
+  "speechEnd": 120.22,
+  "text": "E você liga o console, claro.",
+  "end": 120.57
+ },
+ {
+  "i": 35,
+  "start": 120.57,
+  "speechStart": 120.72,
+  "speechEnd": 123.16,
+  "text": "Mas tem uma coisa que você não conta pra ninguém:",
+  "end": 123.57
+ },
+ {
+  "i": 36,
+  "start": 123.57,
+  "speechStart": 123.72,
+  "speechEnd": 129.48,
+  "text": "a melhor fase da semana não foi abrir o jogo. Foi ver aquele sete. E você?",
+  "end": 129.77
+ },
+ {
+  "i": 37,
+  "start": 129.77,
+  "speechStart": 129.92,
+  "speechEnd": 132.3,
+  "text": "Aceitaria o acordo? Porque a sua mãe...",
+  "end": 132.15
+ },
+ {
+  "i": 38,
+  "start": 132.15,
+  "speechStart": 132.3,
+  "speechEnd": 136.26,
+  "text": "acabou de fazer a proposta mais perigosa da sua vida.",
+  "end": 137.76
+ }
+]
