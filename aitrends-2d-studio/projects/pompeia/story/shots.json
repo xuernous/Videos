@@ -1,0 +1,765 @@
+{
+ "title": "Pompeia",
+ "duration": 68.7,
+ "shots": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 1.85,
+   "line": "E se você voltasse no tempo e",
+   "scene": "Time warp: the hero tumbles through a tunnel of rings, year counter 2026 -> 79",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "riser",
+     "gain": -10
+    },
+    {
+     "at": 1.6,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s02",
+   "start": 1.85,
+   "end": 3.95,
+   "line": "acordasse padeiro em Pompeia,",
+   "scene": "Bakery interior: the hero wakes up slumped on flour sacks, stone oven glowing, he looks around",
+   "set": "bakery",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s03",
+   "start": 3.95,
+   "end": 5.7,
+   "line": "no ano 79,",
+   "scene": "Establishing Pompeii street, columns and red roofs, Vesuvius calm behind; title POMPEIA · ANO 79",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   },
+   "captions": false
+  },
+  {
+   "id": "s04",
+   "start": 5.7,
+   "end": 7.65,
+   "line": "são quase uma da tarde.",
+   "scene": "Insert: Roman sundial, shadow creeps to the 1 pm mark; readout 13:00",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s05",
+   "start": 7.65,
+   "end": 10.85,
+   "line": "A montanha atrás da cidade acabou de explodir.",
+   "scene": "Street wide: hero in fg; on explodir the mountain blasts, flash, shake, column bursts up",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "riser",
+     "gain": -12
+    },
+    {
+     "at": 2.35,
+     "name": "impact",
+     "gain": -4
+    },
+    {
+     "at": 2.4,
+     "name": "thunder",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s06",
+   "start": 10.85,
+   "end": 12.2,
+   "line": "Tem pão no forno.",
+   "scene": "Insert: round loaves baking in the glowing oven, a wooden peel",
+   "set": "bakery",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s07",
+   "start": 12.2,
+   "end": 14.95,
+   "line": "Uma coluna de cinza sobe 30 quilômetros",
+   "scene": "3D: the plume rises over the mountain, camera tilts up; 30 KM dimension",
+   "set": "erupt3d",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "thunder",
+     "gain": -10
+    },
+    {
+     "at": 1.8,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s08",
+   "start": 14.95,
+   "end": 16.95,
+   "line": "com a forma de um pinheiro.",
+   "scene": "Blueprint: plume outline beside a pine tree outline, same shape",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s09",
+   "start": 16.95,
+   "end": 18.25,
+   "line": "O sol some,",
+   "scene": "Hero looks up as the ash cloud swallows the sun, street goes dark",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "wind",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s10",
+   "start": 18.25,
+   "end": 22.0,
+   "line": "então começa a chover pedra sem parar.",
+   "scene": "Pumice rains on the street, people cover their heads, stones bounce",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 2.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s11",
+   "start": 22.0,
+   "end": 23.9,
+   "line": "Você tem duas escolhas.",
+   "scene": "bigFace hero worried; two choice cards appear: A house / B run",
+   "set": "bakery",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s12",
+   "start": 23.9,
+   "end": 26.0,
+   "line": "Se trancar em casa e esperar passar,",
+   "scene": "Option A: hero bars the bakery door and sits waiting, stones thudding on the roof",
+   "set": "bakery",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s13",
+   "start": 26.0,
+   "end": 28.35,
+   "line": "ou fugir no escuro,",
+   "scene": "Option B: hero runs through the dark street, pumice falling, speed lines",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s14",
+   "start": 28.35,
+   "end": 30.65,
+   "line": "com um travesseiro amarrado na cabeça.",
+   "scene": "bigFace hero with a pillow tied on his head, stones bouncing off it",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s15",
+   "start": 30.65,
+   "end": 33.15,
+   "line": "A chuva dura 18 horas,",
+   "scene": "Night timelapse: stones pile up; readout counts to 18 HORAS",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s16",
+   "start": 33.15,
+   "end": 35.7,
+   "line": "quase 3 metros de pedra.",
+   "scene": "Cutaway: pumice level rises up a house wall to the roof; dimension 3 M with a man for scale",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s17",
+   "start": 35.7,
+   "end": 38.85,
+   "line": "De madrugada, os telhados começam a desabar.",
+   "scene": "Night: a roof sags and collapses under the pumice, dust burst; badge MADRUGADA",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s18",
+   "start": 38.85,
+   "end": 40.6,
+   "line": "Por volta da 7 da manhã,",
+   "scene": "Grey dawn behind the ash, ruined street; readout 7:00",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s19",
+   "start": 40.6,
+   "end": 44.35,
+   "line": "desce uma nuvem de gás e cinza a centenas de graus,",
+   "scene": "3D: a glowing cloud of gas and ash rolls down the mountain toward the city; CENTENAS DE °C",
+   "set": "flow3d",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -10
+    },
+    {
+     "at": 2.0,
+     "name": "thunder",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s20",
+   "start": 44.35,
+   "end": 46.95,
+   "line": "mais de 100 quilômetros por hora.",
+   "scene": "Speedometer: needle swings past 100 KM/H",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s21",
+   "start": 46.95,
+   "end": 48.95,
+   "line": "Ninguém corre mais que isso.",
+   "scene": "Chase: tiny hero runs, a towering cloud wall rolls in behind",
+   "set": "street",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s22",
+   "start": 48.95,
+   "end": 52.0,
+   "line": "A maioria dos moradores fugiu enquanto dava.",
+   "scene": "Earlier: a long line of residents leaving through the city gate with bundles",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s23",
+   "start": 52.0,
+   "end": 54.05,
+   "line": "Morreu quem esperou demais.",
+   "scene": "Silent empty street buried in grey ash, a closed door, the light dies",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s24",
+   "start": 54.05,
+   "end": 58.85,
+   "line": "Seus pães foram encontrados quase 1.800 anos depois,",
+   "scene": "Dig site in sunlight: an archaeologist brushes the old oven; counter 1.800 ANOS",
+   "set": "dig",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s25",
+   "start": 58.85,
+   "end": 60.45,
+   "line": "ainda no forno.",
+   "scene": "Insert: carbonized round loaves inside the ruined oven, sun shaft, dust",
+   "set": "dig",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s26",
+   "start": 60.45,
+   "end": 63.85,
+   "line": "E o pior, ninguém ali sabia que aquela montanha",
+   "scene": "Before: calm green mountain, vineyards, people relaxing unaware, a question mark",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s27",
+   "start": 63.85,
+   "end": 65.4,
+   "line": "era um vulcão.",
+   "scene": "Blueprint cross-section: magma chamber under the mountain; label VULCÃO",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.7,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s28",
+   "start": 65.4,
+   "end": 68.7,
+   "line": "Agora você sabe.",
+   "scene": "End: hero bigFace smirk with Vesuvius smoking behind; AGORA VOCÊ SABE",
+   "set": "end",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 7.65,
+   "mood": "wonder",
+   "intensity": 0.4
+  },
+  {
+   "start": 7.65,
+   "end": 22.0,
+   "mood": "tension",
+   "intensity": 0.65
+  },
+  {
+   "start": 22.0,
+   "end": 40.6,
+   "mood": "dark",
+   "intensity": 0.55
+  },
+  {
+   "start": 40.6,
+   "end": 52.0,
+   "mood": "epic",
+   "intensity": 0.8
+  },
+  {
+   "start": 52.0,
+   "end": 60.45,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 60.45,
+   "end": 68.7,
+   "mood": "mystery",
+   "intensity": 0.45
+  }
+ ],
+ "sfx": []
+}

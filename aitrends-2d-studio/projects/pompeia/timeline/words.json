@@ -1,0 +1,790 @@
+{
+ "source": "whisper:/tmp/claude-0/-home-user-Videos/1fd00579-5a6b-5aec-9a70-7949aff051d8/scratchpad/whisper-npm/model-small",
+ "words": [
+  {
+   "word": "E",
+   "start": 0.0,
+   "end": 0.16
+  },
+  {
+   "word": "se",
+   "start": 0.16,
+   "end": 0.22
+  },
+  {
+   "word": "você",
+   "start": 0.22,
+   "end": 0.48
+  },
+  {
+   "word": "voltasse",
+   "start": 0.48,
+   "end": 1.04
+  },
+  {
+   "word": "no",
+   "start": 1.04,
+   "end": 1.22
+  },
+  {
+   "word": "tempo",
+   "start": 1.22,
+   "end": 1.66
+  },
+  {
+   "word": "e",
+   "start": 1.66,
+   "end": 1.92
+  },
+  {
+   "word": "acordasse",
+   "start": 1.92,
+   "end": 2.4
+  },
+  {
+   "word": "padeiro",
+   "start": 2.4,
+   "end": 3.12
+  },
+  {
+   "word": "em",
+   "start": 3.12,
+   "end": 3.26
+  },
+  {
+   "word": "Pompeia,",
+   "start": 3.26,
+   "end": 3.94
+  },
+  {
+   "word": "no",
+   "start": 4.06,
+   "end": 4.22
+  },
+  {
+   "word": "ano",
+   "start": 4.22,
+   "end": 4.32
+  },
+  {
+   "word": "79,",
+   "start": 4.32,
+   "end": 4.88
+  },
+  {
+   "word": "são",
+   "start": 5.82,
+   "end": 6.04
+  },
+  {
+   "word": "quase",
+   "start": 6.04,
+   "end": 6.4
+  },
+  {
+   "word": "uma",
+   "start": 6.4,
+   "end": 6.74
+  },
+  {
+   "word": "da",
+   "start": 6.74,
+   "end": 6.9
+  },
+  {
+   "word": "tarde.",
+   "start": 6.9,
+   "end": 7.26
+  },
+  {
+   "word": "A",
+   "start": 7.8,
+   "end": 7.92
+  },
+  {
+   "word": "montanha",
+   "start": 7.92,
+   "end": 8.36
+  },
+  {
+   "word": "atrás",
+   "start": 8.36,
+   "end": 8.64
+  },
+  {
+   "word": "da",
+   "start": 8.64,
+   "end": 8.8
+  },
+  {
+   "word": "cidade",
+   "start": 8.8,
+   "end": 9.24
+  },
+  {
+   "word": "acabou",
+   "start": 9.24,
+   "end": 9.58
+  },
+  {
+   "word": "de",
+   "start": 9.58,
+   "end": 10.0
+  },
+  {
+   "word": "explodir.",
+   "start": 10.0,
+   "end": 10.52
+  },
+  {
+   "word": "Tem",
+   "start": 10.96,
+   "end": 11.12
+  },
+  {
+   "word": "pão",
+   "start": 11.12,
+   "end": 11.4
+  },
+  {
+   "word": "no",
+   "start": 11.4,
+   "end": 11.54
+  },
+  {
+   "word": "forno.",
+   "start": 11.54,
+   "end": 11.94
+  },
+  {
+   "word": "Uma",
+   "start": 12.34,
+   "end": 12.52
+  },
+  {
+   "word": "coluna",
+   "start": 12.52,
+   "end": 12.92
+  },
+  {
+   "word": "de",
+   "start": 12.92,
+   "end": 13.08
+  },
+  {
+   "word": "cinza",
+   "start": 13.08,
+   "end": 13.58
+  },
+  {
+   "word": "sobe",
+   "start": 13.58,
+   "end": 13.94
+  },
+  {
+   "word": "30",
+   "start": 13.94,
+   "end": 14.4
+  },
+  {
+   "word": "quilômetros",
+   "start": 14.4,
+   "end": 15.12
+  },
+  {
+   "word": "com",
+   "start": 15.12,
+   "end": 15.46
+  },
+  {
+   "word": "a",
+   "start": 15.46,
+   "end": 15.54
+  },
+  {
+   "word": "forma",
+   "start": 15.54,
+   "end": 15.82
+  },
+  {
+   "word": "de",
+   "start": 15.82,
+   "end": 15.98
+  },
+  {
+   "word": "um",
+   "start": 15.98,
+   "end": 16.06
+  },
+  {
+   "word": "pinheiro.",
+   "start": 16.06,
+   "end": 16.54
+  },
+  {
+   "word": "O",
+   "start": 17.06,
+   "end": 17.18
+  },
+  {
+   "word": "sol",
+   "start": 17.18,
+   "end": 17.5
+  },
+  {
+   "word": "some,",
+   "start": 17.5,
+   "end": 17.96
+  },
+  {
+   "word": "então",
+   "start": 18.36,
+   "end": 18.86
+  },
+  {
+   "word": "começa",
+   "start": 18.86,
+   "end": 19.44
+  },
+  {
+   "word": "a",
+   "start": 19.44,
+   "end": 19.66
+  },
+  {
+   "word": "chover",
+   "start": 19.66,
+   "end": 19.94
+  },
+  {
+   "word": "pedra",
+   "start": 19.94,
+   "end": 20.6
+  },
+  {
+   "word": "sem",
+   "start": 20.6,
+   "end": 21.26
+  },
+  {
+   "word": "parar.",
+   "start": 21.26,
+   "end": 21.64
+  },
+  {
+   "word": "Você",
+   "start": 22.16,
+   "end": 22.46
+  },
+  {
+   "word": "tem",
+   "start": 22.46,
+   "end": 22.68
+  },
+  {
+   "word": "duas",
+   "start": 22.68,
+   "end": 23.06
+  },
+  {
+   "word": "escolhas.",
+   "start": 23.06,
+   "end": 23.58
+  },
+  {
+   "word": "Se",
+   "start": 24.04,
+   "end": 24.22
+  },
+  {
+   "word": "trancar",
+   "start": 24.22,
+   "end": 24.64
+  },
+  {
+   "word": "em",
+   "start": 24.64,
+   "end": 24.76
+  },
+  {
+   "word": "casa",
+   "start": 24.76,
+   "end": 25.1
+  },
+  {
+   "word": "e",
+   "start": 25.1,
+   "end": 25.34
+  },
+  {
+   "word": "esperar",
+   "start": 25.34,
+   "end": 25.68
+  },
+  {
+   "word": "passar,",
+   "start": 25.68,
+   "end": 26.12
+  },
+  {
+   "word": "ou",
+   "start": 26.12,
+   "end": 26.88
+  },
+  {
+   "word": "fugir",
+   "start": 26.88,
+   "end": 27.56
+  },
+  {
+   "word": "no",
+   "start": 27.56,
+   "end": 27.7
+  },
+  {
+   "word": "escuro,",
+   "start": 27.7,
+   "end": 28.18
+  },
+  {
+   "word": "com",
+   "start": 28.48,
+   "end": 28.6
+  },
+  {
+   "word": "um",
+   "start": 28.6,
+   "end": 28.74
+  },
+  {
+   "word": "travesseiro",
+   "start": 28.74,
+   "end": 29.28
+  },
+  {
+   "word": "amarrado",
+   "start": 29.28,
+   "end": 29.78
+  },
+  {
+   "word": "na",
+   "start": 29.78,
+   "end": 29.9
+  },
+  {
+   "word": "cabeça.",
+   "start": 29.9,
+   "end": 30.32
+  },
+  {
+   "word": "A",
+   "start": 30.82,
+   "end": 31.08
+  },
+  {
+   "word": "chuva",
+   "start": 31.08,
+   "end": 31.48
+  },
+  {
+   "word": "dura",
+   "start": 31.48,
+   "end": 31.76
+  },
+  {
+   "word": "18",
+   "start": 31.76,
+   "end": 32.38
+  },
+  {
+   "word": "horas,",
+   "start": 32.38,
+   "end": 32.84
+  },
+  {
+   "word": "quase",
+   "start": 33.3,
+   "end": 33.64
+  },
+  {
+   "word": "3",
+   "start": 33.64,
+   "end": 34.2
+  },
+  {
+   "word": "metros",
+   "start": 34.2,
+   "end": 34.74
+  },
+  {
+   "word": "de",
+   "start": 34.74,
+   "end": 35.0
+  },
+  {
+   "word": "pedra.",
+   "start": 35.0,
+   "end": 35.4
+  },
+  {
+   "word": "De",
+   "start": 35.82,
+   "end": 35.98
+  },
+  {
+   "word": "madrugada,",
+   "start": 35.98,
+   "end": 36.54
+  },
+  {
+   "word": "os",
+   "start": 36.94,
+   "end": 37.0
+  },
+  {
+   "word": "telhados",
+   "start": 37.0,
+   "end": 37.36
+  },
+  {
+   "word": "começam",
+   "start": 37.36,
+   "end": 37.98
+  },
+  {
+   "word": "a",
+   "start": 37.98,
+   "end": 38.1
+  },
+  {
+   "word": "desabar.",
+   "start": 38.1,
+   "end": 38.58
+  },
+  {
+   "word": "Por",
+   "start": 39.0,
+   "end": 39.16
+  },
+  {
+   "word": "volta",
+   "start": 39.16,
+   "end": 39.4
+  },
+  {
+   "word": "da",
+   "start": 39.4,
+   "end": 39.58
+  },
+  {
+   "word": "7",
+   "start": 39.58,
+   "end": 39.92
+  },
+  {
+   "word": "da",
+   "start": 39.92,
+   "end": 40.1
+  },
+  {
+   "word": "manhã,",
+   "start": 40.1,
+   "end": 40.42
+  },
+  {
+   "word": "desce",
+   "start": 40.74,
+   "end": 40.98
+  },
+  {
+   "word": "uma",
+   "start": 40.98,
+   "end": 41.16
+  },
+  {
+   "word": "nuvem",
+   "start": 41.16,
+   "end": 41.58
+  },
+  {
+   "word": "de",
+   "start": 41.58,
+   "end": 41.74
+  },
+  {
+   "word": "gás",
+   "start": 41.74,
+   "end": 42.14
+  },
+  {
+   "word": "e",
+   "start": 42.14,
+   "end": 42.28
+  },
+  {
+   "word": "cinza",
+   "start": 42.28,
+   "end": 42.76
+  },
+  {
+   "word": "a",
+   "start": 42.76,
+   "end": 42.94
+  },
+  {
+   "word": "centenas",
+   "start": 42.94,
+   "end": 43.6
+  },
+  {
+   "word": "de",
+   "start": 43.6,
+   "end": 43.8
+  },
+  {
+   "word": "graus,",
+   "start": 43.8,
+   "end": 44.26
+  },
+  {
+   "word": "mais",
+   "start": 44.48,
+   "end": 44.86
+  },
+  {
+   "word": "de",
+   "start": 44.86,
+   "end": 45.08
+  },
+  {
+   "word": "100",
+   "start": 45.08,
+   "end": 45.48
+  },
+  {
+   "word": "quilômetros",
+   "start": 45.48,
+   "end": 46.18
+  },
+  {
+   "word": "por",
+   "start": 46.18,
+   "end": 46.46
+  },
+  {
+   "word": "hora.",
+   "start": 46.46,
+   "end": 46.7
+  },
+  {
+   "word": "Ninguém",
+   "start": 47.08,
+   "end": 47.56
+  },
+  {
+   "word": "corre",
+   "start": 47.56,
+   "end": 47.96
+  },
+  {
+   "word": "mais",
+   "start": 47.96,
+   "end": 48.22
+  },
+  {
+   "word": "que",
+   "start": 48.22,
+   "end": 48.38
+  },
+  {
+   "word": "isso.",
+   "start": 48.38,
+   "end": 48.68
+  },
+  {
+   "word": "A",
+   "start": 49.12,
+   "end": 49.24
+  },
+  {
+   "word": "maioria",
+   "start": 49.24,
+   "end": 49.52
+  },
+  {
+   "word": "dos",
+   "start": 49.52,
+   "end": 49.82
+  },
+  {
+   "word": "moradores",
+   "start": 49.82,
+   "end": 50.26
+  },
+  {
+   "word": "fugiu",
+   "start": 50.26,
+   "end": 50.98
+  },
+  {
+   "word": "enquanto",
+   "start": 50.98,
+   "end": 51.26
+  },
+  {
+   "word": "dava.",
+   "start": 51.26,
+   "end": 51.72
+  },
+  {
+   "word": "Morreu",
+   "start": 52.18,
+   "end": 52.62
+  },
+  {
+   "word": "quem",
+   "start": 52.62,
+   "end": 52.86
+  },
+  {
+   "word": "esperou",
+   "start": 52.86,
+   "end": 53.3
+  },
+  {
+   "word": "demais.",
+   "start": 53.3,
+   "end": 53.62
+  },
+  {
+   "word": "Seus",
+   "start": 54.2,
+   "end": 54.62
+  },
+  {
+   "word": "pães",
+   "start": 54.62,
+   "end": 55.08
+  },
+  {
+   "word": "foram",
+   "start": 55.08,
+   "end": 55.24
+  },
+  {
+   "word": "encontrados",
+   "start": 55.24,
+   "end": 55.92
+  },
+  {
+   "word": "quase",
+   "start": 55.92,
+   "end": 56.22
+  },
+  {
+   "word": "1.800",
+   "start": 56.22,
+   "end": 57.18
+  },
+  {
+   "word": "anos",
+   "start": 57.18,
+   "end": 57.92
+  },
+  {
+   "word": "depois,",
+   "start": 57.92,
+   "end": 58.42
+  },
+  {
+   "word": "ainda",
+   "start": 59.0,
+   "end": 59.42
+  },
+  {
+   "word": "no",
+   "start": 59.42,
+   "end": 59.66
+  },
+  {
+   "word": "forno.",
+   "start": 59.66,
+   "end": 60.16
+  },
+  {
+   "word": "E",
+   "start": 60.62,
+   "end": 60.64
+  },
+  {
+   "word": "o",
+   "start": 60.64,
+   "end": 60.72
+  },
+  {
+   "word": "pior,",
+   "start": 60.72,
+   "end": 60.92
+  },
+  {
+   "word": "ninguém",
+   "start": 61.52,
+   "end": 61.98
+  },
+  {
+   "word": "ali",
+   "start": 61.98,
+   "end": 62.38
+  },
+  {
+   "word": "sabia",
+   "start": 62.38,
+   "end": 62.76
+  },
+  {
+   "word": "que",
+   "start": 62.76,
+   "end": 63.12
+  },
+  {
+   "word": "aquela",
+   "start": 63.12,
+   "end": 63.46
+  },
+  {
+   "word": "montanha",
+   "start": 63.46,
+   "end": 64.08
+  },
+  {
+   "word": "era",
+   "start": 64.08,
+   "end": 64.54
+  },
+  {
+   "word": "um",
+   "start": 64.54,
+   "end": 64.66
+  },
+  {
+   "word": "vulcão.",
+   "start": 64.66,
+   "end": 65.16
+  },
+  {
+   "word": "Agora",
+   "start": 65.58,
+   "end": 65.96
+  },
+  {
+   "word": "você",
+   "start": 65.96,
+   "end": 66.6
+  },
+  {
+   "word": "sabe.",
+   "start": 66.6,
+   "end": 67.0
+  }
+ ]
+}
