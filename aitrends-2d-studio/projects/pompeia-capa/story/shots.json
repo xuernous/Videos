@@ -1,0 +1,1 @@
+{ "title": "Capa", "duration": 1, "shots": [ { "id": "cover", "start": 0, "end": 1, "line": "", "scene": "Thumbnail: shocked baker, Vesuvius erupting, big title", "set": "street", "bars": "none", "in": {"type": "cut"}, "captions": false, "vignette": true } ], "music": [], "sfx": [] }
