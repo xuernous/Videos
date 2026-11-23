@@ -36,11 +36,12 @@ registerShot('cover', { draw(g, t, info) {
   seg(g, [[0, mh / 2 + 14], [0, mh / 2 + 60]], 18, '#06060a'); rr(g, -70, mh / 2 + 56, 140, 12, 4); g.fillStyle = '#06060a'; g.fill();
   g.restore();
   // body battery sticker (almost empty)
-  g.save(); g.translate(E.W * 0.8, E.H * 0.65); g.rotate(-0.14);
-  rr(g, -118, -66, 236, 132, 22); g.fillStyle = '#0a0410'; g.fill(); rr(g, -108, -56, 216, 112, 18); g.fillStyle = ui.gold; g.fill();
-  rr(g, -86, -30, 140, 60, 10); g.strokeStyle = '#2a1020'; g.lineWidth = 7; g.stroke(); rr(g, 54, -12, 12, 24, 4); g.fillStyle = '#2a1020'; g.fill();
-  rr(g, -78, -22, 20, 44, 6); g.fillStyle = RED; g.fill();
-  text(g, '7%', 34, 2, { size: 40, color: '#2a1020', font: FONTS.ui, weight: 900 }); text(g, 'CORPO', 0, 44, { size: 22, color: '#2a1020', font: FONTS.ui, weight: 900, spacing: 3 });
+  g.save(); g.translate(E.W * 0.83, E.H * 0.655); g.rotate(-0.14);
+  rr(g, -150, -70, 300, 140, 24); g.fillStyle = '#0a0410'; g.fill(); rr(g, -140, -60, 280, 120, 20); g.fillStyle = ui.gold; g.fill();
+  rr(g, -118, -36, 112, 56, 10); g.strokeStyle = '#2a1020'; g.lineWidth = 7; g.stroke(); rr(g, -4, -18, 12, 20, 4); g.fillStyle = '#2a1020'; g.fill();
+  rr(g, -110, -28, 16, 40, 5); g.fillStyle = RED; g.fill();
+  text(g, '7%', 76, -6, { size: 54, color: '#2a1020', font: FONTS.ui, weight: 900 });
+  text(g, 'CORPO', 0, 42, { size: 24, color: '#2a1020', font: FONTS.ui, weight: 900, spacing: 4 });
   g.restore();
   // the shocked gamer: wide eyes with red veins, sweat
   for (const k of [1.2, 1.1]) ring(g, cx, cy, r * k, 6, alpha(RED, 0.35 / k));
