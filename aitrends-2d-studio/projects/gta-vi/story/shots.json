@@ -1,0 +1,536 @@
+{
+ "title": "GTA VI",
+ "duration": 64.0,
+ "shots": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 3.2,
+   "line": "E se você jogasse GTA 6 sem parar,",
+   "scene": "Gamer room at night: the gamer in a high-back chair facing a huge glowing monitor, LED strip, slow push",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hum",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s02",
+   "start": 3.2,
+   "end": 5.65,
+   "line": "até o seu corpo desligar,",
+   "scene": "bigFace gamer lit by the screen; on desligar the image collapses like an old TV switching off",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.3,
+     "name": "glitch",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s03",
+   "start": 5.65,
+   "end": 7.65,
+   "line": "13 anos de espera,",
+   "scene": "Year counter 2013 -> 2026, label 13 ANOS DE ESPERA",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s04",
+   "start": 7.65,
+   "end": 9.7,
+   "line": "você aperta Iniciar,",
+   "scene": "Insert: thumb presses START on the controller, screen flashes INICIAR",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.85,
+     "name": "powerup",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s05",
+   "start": 9.7,
+   "end": 12.75,
+   "line": "Hora 6, você quase não pisca,",
+   "scene": "HORA 6: bigFace with dry wide eyes, red veins, PISCADAS counter barely moving",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s06",
+   "start": 12.75,
+   "end": 14.35,
+   "line": "as pernas formigam,",
+   "scene": "Blueprint seated figure, pins-and-needles sparks in the legs",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "buzz",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s07",
+   "start": 14.35,
+   "end": 18.25,
+   "line": "Hora 19, seus reflexos são os de alguém que bebeu,",
+   "scene": "HORA 19: gamer reacts too late, screen shows VOCÊ PERDEU; bars DESCANSADO vs AGORA",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 2.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s08",
+   "start": 18.25,
+   "end": 23.8,
+   "line": "Hora 24, seu cérebro funciona como de alguém bêbado demais para dirigir,",
+   "scene": "HORA 24: brain blueprint, readout ≈ 0,10% ÁLCOOL, car icon crossed out",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 3.8,
+     "name": "buzz",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s09",
+   "start": 23.8,
+   "end": 29.3,
+   "line": "Hora 48, você apaga por segundos de olhos abertos e nem percebe.",
+   "scene": "HORA 48: bigFace eyes open but the frame blacks out for a beat, MICROSSONO 2 s",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "slowmo",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s10",
+   "start": 29.3,
+   "end": 34.65,
+   "line": "Perto da Hora 50, um jogador coreano morreu assim em 2005,",
+   "scene": "3D: rows of glowing monitors in a dark internet café; one empty chair; COREIA DO SUL · 2005",
+   "set": "pcbang3d",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s11",
+   "start": 34.65,
+   "end": 36.55,
+   "line": "o coração não aguentou.",
+   "scene": "Heart monitor: the line races, stumbles and goes flat",
+   "set": "bp",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "heartbeat",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s12",
+   "start": 36.55,
+   "end": 41.5,
+   "line": "Hora 72, o quarto começa a mostrar coisas que não estão lá.",
+   "scene": "HORA 72: shadows move on the walls, eyes in the dark, a figure in the doorway that vanishes",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 3.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s13",
+   "start": 41.5,
+   "end": 44.95,
+   "line": "O recorde humano, sem dormir, é de 11 dias,",
+   "scene": "Record card: 11 days cross off on a calendar, 11 DIAS",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.3,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s14",
+   "start": 44.95,
+   "end": 47.3,
+   "line": "mas o corpo pode desistir antes.",
+   "scene": "Body outline with a battery draining to red",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s15",
+   "start": 47.3,
+   "end": 49.5,
+   "line": "O maior perigo nem é o sono,",
+   "scene": "The gamer slumps in the chair; label SONO crossed out",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s16",
+   "start": 49.5,
+   "end": 53.4,
+   "line": "é ficar sentado sem água com o coração no limite.",
+   "scene": "Seated figure: empty water bottle, slow legs, heart pulsing at the limit with a BPM gauge",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s17",
+   "start": 53.4,
+   "end": 55.2,
+   "line": "E se você sobrevivesse?",
+   "scene": "bigFace exhausted gamer, a question mark",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s18",
+   "start": 55.2,
+   "end": 58.25,
+   "line": "Sem dormir, o cérebro não grava memórias,",
+   "scene": "Brain with a REC light that stutters and fails: ERRO AO GRAVAR",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "glitch",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s19",
+   "start": 58.25,
+   "end": 60.4,
+   "line": "você esperou 13 anos e",
+   "scene": "Game memories as frames on a wall; 13 ANOS",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s20",
+   "start": 60.4,
+   "end": 64.0,
+   "line": "não ia lembrar de quase nada.",
+   "scene": "The frames go blank one by one; bigFace gamer confused; fade out",
+   "set": "room",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 9.7,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 9.7,
+   "end": 29.3,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 29.3,
+   "end": 36.55,
+   "mood": "sad",
+   "intensity": 0.35
+  },
+  {
+   "start": 36.55,
+   "end": 53.4,
+   "mood": "dark",
+   "intensity": 0.6
+  },
+  {
+   "start": 53.4,
+   "end": 64.0,
+   "mood": "mystery",
+   "intensity": 0.45
+  }
+ ],
+ "sfx": []
+}

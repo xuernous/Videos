@@ -1,0 +1,725 @@
+{
+ "source": "whisper:/tmp/claude-0/-home-user-Videos/1fd00579-5a6b-5aec-9a70-7949aff051d8/scratchpad/whisper-npm/model-small",
+ "words": [
+  {
+   "word": "E",
+   "start": 0.0,
+   "end": 0.16
+  },
+  {
+   "word": "se",
+   "start": 0.16,
+   "end": 0.22
+  },
+  {
+   "word": "você",
+   "start": 0.22,
+   "end": 0.46
+  },
+  {
+   "word": "jogasse",
+   "start": 0.46,
+   "end": 0.98
+  },
+  {
+   "word": "GTA",
+   "start": 0.98,
+   "end": 1.44
+  },
+  {
+   "word": "6",
+   "start": 1.44,
+   "end": 1.96
+  },
+  {
+   "word": "sem",
+   "start": 1.96,
+   "end": 2.34
+  },
+  {
+   "word": "parar,",
+   "start": 2.34,
+   "end": 2.84
+  },
+  {
+   "word": "até",
+   "start": 3.32,
+   "end": 3.78
+  },
+  {
+   "word": "o",
+   "start": 3.78,
+   "end": 3.94
+  },
+  {
+   "word": "seu",
+   "start": 3.94,
+   "end": 4.06
+  },
+  {
+   "word": "corpo",
+   "start": 4.06,
+   "end": 4.52
+  },
+  {
+   "word": "desligar,",
+   "start": 4.52,
+   "end": 5.3
+  },
+  {
+   "word": "13",
+   "start": 5.8,
+   "end": 6.16
+  },
+  {
+   "word": "anos",
+   "start": 6.16,
+   "end": 6.58
+  },
+  {
+   "word": "de",
+   "start": 6.58,
+   "end": 6.8
+  },
+  {
+   "word": "espera,",
+   "start": 6.8,
+   "end": 7.22
+  },
+  {
+   "word": "você",
+   "start": 7.78,
+   "end": 7.98
+  },
+  {
+   "word": "aperta",
+   "start": 7.98,
+   "end": 8.5
+  },
+  {
+   "word": "Iniciar,",
+   "start": 8.5,
+   "end": 9.38
+  },
+  {
+   "word": "Hora",
+   "start": 9.82,
+   "end": 9.96
+  },
+  {
+   "word": "6,",
+   "start": 9.96,
+   "end": 10.32
+  },
+  {
+   "word": "você",
+   "start": 10.94,
+   "end": 11.16
+  },
+  {
+   "word": "quase",
+   "start": 11.16,
+   "end": 11.66
+  },
+  {
+   "word": "não",
+   "start": 11.66,
+   "end": 11.88
+  },
+  {
+   "word": "pisca,",
+   "start": 11.88,
+   "end": 12.44
+  },
+  {
+   "word": "as",
+   "start": 12.9,
+   "end": 13.06
+  },
+  {
+   "word": "pernas",
+   "start": 13.06,
+   "end": 13.34
+  },
+  {
+   "word": "formigam,",
+   "start": 13.34,
+   "end": 13.98
+  },
+  {
+   "word": "Hora",
+   "start": 14.48,
+   "end": 14.64
+  },
+  {
+   "word": "19,",
+   "start": 14.64,
+   "end": 15.22
+  },
+  {
+   "word": "seus",
+   "start": 15.84,
+   "end": 15.98
+  },
+  {
+   "word": "reflexos",
+   "start": 15.98,
+   "end": 16.68
+  },
+  {
+   "word": "são",
+   "start": 16.68,
+   "end": 16.92
+  },
+  {
+   "word": "os",
+   "start": 16.92,
+   "end": 17.06
+  },
+  {
+   "word": "de",
+   "start": 17.06,
+   "end": 17.14
+  },
+  {
+   "word": "alguém",
+   "start": 17.14,
+   "end": 17.42
+  },
+  {
+   "word": "que",
+   "start": 17.42,
+   "end": 17.58
+  },
+  {
+   "word": "bebeu,",
+   "start": 17.58,
+   "end": 18.12
+  },
+  {
+   "word": "Hora",
+   "start": 18.4,
+   "end": 18.62
+  },
+  {
+   "word": "24,",
+   "start": 18.62,
+   "end": 19.06
+  },
+  {
+   "word": "seu",
+   "start": 19.86,
+   "end": 20.02
+  },
+  {
+   "word": "cérebro",
+   "start": 20.02,
+   "end": 20.56
+  },
+  {
+   "word": "funciona",
+   "start": 20.56,
+   "end": 20.98
+  },
+  {
+   "word": "como",
+   "start": 20.98,
+   "end": 21.32
+  },
+  {
+   "word": "de",
+   "start": 21.32,
+   "end": 21.46
+  },
+  {
+   "word": "alguém",
+   "start": 21.46,
+   "end": 21.72
+  },
+  {
+   "word": "bêbado",
+   "start": 21.72,
+   "end": 22.28
+  },
+  {
+   "word": "demais",
+   "start": 22.28,
+   "end": 22.74
+  },
+  {
+   "word": "para",
+   "start": 22.74,
+   "end": 22.96
+  },
+  {
+   "word": "dirigir,",
+   "start": 22.96,
+   "end": 23.54
+  },
+  {
+   "word": "Hora",
+   "start": 23.94,
+   "end": 24.1
+  },
+  {
+   "word": "48,",
+   "start": 24.1,
+   "end": 24.68
+  },
+  {
+   "word": "você",
+   "start": 25.52,
+   "end": 25.62
+  },
+  {
+   "word": "apaga",
+   "start": 25.62,
+   "end": 26.06
+  },
+  {
+   "word": "por",
+   "start": 26.06,
+   "end": 26.28
+  },
+  {
+   "word": "segundos",
+   "start": 26.28,
+   "end": 26.82
+  },
+  {
+   "word": "de",
+   "start": 26.82,
+   "end": 27.32
+  },
+  {
+   "word": "olhos",
+   "start": 27.32,
+   "end": 27.46
+  },
+  {
+   "word": "abertos",
+   "start": 27.46,
+   "end": 28.02
+  },
+  {
+   "word": "e",
+   "start": 28.02,
+   "end": 28.52
+  },
+  {
+   "word": "nem",
+   "start": 28.52,
+   "end": 28.78
+  },
+  {
+   "word": "percebe.",
+   "start": 28.78,
+   "end": 29.44
+  },
+  {
+   "word": "Perto",
+   "start": 29.44,
+   "end": 30.1
+  },
+  {
+   "word": "da",
+   "start": 30.1,
+   "end": 30.28
+  },
+  {
+   "word": "Hora",
+   "start": 30.28,
+   "end": 30.48
+  },
+  {
+   "word": "50,",
+   "start": 30.48,
+   "end": 30.92
+  },
+  {
+   "word": "um",
+   "start": 31.52,
+   "end": 31.66
+  },
+  {
+   "word": "jogador",
+   "start": 31.66,
+   "end": 32.02
+  },
+  {
+   "word": "coreano",
+   "start": 32.02,
+   "end": 32.58
+  },
+  {
+   "word": "morreu",
+   "start": 32.58,
+   "end": 33.0
+  },
+  {
+   "word": "assim",
+   "start": 33.0,
+   "end": 33.38
+  },
+  {
+   "word": "em",
+   "start": 33.38,
+   "end": 33.66
+  },
+  {
+   "word": "2005,",
+   "start": 33.66,
+   "end": 34.32
+  },
+  {
+   "word": "o",
+   "start": 34.8,
+   "end": 34.96
+  },
+  {
+   "word": "coração",
+   "start": 34.96,
+   "end": 35.34
+  },
+  {
+   "word": "não",
+   "start": 35.34,
+   "end": 35.7
+  },
+  {
+   "word": "aguentou.",
+   "start": 35.7,
+   "end": 36.22
+  },
+  {
+   "word": "Hora",
+   "start": 36.7,
+   "end": 36.86
+  },
+  {
+   "word": "72,",
+   "start": 36.86,
+   "end": 37.5
+  },
+  {
+   "word": "o",
+   "start": 38.28,
+   "end": 38.46
+  },
+  {
+   "word": "quarto",
+   "start": 38.46,
+   "end": 38.8
+  },
+  {
+   "word": "começa",
+   "start": 38.8,
+   "end": 39.26
+  },
+  {
+   "word": "a",
+   "start": 39.26,
+   "end": 39.4
+  },
+  {
+   "word": "mostrar",
+   "start": 39.4,
+   "end": 39.68
+  },
+  {
+   "word": "coisas",
+   "start": 39.68,
+   "end": 40.18
+  },
+  {
+   "word": "que",
+   "start": 40.18,
+   "end": 40.42
+  },
+  {
+   "word": "não",
+   "start": 40.42,
+   "end": 40.7
+  },
+  {
+   "word": "estão",
+   "start": 40.7,
+   "end": 41.02
+  },
+  {
+   "word": "lá.",
+   "start": 41.02,
+   "end": 41.26
+  },
+  {
+   "word": "O",
+   "start": 41.64,
+   "end": 41.74
+  },
+  {
+   "word": "recorde",
+   "start": 41.74,
+   "end": 42.22
+  },
+  {
+   "word": "humano,",
+   "start": 42.22,
+   "end": 42.48
+  },
+  {
+   "word": "sem",
+   "start": 42.68,
+   "end": 42.9
+  },
+  {
+   "word": "dormir,",
+   "start": 42.9,
+   "end": 43.18
+  },
+  {
+   "word": "é",
+   "start": 43.6,
+   "end": 43.7
+  },
+  {
+   "word": "de",
+   "start": 43.7,
+   "end": 43.84
+  },
+  {
+   "word": "11",
+   "start": 43.84,
+   "end": 44.22
+  },
+  {
+   "word": "dias,",
+   "start": 44.22,
+   "end": 44.6
+  },
+  {
+   "word": "mas",
+   "start": 45.08,
+   "end": 45.3
+  },
+  {
+   "word": "o",
+   "start": 45.3,
+   "end": 45.44
+  },
+  {
+   "word": "corpo",
+   "start": 45.44,
+   "end": 45.74
+  },
+  {
+   "word": "pode",
+   "start": 45.74,
+   "end": 46.08
+  },
+  {
+   "word": "desistir",
+   "start": 46.08,
+   "end": 46.64
+  },
+  {
+   "word": "antes.",
+   "start": 46.64,
+   "end": 46.98
+  },
+  {
+   "word": "O",
+   "start": 47.44,
+   "end": 47.58
+  },
+  {
+   "word": "maior",
+   "start": 47.58,
+   "end": 47.82
+  },
+  {
+   "word": "perigo",
+   "start": 47.82,
+   "end": 48.36
+  },
+  {
+   "word": "nem",
+   "start": 48.36,
+   "end": 48.68
+  },
+  {
+   "word": "é",
+   "start": 48.68,
+   "end": 48.88
+  },
+  {
+   "word": "o",
+   "start": 48.88,
+   "end": 48.98
+  },
+  {
+   "word": "sono,",
+   "start": 48.98,
+   "end": 49.3
+  },
+  {
+   "word": "é",
+   "start": 49.64,
+   "end": 49.78
+  },
+  {
+   "word": "ficar",
+   "start": 49.78,
+   "end": 50.02
+  },
+  {
+   "word": "sentado",
+   "start": 50.02,
+   "end": 50.74
+  },
+  {
+   "word": "sem",
+   "start": 50.74,
+   "end": 51.14
+  },
+  {
+   "word": "água",
+   "start": 51.14,
+   "end": 51.54
+  },
+  {
+   "word": "com",
+   "start": 51.54,
+   "end": 51.86
+  },
+  {
+   "word": "o",
+   "start": 51.86,
+   "end": 52.04
+  },
+  {
+   "word": "coração",
+   "start": 52.04,
+   "end": 52.36
+  },
+  {
+   "word": "no",
+   "start": 52.36,
+   "end": 52.6
+  },
+  {
+   "word": "limite.",
+   "start": 52.6,
+   "end": 53.12
+  },
+  {
+   "word": "E",
+   "start": 53.56,
+   "end": 53.76
+  },
+  {
+   "word": "se",
+   "start": 53.76,
+   "end": 53.84
+  },
+  {
+   "word": "você",
+   "start": 53.84,
+   "end": 54.06
+  },
+  {
+   "word": "sobrevivesse?",
+   "start": 54.06,
+   "end": 54.88
+  },
+  {
+   "word": "Sem",
+   "start": 55.36,
+   "end": 55.54
+  },
+  {
+   "word": "dormir,",
+   "start": 55.54,
+   "end": 55.84
+  },
+  {
+   "word": "o",
+   "start": 56.24,
+   "end": 56.3
+  },
+  {
+   "word": "cérebro",
+   "start": 56.3,
+   "end": 56.78
+  },
+  {
+   "word": "não",
+   "start": 56.78,
+   "end": 57.02
+  },
+  {
+   "word": "grava",
+   "start": 57.02,
+   "end": 57.44
+  },
+  {
+   "word": "memórias,",
+   "start": 57.44,
+   "end": 58.02
+  },
+  {
+   "word": "você",
+   "start": 58.42,
+   "end": 58.58
+  },
+  {
+   "word": "esperou",
+   "start": 58.58,
+   "end": 59.0
+  },
+  {
+   "word": "13",
+   "start": 59.0,
+   "end": 59.48
+  },
+  {
+   "word": "anos",
+   "start": 59.48,
+   "end": 59.92
+  },
+  {
+   "word": "e",
+   "start": 59.92,
+   "end": 60.48
+  },
+  {
+   "word": "não",
+   "start": 60.48,
+   "end": 60.6
+  },
+  {
+   "word": "ia",
+   "start": 60.6,
+   "end": 60.8
+  },
+  {
+   "word": "lembrar",
+   "start": 60.8,
+   "end": 61.2
+  },
+  {
+   "word": "de",
+   "start": 61.2,
+   "end": 61.36
+  },
+  {
+   "word": "quase",
+   "start": 61.36,
+   "end": 61.62
+  },
+  {
+   "word": "nada.",
+   "start": 61.62,
+   "end": 62.06
+  }
+ ]
+}
