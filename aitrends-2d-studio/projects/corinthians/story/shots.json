@@ -1,0 +1,928 @@
+{
+ "title": "Corinthians",
+ "duration": 92.7,
+ "shots": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "end": 3.4,
+   "line": "E se você fosse técnico do Corinthians por um dia?",
+   "scene": "Dawn: the new coach in a white tracksuit walks out of the tunnel onto the empty pitch, clipboard; badge TÉCNICO",
+   "set": "stadium",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whistle",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s02",
+   "start": 3.4,
+   "end": 6.75,
+   "line": "Porra, logo na quarta contra o Galo?",
+   "scene": "Calendar insert: QUARTA circled in red, x GALO with a rooster silhouette",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s03",
+   "start": 6.75,
+   "end": 10.55,
+   "line": "Parabéns, já pode ir escrevendo o discurso de despedida.",
+   "scene": "Coach at the desk writing a paper titled DISCURSO DE DESPEDIDA, ironic PARABÉNS confetti",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s04",
+   "start": 10.55,
+   "end": 12.7,
+   "line": "Oito da manhã, você assume.",
+   "scene": "Clock 08:00: club office in morning light, coach sits in the big chair, the president hands him the clipboard",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s05",
+   "start": 12.7,
+   "end": 15.1,
+   "line": "Dorival caiu. Diniz caiu.",
+   "scene": "Wall of former-coach portrait frames: two frames drop off the wall one after the other",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 1.7,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s06",
+   "start": 15.1,
+   "end": 16.5,
+   "line": "Você é o próximo.",
+   "scene": "Your portrait now on the wall, wobbling; the nail is loose",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s07",
+   "start": 16.5,
+   "end": 18.35,
+   "line": "Puta que pariu.",
+   "scene": "Coach medium, facepalm then hands on head",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s08",
+   "start": 18.35,
+   "end": 20.9,
+   "line": "Nove horas, você pede reforço.",
+   "scene": "Clock 09:00: coach on the phone at a whiteboard with REFORÇOS? and empty slots",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "phonering",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s09",
+   "start": 20.9,
+   "end": 24.0,
+   "line": "A dívida é de 2,7 bilhões.",
+   "scene": "Debt card: counter R$ 2,7 BILHÕES in red, coin stacks rising",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 2.0,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s10",
+   "start": 24.0,
+   "end": 26.85,
+   "line": "Dá nem pra contratar um gandula parcelado, caralho.",
+   "scene": "A ball boy with a price tag 12x; the card machine says RECUSADO",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "buzz",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s11",
+   "start": 26.85,
+   "end": 29.95,
+   "line": "Dez horas, o salário de outubro atrasou.",
+   "scene": "Clock 10:00: calendar OUTUBRO with an ATRASADO stamp slamming on payday",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.3,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s12",
+   "start": 29.95,
+   "end": 31.9,
+   "line": "O seu nem pergunta.",
+   "scene": "Coach holds his own payslip: SALÁRIO ???, shrugs",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s13",
+   "start": 31.9,
+   "end": 35.0,
+   "line": "Meio dia, avião pra BH, turbulência.",
+   "scene": "Clock 12:00: plane over the clouds, route SP to BH, shaking in turbulence",
+   "set": "plane",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 1.8,
+     "name": "wind",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s14",
+   "start": 35.0,
+   "end": 37.6,
+   "line": "É a coisa mais estável do seu dia.",
+   "scene": "Bars ESTABILIDADE: AVIÃO high, SEU DIA almost zero",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s15",
+   "start": 37.6,
+   "end": 40.3,
+   "line": "Três da tarde, sábado tem eleição.",
+   "scene": "Clock 15:00: ballot box with votes dropping in; ELEIÇÃO SÁBADO",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s16",
+   "start": 40.3,
+   "end": 42.9,
+   "line": "Seu chefe pode cair antes de você.",
+   "scene": "The club president in a suit on a wobbly chair; the legs snap and he drops; coach watches",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s17",
+   "start": 42.9,
+   "end": 46.75,
+   "line": "Seis da tarde, a campanha já foi pior que a do rebaixamento.",
+   "scene": "Clock 18:00: chart, the REBAIXAMENTO line and the AGORA line diving below it",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s18",
+   "start": 46.75,
+   "end": 48.8,
+   "line": "Oito da noite, bola rola.",
+   "scene": "3D: night stadium under floodlights, crowd, camera swoops down to the centre circle; clock 20:00",
+   "set": "stadium3d",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "whistle",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s19",
+   "start": 48.8,
+   "end": 50.9,
+   "line": "Não deu nem trinta segundos.",
+   "scene": "Scoreboard clock racing 00:00 -> 00:28, attackers rushing",
+   "set": "stadium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s20",
+   "start": 50.9,
+   "end": 51.9,
+   "line": "Gol do Galo.",
+   "scene": "Ball rips into the net, the black-shirt striker; scoreboard 0 x 1; flash",
+   "set": "stadium",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "kick",
+     "gain": -6
+    },
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -6
+    },
+    {
+     "at": 0.3,
+     "name": "cheer",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s21",
+   "start": 51.9,
+   "end": 55.15,
+   "line": "De um cara que não tinha feito um gol na temporada inteira.",
+   "scene": "Stat card: GOLS NA TEMPORADA 0 -> 1 for the scorer",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s22",
+   "start": 55.15,
+   "end": 57.65,
+   "line": "Na temporada inteira, porra.",
+   "scene": "bigFace coach furious on the sideline",
+   "set": "stadium",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s23",
+   "start": 57.65,
+   "end": 60.65,
+   "line": "Oito e um. A Fiel já pediu sua cabeça.",
+   "scene": "Clock 20:01: the stands, fans pointing, banners FORA; tiny coach at the touchline",
+   "set": "stadium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "murmur",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s24",
+   "start": 60.65,
+   "end": 63.95,
+   "line": "Intervalo. Você faz a palestra da sua vida.",
+   "scene": "Halftime: locker room, coach gives a passionate speech at the tactics board, players on the bench",
+   "set": "locker",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whistle",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s25",
+   "start": 63.95,
+   "end": 65.75,
+   "line": "O time volta pior.",
+   "scene": "Top-down pitch: the team arrows run backwards; badge PIOR",
+   "set": "bp",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s26",
+   "start": 65.75,
+   "end": 69.35,
+   "line": "Nove da noite, você olha pro banco procurando uma solução.",
+   "scene": "Clock 21:00: coach turns to the bench searching for a solution",
+   "set": "stadium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s27",
+   "start": 69.35,
+   "end": 71.15,
+   "line": "O banco olha de volta.",
+   "scene": "The subs on the bench stare blankly straight back at the camera",
+   "set": "stadium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s28",
+   "start": 71.15,
+   "end": 74.95,
+   "line": "Mas calma. Quarta passada, quatro a zero no Botafogo.",
+   "scene": "Flashback last Wednesday: scoreboard 4 x 0, team celebrating, warm tint",
+   "set": "stadium",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "cheer",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s29",
+   "start": 74.95,
+   "end": 76.8,
+   "line": "Hat-trick do Caio César.",
+   "scene": "Number 9 in white holds up three balls: HAT-TRICK",
+   "set": "stadium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 0.9,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s30",
+   "start": 76.8,
+   "end": 81.65,
+   "line": "Corintiano te manda tomar no cu na segunda e te pede em casamento na quarta.",
+   "scene": "The fan: SEGUNDA shouting angry -> QUARTA kneeling with a ring",
+   "set": "stadium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.8,
+     "name": "whoosh",
+     "gain": -12
+    },
+    {
+     "at": 3.3,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s31",
+   "start": 81.65,
+   "end": 83.95,
+   "line": "No Corinthians, técnico não tem contrato.",
+   "scene": "Contract paper, a red X stamps across CONTRATO",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s32",
+   "start": 83.95,
+   "end": 85.9,
+   "line": "Tem prazo de validade.",
+   "scene": "A product label sticks on the coach: VALIDADE: QUARTA, barcode",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s33",
+   "start": 85.9,
+   "end": 88.25,
+   "line": "Se esse vexame acontece de verdade,",
+   "scene": "Night stadium wide, the floodlights powering on one by one",
+   "set": "stadium",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s34",
+   "start": 88.25,
+   "end": 92.7,
+   "line": "quarta, oito da noite, a gente descobre.",
+   "scene": "bigFace coach sweating; QUARTA · 20:00 countdown title",
+   "set": "stadium",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -10
+    },
+    {
+     "at": 3.6,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   },
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 10.55,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 10.55,
+   "end": 46.75,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 46.75,
+   "end": 60.65,
+   "mood": "action",
+   "intensity": 0.75
+  },
+  {
+   "start": 60.65,
+   "end": 71.15,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 71.15,
+   "end": 81.65,
+   "mood": "triumph",
+   "intensity": 0.6
+  },
+  {
+   "start": 81.65,
+   "end": 92.7,
+   "mood": "tension",
+   "intensity": 0.55
+  }
+ ],
+ "sfx": []
+}
